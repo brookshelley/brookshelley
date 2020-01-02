@@ -1,11 +1,9 @@
 ---
-layout: posts
+type: posts
+date: 2014-03-04
 title: on being alone
 description: post-divorce thoughts
-categories: blog
 ---
-
-# on being alone.
 
 A bit about this last few months.
 

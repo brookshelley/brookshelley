@@ -1,11 +1,10 @@
 ---
-layout: posts
 title: The Allure of the Minimal and Disconnected
+date: 2013-04-26
 description: writing on minimalism
-categories: blog
+type: posts
 ---
 
-# The Allure of the Minimal and Disconnected
 
 ## The Future
 
