@@ -24,6 +24,6 @@ jobs:
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v2
       env:
-        PERSONAL_TOKEN: 2fd1f78157f127dd0a7f751902397f38548c548a
+        PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
         PUBLISH_BRANCH: master
         PUBLISH_DIR: ./public
