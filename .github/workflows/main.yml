@@ -27,3 +27,5 @@ jobs:
         PERSONAL_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
         PUBLISH_BRANCH: docs
         PUBLISH_DIR: /public
+      with:
+        keepFiles: true
