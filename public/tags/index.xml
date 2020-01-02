@@ -7,9 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Copyright Brook Shelley 2020</copyright>
+    <lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://brookshelley.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>movies</title>
+      <link>http://brookshelley.com/tags/movies/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://brookshelley.com/tags/movies/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
