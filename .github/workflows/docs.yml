@@ -25,7 +25,7 @@ jobs:
       - name: Build
         run: make docs
       - name: add nojekyll
-        run: touch /public/.nojekyll
+        run: touch ./public/.nojekyll
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v2.4.0
         with:
