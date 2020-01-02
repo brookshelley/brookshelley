@@ -22,7 +22,7 @@
 						{{ else if gt (len .RawContent) 120 }}
 						{{ slicestr .RawContent 0 120 }}...
 						{{ else }}
-						{{ .RawContent }}
+						{{ .RawContent | markdownify }}
 						{{ end }}
 					</span>
 				</div>
