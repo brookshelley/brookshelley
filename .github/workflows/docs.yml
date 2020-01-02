@@ -5,7 +5,7 @@ on:
     branches:
       - master
     paths:
-      - 'brookshelley/public/**'
+      - 'public/**'
 
 jobs:
   build:
