@@ -38,28 +38,28 @@ paginate = 5
     identifier = "about"
     name = "about"
     pre = "<i class='fa fa-heart'></i>"
-    url = "/about/"
+    url = "/about"
     weight = 3
 
   [[menu.main]]
     name = "book list"
     post = "<span class='alert'>New!</span>"
     pre = "<i class='fa fa-road'></i>"
-    url = "/books/"
+    url = "/books"
     weight = -100
   
   [[menu.main]]
     name = "movie list"
     post = "<span class='alert'>New!</span>"
     pre = "<i class='fa fa-road'></i>"
-    url = "/movies/"
+    url = "/movies"
     weight = -100
 
   [[menu.main]]
     name = "writing"
     post = "<span class='alert'>New!</span>"
     pre = "<i class='fa fa-road'></i>"
-    url = "/writing/"
+    url = "/writing"
     weight = -100
 
 [[menu.main]]
