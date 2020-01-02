@@ -19,7 +19,7 @@ paginate = 5
 	disableDisqusTypes = ["page", "posts"]
 	disableDateTypes = ["page"]
         featherIconsCDN = true
-	favicon = "icons/myicon.png"
+	favicon = "https://brookshelley.com/IMG_0017%20copy.png"
 	logo = "https://brookshelley.com/IMG_0017%20copy.png"
 
         mode = "dark" # "dark", "auto", "light"
@@ -47,7 +47,7 @@ paginate = 5
     pre = "<i class='fa fa-road'></i>"
     url = "/books"
     weight = -100
-  
+
   [[menu.main]]
     name = "movie list"
     post = "<span class='alert'>New!</span>"
