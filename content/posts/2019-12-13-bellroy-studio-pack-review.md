@@ -4,21 +4,20 @@ title: "Bellroy Studio Pack Review"
 date: 2019-12-13
 tags:
   - backpacks
-category: blog
-blog: true
+description: a review of a great backpack
 ---
 
 ![Bellroy Studio Backpack](/assets/photos/bellroybackpack.jpeg)
 
-A new backpack for everyday carry, and travel. 
+A new backpack for everyday carry, and travel.
 
 ## First Sight
 
-After first getting my new Bellroy sling, I fell in love with the delightful material for these bags. A few months later in Iitoya in Japan, I got to see their new Shift backpack in person, and almost bought one on the spot. that bag was a little larger than I need, but then I saw [this](https://bellroy.com/products/studio-backpack/venture/black). With the launch of the Studio Backpack, Bellroy has made an excellent bag that holds a little or a lot without every looking absurd. 
+After first getting my new Bellroy sling, I fell in love with the delightful material for these bags. A few months later in Iitoya in Japan, I got to see their new Shift backpack in person, and almost bought one on the spot. that bag was a little larger than I need, but then I saw [this](https://bellroy.com/products/studio-backpack/venture/black). With the launch of the Studio Backpack, Bellroy has made an excellent bag that holds a little or a lot without every looking absurd.
 
 ## Sizing
 
-For quite a while, I’ve [brought my Topo Trip Pack](https://www.brookshelley.com/blog/2019/11/06/devreltour-packing-list.html) to work as it fits my coffee bottle, iPad, journal, and a few other things perfectly. Adding in a spare jacket could stuff it pretty tight, but I preferred that to hauling a bag that was typically too large. With the Studio Backpack, my everyday stuff fits well, with ample space, but the shallow depth of the bag means it looks nice even unloaded. 
+For quite a while, I’ve [brought my Topo Trip Pack](https://www.brookshelley.com/blog/2019/11/06/devreltour-packing-list.html) to work as it fits my coffee bottle, iPad, journal, and a few other things perfectly. Adding in a spare jacket could stuff it pretty tight, but I preferred that to hauling a bag that was typically too large. With the Studio Backpack, my everyday stuff fits well, with ample space, but the shallow depth of the bag means it looks nice even unloaded.
 
 ### Measurements
 

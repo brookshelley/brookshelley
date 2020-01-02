@@ -2,6 +2,7 @@
 type: posts
 title: "My Favorite Movies of 2019"
 date: 2020-01-01
+description: movies I loved this year
 tags:
   - movies
 ---

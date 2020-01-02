@@ -4,7 +4,7 @@ title: "Media diet for December"
 date: 2019-12-31
 tags:
   - Media diet
-category: mediadiet
+description: what I watched and read this month
 ---
 
 ## Books
@@ -15,7 +15,7 @@ A gorgeous and sad book that captures long relationships so well. I loved for na
 
 **Dead Astronauts** — Jeff Vandermeer
 
-This book did some interesting things with time, and some deeply annoying things with text. I feel like I know what he was doing with this book largely, and support his environmental aims (a+ murderous blue fox), but it never really came together for me. 
+This book did some interesting things with time, and some deeply annoying things with text. I feel like I know what he was doing with this book largely, and support his environmental aims (a+ murderous blue fox), but it never really came together for me.
 
 **Interference** — Sue Burke
 
@@ -33,7 +33,7 @@ A blast! I love car racing so much, and this film was a gorgeous vision of a fam
 
 **Uncut Gems**
 
-This was wild! From front to back this movie was a rollercoaster of poor decision-making and the world of vigs, 3 way parlay, and Kevin Garnet. Adam Sandler showed that he could really act in Punch Drunk Love, and he absolutely owns in Uncut Gems. 
+This was wild! From front to back this movie was a rollercoaster of poor decision-making and the world of vigs, 3 way parlay, and Kevin Garnet. Adam Sandler showed that he could really act in Punch Drunk Love, and he absolutely owns in Uncut Gems.
 
 **One Cut of the Dead**
 
