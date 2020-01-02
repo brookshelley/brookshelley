@@ -1,4 +1,4 @@
-baseURL = "https://frosty-stonebraker-c9b5c7.netlify.com"
+baseURL = "https://frosty-stonebraker-c9b5c7.netlify.com/"
 languageCode = "en-us"
 title = "Fennel & Dill"
 theme = "ezhil"
