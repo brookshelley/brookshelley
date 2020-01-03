@@ -26,7 +26,7 @@
 	<div>
 	<h2 class="title">All Media Diets</h2>
 	<ul>
-	{{ range .Site.Taxonomies.tags }}
+	{{ range .Site.Taxonomies.tags.mediadiet }}
 					<li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> {{ .Count }}</li>
 	{{ end }}
 </ul>
