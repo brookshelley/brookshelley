@@ -1,6 +1,9 @@
 ---
 type: posts
 title: june
+date: 2018-06-24
+tags:
+  - mediadiet
 description: media diet
 categories: mediadiet
 ---

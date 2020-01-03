@@ -1,6 +1,9 @@
 ---
 type: posts
 title: the old is new again
+tags:
+  - process
+date: 2018-08-11
 description: posting on my blog
 categories: blog
 ---

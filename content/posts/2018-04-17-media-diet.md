@@ -1,8 +1,11 @@
 ---
 type: posts
 title: april
+date: 2018-04-17
 description: media diet
 categories: mediadiet
+tags:
+  - mediadiet
 ---
 
 ## Books
