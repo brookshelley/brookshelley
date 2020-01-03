@@ -1,4 +1,9 @@
-# movie list
+---
+title: "bovie list"
+draft: false
+type: page
+---
+
 _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019)_
 
 ## 2019 <a name="2019"></a>
@@ -12,7 +17,7 @@ A blast! I love car racing so much, and this film was a gorgeous vision of a fam
 
 **Uncut Gems**
 
-This was wild! From front to back this movie was a rollercoaster of poor decision-making and the world of vigs, 3 way parlay, and Kevin Garnet. Adam Sandler showed that he could really act in Punch Drunk Love, and he absolutely owns in Uncut Gems. 
+This was wild! From front to back this movie was a rollercoaster of poor decision-making and the world of vigs, 3 way parlay, and Kevin Garnet. Adam Sandler showed that he could really act in Punch Drunk Love, and he absolutely owns in Uncut Gems.
 
 **One Cut of the Dead**
 
@@ -1555,4 +1560,3 @@ world of the star war.
 
 Nothing could redeem this absolute shitpile. We thought it would be funny to
 watch a movie about Kevin Spacey as a cat, but it was _unbearably_ bad. Avoid.
-

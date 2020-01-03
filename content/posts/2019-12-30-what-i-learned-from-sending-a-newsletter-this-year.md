@@ -1,5 +1,5 @@
 ---
-layout: posts
+type: posts
 title: "What I learned from sending a newsletter this year"
 date: 2019-12-30
 tags:

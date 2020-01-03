@@ -1,5 +1,5 @@
 ---
-layout: posts
+type: posts
 title: "My Favorite Books of 2019"
 date: 2019-12-16
 tags:

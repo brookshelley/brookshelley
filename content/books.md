@@ -17,7 +17,7 @@ A gorgeous and sad book that captures long relationships so well. I loved for na
 
 **Dead Astronauts** — Jeff Vandermeer
 
-This book did some interesting things with time, and some deeply annoying things with text. I feel like I know what he was doing with this book largely, and support his environmental aims (a+ murderous blue fox), but it never really came together for me. 
+This book did some interesting things with time, and some deeply annoying things with text. I feel like I know what he was doing with this book largely, and support his environmental aims (a+ murderous blue fox), but it never really came together for me.
 
 **Interference** — Sue Burke
 
@@ -1178,4 +1178,3 @@ upsetting story. A lot of this had me wondering: straight people, are you ok?
 [**](#ghost) <a name="ghost"></a> Ghost Book Club
 
 [***](#scifi) <a name="scifi"></a> Sci-fi/Fantasy Book Club
-

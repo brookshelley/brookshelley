@@ -1,4 +1,8 @@
-# writing
+---
+title: "writing"
+draft: false
+type: page
+---
 
 ## online
 <hr>
