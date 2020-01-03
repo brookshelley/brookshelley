@@ -1,7 +1,10 @@
 ---
 type: posts
+date: 2018-10-30
 title: october
 description: media diet
+tags
+  - mediadiet
 categories: mediadiet
 ---
 

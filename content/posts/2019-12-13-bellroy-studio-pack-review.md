@@ -4,6 +4,7 @@ title: "Bellroy Studio Pack Review"
 date: 2019-12-13
 tags:
   - backpacks
+  - reviews
 description: a review of a great backpack
 ---
 

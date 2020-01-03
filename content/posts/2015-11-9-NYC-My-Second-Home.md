@@ -1,6 +1,9 @@
 ---
 type: posts
 title: NYC
+tags:
+  - thoughts
+date: 2015-11-09
 description: what I love about NYC
 categories: blog
 ---

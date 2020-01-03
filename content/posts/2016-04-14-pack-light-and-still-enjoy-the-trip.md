@@ -1,6 +1,9 @@
 ---
 type: posts
 title: pack light and still enjoy the trip
+tags:
+  - backpacks
+date: 2016-04-14
 description: Why I choose to travel with a 16L bag everywhere I go.
 categories: blog
 ---

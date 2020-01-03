@@ -1,6 +1,10 @@
 ---
 type: posts
+date: 2018-11-07
 title: 2018 iPad Pro Review
+tags:
+  - iPad
+  - review
 description: the best iPad I've ever used
 categories: blog
 ---

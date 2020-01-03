@@ -1,5 +1,5 @@
 ---
-title: "bovie list"
+title: "movie list"
 draft: false
 type: page
 ---

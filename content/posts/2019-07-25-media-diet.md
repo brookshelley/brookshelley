@@ -1,8 +1,11 @@
 ---
-layout: posts
+type: posts
 title: july
+date: 2019-07-25
 description: media diet
 categories: mediadiet
+tags:
+  - mediadiet
 ---
 
 ## Books

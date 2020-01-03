@@ -1,6 +1,7 @@
 ---
-layout: posts
+type: posts
 title: wardrobe refresh
+date: 2019-08-20
 description: things to wear
 categories: blog
 ---

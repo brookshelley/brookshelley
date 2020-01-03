@@ -4,6 +4,9 @@ title: 2019 iOS Homescreen
 date: 2019-11-28
 description: 2019 iOS Homescreen Update
 categories: blog
+tags:
+  - iPhone
+  - homescreen
 ---
 
 Another year has rushed past, and with it, another iPhone update and some changes to my phone since [last year's setup](https://www.brookshelley.com/blog/2018/12/14/2018-iphone-homescreen-update.html). My use of a single screen of apps continues, with a few major and minor changes alongside.

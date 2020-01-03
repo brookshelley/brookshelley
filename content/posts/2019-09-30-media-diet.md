@@ -4,6 +4,8 @@ title: september
 date: 2019-09-30
 description: media diet
 categories: mediadiet
+tags:
+  - mediadiet
 ---
 
 # Media diet for September

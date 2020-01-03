@@ -4,6 +4,8 @@ date: 2019-11-30
 title: Media diet for November
 description: november media diet
 categories: mediadiet
+tags:
+  - mediadiet
 ---
 
 It’s finally chilly hygge-weather in the Bay Area, so I’ve been reading a lot after returning from a long trip to Japan. I hope wherever you are, you’re warm and feel loved.

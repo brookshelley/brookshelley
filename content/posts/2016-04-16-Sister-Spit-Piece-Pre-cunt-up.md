@@ -1,6 +1,9 @@
 ---
 type: posts
 title: sister spit
+date: 2016-04-16
+tag:
+  - prose
 description: writing on lesbian history
 categories: blog
 ---
