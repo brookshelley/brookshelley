@@ -33,6 +33,11 @@ paginate = 5
     name = "archive"
     url = "/posts"
     weight = 1
+    
+  [[menu.main]]
+    name = "media diet"
+    url = "/tags/mediadiet/"
+    weight = 0
 
   [[menu.main]]
     identifier = "about"
