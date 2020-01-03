@@ -23,9 +23,9 @@
 			{{- end -}}
 		</ul>
 	</div>
-	<div>
+	<div class="container wrapper list">
 	<h2 class="title">All Media Diets</h2>
-	<ul>
+	<ul class="posts">
 	{{ range .Site.Taxonomies.tags.mediadiet }}
 					<li><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a> {{ .Count }}</li>
 	{{ end }}
