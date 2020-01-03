@@ -2,6 +2,9 @@
 layout: posts
 title: 2018 in Review
 description: a long year full of change
+date: 2018-12-22
+tags:
+  - reviews
 categories: blog
 ---
 

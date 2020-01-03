@@ -1,8 +1,11 @@
 ---
-layout: posts
+type: posts
 title: my favorite albums of the year
 description: my 2018 albums of the year
 categories: blog
+date: 2018-12-20
+tags:
+  - music
 ---
 
 _in no particular order_ [On Apple Music](https://itunes.apple.com/us/playlist/favorites-of-2018/pl.u-PJExpCqGgBj)
