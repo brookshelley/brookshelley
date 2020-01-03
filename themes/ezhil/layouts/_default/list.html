@@ -14,7 +14,7 @@
 
 		<ul class="posts">
 			{{- range .Data.Pages -}}
-			{{- if (in (.Site.Params.excludedTypes | or range .Site.Taxonomies.tags.mediadiet | default (slice "page")) .Type) -}}
+			{{- if (in (.Site.Params.excludedTypes | not in .Site.Taxonomies.tags.mediadiet | default (slice "page")) .Type) -}}
 			{{- else -}}
 			<li class="post">
 				<a href="{{ .RelPermalink }}">{{.Title}}</a> <span class="meta">{{ dateFormat "Jan 2, 2006" .Date }}{{ if .Draft }} <span class="draft-label">DRAFT</span> {{ end }}</span>
