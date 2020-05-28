@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+{{ partial "header.html" . }}
+<body>
+<div class="grid">
+	{{ partial "topbar.html" . }}
+	<div><h1 class="title">{{ .Title }}</h1></div>
+	<div>5</div>
+	<div>6</div>
+	<div class="markdown">
+		{{ .Content }}
+	</div>
+	<div>8</div>
+	<div class="about"><a href="/about.html">about</a> <br /> brook 2020</div>
+</div>
+</body>
+</html>
+<body>
+
+		<div class="post-tags">
+			{{ if ne .Type "page" }}
+			{{ if gt .Params.tags 0 }}
+			<nav class="nav tags">
+				<ul class="flat">
+					{{ range .Params.tags }}
+					<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
+					{{ end }}
+				</ul>
+			</nav>
+			{{ end }}
+			{{ end }}
+		</div>
+	</div>
+	{{ partial "footer.html" . }}
+</body>
+
+</html>

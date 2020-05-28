@@ -1,0 +1,36 @@
+<html>
+{{ partial "header.html" . }}
+  <body>
+  <div class="grid">
+    {{ partial "topbar.html" . }}
+    <div>4</div>
+    <div>5</div>
+    <div>6</div>
+    <div>7
+      <!--Leaving this here to add page shit later
+
+      {{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+    {{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
+    {{ range $paginator.Pages }}
+    <div class="post">
+      <div class="meta">{{ dateFormat "Jan 2, 2006" .Date }}
+      <a class="blogtitle" href="{{ .RelPermalink }}">{{.Title}}</a> &mdash;
+      <span class="description">
+        {{ if isset .Params "description" }}
+        {{ .Description }}
+        {{ else if gt (len .RawContent) 120 }}
+        {{ slicestr .RawContent 0 120 }}...
+        {{ else }}
+        {{ .RawContent | markdownify }}
+        {{ end }}
+      </span>
+    </div>
+    {{ end }}-->
+
+    {{ template "partials/paginator.html" . }}
+    </div>
+    <div>8</div>
+    <div class="about"><a href="/about.html">about</a> <br /> brook 2020</div>
+  </div>
+  </body>
+</html>
