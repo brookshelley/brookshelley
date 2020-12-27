@@ -1,8 +1,10 @@
-<header">
-	<h1 class="site-title">
-		<a href="{{ .Site.BaseURL }}"> <img class="logo" src={{ .Site.Params.logo }} alt="thanks helen" height="33"
-				width="33" />
-			{{ .Site.Title }}</a></h1>
+<header>
+	<div>
+		<a href="{{ .Site.BaseURL }}" class="logo" src={{ .Site.Params.logo }} alt="thanks helen" height="33" width="33" />
+	</div>
+	<div class="site-title">
+			<a href "{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
+	</div>
 	<nav>
 		{{ $current := . }}
 		<ul class="flat">
