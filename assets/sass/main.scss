@@ -1,0 +1,351 @@
+/*--------
+ Variables 
+ --------*/
+ 
+ /*fonts*/
+$spacing-max-width: 40;
+$font-body: Garamond, Georgia, Times, Times New Roman, serif;
+$font-title: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+$font-default: 18px;
+$font-s: 16px;
+$font-l: 22px;
+$font-xl: 37px;
+$font-line-height: 24px;
+
+/*colors*/
+$dark-bg: #000;
+$light-bg: snow;
+$dark: snow;
+$light: #404040;
+$accent: #603ad0;
+$selection: #8f75de;
+
+/*dark and light*/
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: $dark;
+    background-color: $dark-bg;
+    font: $font-body;
+    font-weight: 200;
+    line-height: $font-line-height;
+    font-size: $font-default;
+    max-width: 95%;
+    overflow-x: hidden; }
+    .site-title a {
+      font-family: $font-title;
+      color: $dark;
+      text-decoration: none;
+      font-size: $font-xl;
+      margin-left: 0px;
+      padding-top: 60px;
+      margin-bottom: 1px; } 
+    h2 {
+      color: $dark;
+    }
+    h3 { 
+      color: $dark;
+    }}
+      
+@media (prefers-color-scheme: light) {
+  body {
+    color: #404040;
+    background-color: #F3F2F3;
+    font: $font-body;
+    font-weight: 200;
+    line-height: $font-line-height;
+    max-width: 95%;
+    font-size: $font-default;
+    overflow-x: hidden; }
+    .site-title a {
+      font-family: $font-title;
+      color: $accent;
+      text-decoration: none;
+      font-size: $font-xl;
+      margin-left: 0px;
+      padding-top: 60px;
+      margin-bottom: 1px; } 
+    h2 {
+      color: $accent; }}
+    
+
+@media (min-width: 300px){
+  :root {
+  $font-default: 16px;
+  $font-s: 14px;
+  $font-l: 20px;
+  $font-xl: 35px;
+  $font-line-height: 22px;
+  $spacing-max-width: 17; }}
+
+/*elements*/
+  
+.container {
+max-width: 70ch; }
+
+.markdown {
+  margin-left: 10px;
+  margin-right: 10px;
+  font-weight: 200;
+  max-width: 100%; }
+  
+b, strong {
+font-family: $font-title;
+font-weight: heavy; }
+
+a {
+font-family: $font-title;
+color: #603ad0;
+text-decoration: none;
+font-weight: 500; }
+
+a:hover, .active{
+font-family: $font-title;
+color: #8f75de; }
+
+html, button, input, select, textarea {
+color: #8f75de; }
+
+::-moz-selection {
+color: #8f75de; }
+
+::selection {
+color: #8f75de; }
+
+hr {
+display: block;
+height: 1px;
+border: 0;
+border-top: 1px solid #f4f4f4;
+margin-left: 10px;
+margin-right: 10px; }
+
+img {
+margin: 0px auto;
+margin-top: 10px;
+margin-bottom: 10px;
+display: block;
+max-width: 100%;
+max-height: 700px;
+height: auto; }
+
+.logo {
+margin-top: 0px;
+margin-bottom: 0px;
+margin-left: 0px;
+margin-right: 10px;
+display: block;
+float: left; }
+
+.site-title {
+line-height: 66px;
+margin-bottom: 0px; }
+
+hr, .footer {
+max-width: 100%;
+margin-bottom: 5px;
+margin-left: 10px;
+text-align: left; }
+
+h1, h2, h3 {
+font-family: $font-title; }
+
+h1 {
+color: $accent;
+font-size: $font-l;
+font-weight: 500;
+margin-top: 2em;
+margin-bottom: 1.5em; }
+  .title {
+  color: $accent;
+  font-size: $font-l;
+  font-weight: 500;
+  margin-top: 2em;
+  margin-bottom: 1.5em;
+  margin-left: 10px; }
+
+h2 {
+font-size: $font-default;
+font-weight: 500;
+margin-bottom: 1em;
+margin-top: .5em; }
+
+h3 {
+margin-bottom: 5px;
+font-weight: 500; }
+
+.archive {
+margin-top: 0px;
+margin-left: 10px;
+text-align: left;
+line-height: $font-line-height;
+float: left;
+max-width: 100%; }
+
+.archive-post a, li {
+text-align: left;
+font-size: $font-default;
+font-weight: 300;
+margin-left: 0px;
+margin-top: 5px;
+margin-bottom: 5px;
+font-weight: 300px; }
+
+ul {
+list-style: disc;
+margin: 0px auto; }
+
+li {
+margin-left: 5px;
+margin-right: 0px;
+margin-bottom: 5px; }
+
+ul.flat {
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 0px;
+margin-bottom: 0px;
+padding: 0px;
+line-height: $font-line-height; 
+  li {
+    display: inline-grid;
+    font-size: $font-default;
+    list-style: none;
+    margin-right: 5px;
+    margin-left: 5px; 
+  }}
+
+.page-title {
+margin-left: 0px;
+margin-bottom: 0px;
+font-size: $font-l;
+font-weight: 500; 
+font-family: $font-title; }
+
+.post title {
+margin-top: 10px;
+margin-bottom: 15px; }
+
+.posts .post .meta, .list {
+font-size: $font-default;
+color: #888;
+margin-left: 10px;
+max-width: 100%; }
+
+.posts .list {
+margin-top: 2em; }
+
+.post {
+float: left;
+width: 100%; }
+
+.meta {
+font-family: $font-title;
+color: #888;
+font-weight: 300;
+margin-left: 0px;
+margin-right: 0px;
+padding-right: 0px;
+margin-bottom: 0px;
+float: left;
+width: 100%;
+display: block; }
+
+.post-tags .tags a {
+margin-left: 10px;
+color: $dark; }
+
+.blogdate {
+display: block;
+min-width: 80px;
+float: left;
+margin-bottom: 15px;
+font-size: $font-s; }
+
+.blogtitle {
+font-weight: 300;
+font-size: $font-default;
+margin-left: 5px;
+margin-right: 0px;
+display: block;
+word-wrap: normal;}
+
+.description {
+font-size: $font-s;
+margin-left: 0px;
+margin-right: 5px;
+display: block;
+float: left; }
+
+.list a {
+font-size: $font-default; }
+
+.wrapper {
+max-width: $spacing-max-width;
+margin: 0 auto; }
+
+.header h1 {
+font-family: $font-title;
+font-size: $font-l;
+margin-right: 0px;
+margin-bottom: -1em;
+margin-top: 1.5em; }
+
+.header h2 {
+font-family: $font-title;
+margin: 0;
+padding: 0;
+font-size: $font-default;
+line-height: $font-line-height; }
+
+.header nav {
+font-family: $font-title;
+text-align: left;
+font-size: $font-default;
+margin-top: 30px;
+margin-left: 0px;
+margin-right: 0px;
+margin-bottom: 15px; }
+
+nav ul.flat li {
+display: inline;
+list-style: none;
+margin-left: 10px;
+margin-right: 15px;
+max-width: 100%;
+font-size: $font-l; }
+
+.section .section-header {
+font-family: $font-title;
+font-size: $font-l;
+font-weight: 500;
+text-transform: uppercase;
+color: #999;
+margin-bottom: 1px;
+letter-spacing: 1px; }
+
+.footer {
+font-family: $font-title;
+font-size: 0.75em;
+color: #696969;
+margin-top: 0px;
+max-height: 10px;
+width: 100%;
+float: left; }
+
+ul.flatfoot li {
+font-size: $font-s;
+text-align: center;
+margin-top: 0px;
+margin-bottom: 0px;
+margin-left: 5px;
+margin-right: 5px;
+background-color: #222; }
+
+.flatfoot-about {
+text-align: center;
+font-size: $font-s;
+margin-left: 0px;
+margin-right: 0px;
+margin-bottom: 0px; }
+

@@ -4,6 +4,9 @@ title: LWT NYC Summit
 date: 2015-10-05
 description: speaking at the LWT NYC summit
 categories: blog
+tags: 
+ - work
+ - conference
 ---
 
 Due to stress, the talk I am about to give usually overshadows the talks before mine. Fortunately, LWT was such a jam-packed speaker event that I was able to tune into the talks and not get eaten by nerves. There were a neat mix of 5 minute ignite talks about things like tackling systemic oppression, government tech work, and imposter syndrome. Some of these talks were similar to others I’ve heard, and the audience was so different than what I usually experience at a conference that I was a little sad we didn’t get past some of the 101 talks.
@@ -24,4 +27,4 @@ I generally enjoyed the conference, but wish the compressed Friday schedule spre
 ### TL;DR
 
 Overall, I think this is a worthwhile conference, and I am going to try to attend the SF summit as well in February.
-Feel free to hit me up with any particular questions you have. They recorded the talks during a live-stream, and you can watch any them at this link [https://www.youtube.com/watch?v=vD-nwKUZ3LI](https://www.youtube.com/watch?v=vD-nwKUZ3LI)
+Feel free to hit me up with any particular questions you have. They recorded the talks during a live-stream, and you can watch any them at [this link](https://www.youtube.com/watch?v=vD-nwKUZ3LI)

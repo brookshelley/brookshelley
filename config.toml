@@ -1,12 +1,75 @@
-baseURL = "www.brookshelley.com"
+baseURL = "https://www.brookshelley.com/"
 languageCode = "en-us"
 title = "dill & fennel"
+theme = "brook"
+
+copyright = "© Brook Shelley 2020"
+
+# Enable syntax highlighting.
+pygmentsstyle = "monokai"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+paginate = 5
+summaryLength = 20
 
 [params]
 	mainSections = ["posts"]
-  subtitle = "a blog"
+	subtitle = "a blog"
+	disableDisqusTypes = ["page", "posts"]
+	disableDateTypes = ["page"]
+	featherIconsCDN = true
 	favicon = "/favicon.ico"
 	logo = "/666.png"
+	mode = "light" # "dark", "auto", "light"
+
+	[[params.social]]
+	name = "RSS"
+	icon = "rss"
+	url = "/index.xml"
+
+	[[params.social]]
+	name = "Github"
+	icon = "github"
+	url = "https://github.com/brookshelley"
+
+	[[params.social]]
+	name = "Twitter"
+	icon = "twitter"
+	url = "https://twitter.com/brookshelley"
+
+	[[params.social]]
+	name = "newsletter"
+	icon = "mail"
+	url = "/tags/newsletter"
+
+	[[params.social]]
+	name = "about"
+	icon = "info"
+	url = "/about"
+
+[menu]
+
+	[[menu.footer]]
+		identifier = "about"
+		name = "about"
+		url = "/about"
+		weight = 1
+
+	[[menu.main]]
+		name = "read"
+		url = "/books"
+		weight = 1
+
+	[[menu.main]]
+		name = "seen"
+		url = "/movies"
+		weight = 2
+
+	[[menu.main]]
+		name = "wrote"
+		url = "/writing"
+		weight = 3
 
 [outputs]
-  home = ["HTML", "RSS"]
+		home = ["HTML", "RSS"]
