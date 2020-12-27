@@ -54,7 +54,7 @@ footer {
 
 footer p {
   font-family:var(--font-head);
-  font-size:var(--font-large)
+  font-size:12px;
 }
 
 footer img {
