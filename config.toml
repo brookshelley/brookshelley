@@ -15,10 +15,10 @@ summaryLength = 20
 
 [params]
 	mainSections = ["posts"]
-	subtitle = "a blog"
+  subtitle = "a blog"
 	disableDisqusTypes = ["page", "posts"]
 	disableDateTypes = ["page"]
-	featherIconsCDN = true
+  featherIconsCDN = true
 	favicon = "/favicon.ico"
 	logo = "/666.png"
 	mode = "light" # "dark", "auto", "light"
@@ -39,37 +39,37 @@ summaryLength = 20
 	url = "https://twitter.com/brookshelley"
 
 	[[params.social]]
-	name = "newsletter"
-	icon = "mail"
-	url = "/tags/newsletter"
+  name = "newsletter"
+  icon = "mail"
+  url = "/tags/newsletter"
 
-	[[params.social]]
-	name = "about"
-	icon = "info"
-	url = "/about"
+  [[params.social]]
+  name = "about"
+  icon = "info"
+  url = "/about"
 
 [menu]
 
-	[[menu.footer]]
-		identifier = "about"
-		name = "about"
-		url = "/about"
-		weight = 1
+  [[menu.footer]]
+    identifier = "about"
+    name = "about"
+    url = "/about"
+    weight = 1
 
-	[[menu.main]]
-		name = "read"
-		url = "/books"
-		weight = 1
+  [[menu.main]]
+    name = "read"
+    url = "/books"
+    weight = 1
 
-	[[menu.main]]
-		name = "seen"
-		url = "/movies"
-		weight = 2
+  [[menu.main]]
+    name = "seen"
+    url = "/movies"
+    weight = 2
 
-	[[menu.main]]
-		name = "wrote"
-		url = "/writing"
-		weight = 3
+  [[menu.main]]
+    name = "wrote"
+    url = "/writing"
+    weight = 3
 
 [outputs]
 		home = ["HTML", "RSS"]
