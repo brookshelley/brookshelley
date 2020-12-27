@@ -78,6 +78,11 @@ i {
 font-weight:200
 }
 
+.site-title {
+  line-height:33px;
+  margin-bottom:0
+}
+
 h1 {
   font-family: var(--font-head);
   text-transform: lowercase;
