@@ -36,6 +36,14 @@ font-family:var(--font-body);
 font-weight:200;
 }
 
+.footer {
+  font-family:var(--font-head);
+  font-size:.75em;
+  color:var(--color-default);
+  max-height:9px;
+  width:100%;
+}
+
 .logo {
   max-width:33px; 
   float:left
@@ -138,6 +146,7 @@ ul.flat {
   nav a { line-height: 21px; }
   footer {
       padding: 5vw 0;
+      max-height:9px;
   }
   div.title {
       font-size: 12px;
@@ -145,3 +154,13 @@ ul.flat {
   }
 }
 
+article {
+  margin: 4.5 0;
+}
+
+@media (min-width: 800px) {
+  article, .grid {
+      display: grid;
+      grid-template-columns: 1fr 4fr;
+  }
+}
