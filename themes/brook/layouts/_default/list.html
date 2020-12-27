@@ -12,13 +12,13 @@
 		<div>
 		<h1 class="title">archive</h1>				
 		{{ end }}
+		{{ range ( where .Site.RegularPages "Type" "posts") }}
 		  <article class="baseline">
 				<div>
 					<time>
 						{{ dateFormat "02 Jan" .Date }}
 					</time>
 				</div>
-			{{ range ( where .Site.RegularPages "Type" "posts") }}
 			<div>
 				<a href="{{ .RelPermalink }}">{{.Title}}</a>
 			</div>
