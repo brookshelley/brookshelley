@@ -78,6 +78,11 @@ max-width: 32rem;
 p a, li a, a, li {
   color: var(--color-accent);
   text-decoration: none;
+  list-style: none;
+}
+
+li {
+  font-family: var(--font-head)
 }
 
 p a:hover, li a:hover, .active {
