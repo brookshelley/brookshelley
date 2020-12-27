@@ -23,14 +23,14 @@
 				<!--div class="meta"-->
 					<!--div class="blogdate">{{ dateFormat "02 Jan" .Date }}</div-->
 					<a href="{{ .RelPermalink }}">{{.Title}}</a>
-					<!--p class="description"-->
+					<p>
 					  {{ .Description }}
-					<!--/p-->
+					<p>
 				</div>
 			</article>
 			{{ end }}
 			<h2 class="archive"><a href="/posts">archive</a></h2>
-		</main>>
+		</main>
 		
 		{{ partialCached "footer.html" . }}
 	</div>

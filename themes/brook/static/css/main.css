@@ -168,6 +168,8 @@ article {
   margin: 4.5 0;
 }
 
+article:first-of-type { margin-top: 0; }
+
 @media (min-width: 800px) {
   article, .grid {
       display: grid;
