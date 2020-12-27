@@ -1,13 +1,13 @@
-<div class="header">
+<header">
 	<h1 class="site-title">
 		<a href="{{ .Site.BaseURL }}"> <img class="logo" src={{ .Site.Params.logo }} alt="thanks helen" height="33"
 				width="33" />
 			{{ .Site.Title }}</a></h1>
-	<nav class="baseline">
+	<nav>
 		{{ $current := . }}
 		<ul class="flat">
 			{{ range .Site.Menus.main }}
-			<li class="flat">
+			<li>
 				{{ $active := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) }}
 				{{ $active = or $active (eq .Name $current.Title) }}
 				{{ $active = or $active (and (eq .Name "archive") (eq $current.Section "posts")) }}
@@ -17,4 +17,4 @@
 			{{ end }}
 		</ul>
 	</nav>
-</div>
+</header>
