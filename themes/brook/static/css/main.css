@@ -164,6 +164,13 @@ ul.flat, .flat, li.flat {
   }
 }
 
+time {
+  font-family: var(--font-head);
+  font-size: var(--font-mono);
+  text-transform: lowercase;
+  letter-spacing: 0.03em;
+}
+
 article {
   margin: 4.5 0;
 }
@@ -185,15 +192,15 @@ ul.taglist {
   list-style: none;
   padding: 0;
   margin: var(--spacing-m) 0 0;
-  font-family: var(--font-mono);
-  font-size: var(--font-monosize);
-  text-transform: uppercase;
+  font-family: var(--font-head);
+  font-size: var(--font-mono);
+  text-transform: lowercase;
   letter-spacing: 0.03em;
 }
 
 ul.taglist li {
   color: var(--color-mid);
-  font-family: var(--font-mono);
+  font-family: var(--font-head);
   line-height: var(--font-line-height);
   padding: 0;
 }
