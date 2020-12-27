@@ -39,10 +39,10 @@ font-weight:200;
 
 .header nav {
   font-family:var(--font-head);
-  text-align:left;
   font-size:var(--font-large);
   max-width:18em;
   margin-bottom:.5em;
+  margin-left:5px;
 }
 
 footer {
