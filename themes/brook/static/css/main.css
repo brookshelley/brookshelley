@@ -75,7 +75,7 @@ p {
 max-width: 32rem;
 }
 
-p a, li a, a {
+p a, li a, a, li {
   color: var(--color-accent);
   text-decoration: none;
 }
@@ -154,7 +154,7 @@ li.flat {
       align-items: baseline;
   }
   body>header {
-      padding: 3.5vw 0 9vw;
+      padding: 2.5vw 0 8vw;
   }
   body>header>div:first-child {
       top: 6px;
@@ -194,6 +194,10 @@ time {
 
 article {
   margin: 4.5 0;
+}
+
+article b {
+  font-family: var(--font-head)
 }
 
 article:first-of-type { margin-top: 0; }
