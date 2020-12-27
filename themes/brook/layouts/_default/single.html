@@ -8,8 +8,20 @@
 
 		<main>
 			<article class="baseline">
-			<div><h1 class="title2">{{ .Title }}</h1></div>
-			<div>{{ .Content }}</div>
+			<div>
+				<time>
+					{{ dateFormat "02 Jan" .Date }}
+				</time>
+			<ul class="taglist">
+				<li>tags</li>
+				{{ range .Params.tags }}
+				<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
+				{{ end }}
+			</ul>
+			</div>
+			<div><h1 class="title2">{{ .Title }}</h1>
+			{{ .Content }}
+			</div>
 			
 			<nav class="tags">
 				<ul class="flat">
@@ -22,7 +34,7 @@
 
 		</article>
 		{{ partialCached "footer.html" . }}
-	</main	>
+	</main>
 </body>
 
 </html>
