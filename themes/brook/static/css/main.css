@@ -117,7 +117,7 @@ h3 {
     letter-spacing:0;
 }
 
-ul.flat {
+ul.flat, .flat, li.flat {
   display: flex;
   margin-top:5px;
   margin-bottom:5px;
