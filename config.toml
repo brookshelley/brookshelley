@@ -12,6 +12,7 @@ pygmentscodefencesguesssyntax = true
 
 paginate = 5
 summaryLength = 20
+ignoreErrors = ["error-remote-getjson"]
 
 [params]
 	mainSections = ["posts"]
