@@ -180,6 +180,7 @@ time {
 
 .blog-title {
   font-family: var(--font-head);
+  font-size: 1rem;
 }
 
 article {
