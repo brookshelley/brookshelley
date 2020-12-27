@@ -6,21 +6,21 @@ type: media
 
 ## Ninth Letter
 
-[Trans New Wave](http://www.ninthletter.com/trans-new-wave)
+- [Trans New Wave](http://www.ninthletter.com/trans-new-wave)
 
 ## Oregon Humanities
 
-[Also Fire](http://oregonhumanities.org/rll/beyond-the-margins/also-fire/)
+- [Also Fire](http://oregonhumanities.org/rll/beyond-the-margins/also-fire/)
 
 ## The Toast
 
-[Queer Spaces](http://the-toast.net/2016/04/18/everyone-but-cis-men-creating-better-safe-spaces-for-lgbt-people/)
+- [Queer Spaces](http://the-toast.net/2016/04/18/everyone-but-cis-men-creating-better-safe-spaces-for-lgbt-people/)
 
-[Dating as a Trans Woman](http://the-toast.net/2014/09/08/dating-women-trans-woman-suggestions/)
+- [Dating as a Trans Woman](http://the-toast.net/2014/09/08/dating-women-trans-woman-suggestions/)
 
-[Transmisogyny & Disc Golf Roundtable](http://the-toast.net/2016/01/12/transmisogyny-and-disc-golfing-round-table-a-chat-with-mey-rude-brook-shelley-frances-lee-and-gabby-bellot/)
+- [Transmisogyny & Disc Golf Roundtable](http://the-toast.net/2016/01/12/transmisogyny-and-disc-golfing-round-table-a-chat-with-mey-rude-brook-shelley-frances-lee-and-gabby-bellot/)
 
-[Trans in Tech](http://the-toast.net/2014/02/07/trans-tech-industry/)
+- [Trans in Tech](http://the-toast.net/2014/02/07/trans-tech-industry/)
 
 ## [Uses This Interview](https://usesthis.com/interviews/brook.shelley/)
 
