@@ -184,6 +184,7 @@ time {
   font-size: var(--font-mono);
   text-transform: lowercase;
   letter-spacing: 0.03em;
+  color:#888;
 }
 
 .description {
