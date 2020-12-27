@@ -172,6 +172,16 @@ time {
   letter-spacing: 0.03em;
 }
 
+.description {
+  font-family: var(--font-head);
+  font-size: var(--font-mono);
+  text-transform: lowercase;
+}
+
+.blog-title {
+  font-family: var(--font-head);
+}
+
 article {
   margin: 4.5 0;
 }
