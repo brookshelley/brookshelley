@@ -87,3 +87,11 @@ h3 {
     color: var(--color-default);
     letter-spacing:0;
 }
+
+ul.flat {
+  display: flex;
+  width:100%;
+  margin-top:5px;
+  margin-bottom:0;
+  margin-right:5px;
+}
