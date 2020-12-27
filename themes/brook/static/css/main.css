@@ -216,7 +216,7 @@ article:first-of-type { margin-top: 0; }
 ul.taglist {
   list-style: none;
   padding: 0;
-  margin: 1.5 0 0;
+  margin: 1 0 0;
   font-family: var(--font-head);
   font-size: var(--font-mono);
   text-transform: lowercase;
@@ -224,7 +224,6 @@ ul.taglist {
 }
 
 ul.taglist li {
-  font-family: var(--font-head);
   line-height: var(--font-line-height);
   padding: 0;
 }
