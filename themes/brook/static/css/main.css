@@ -57,6 +57,9 @@ font-weight:200;
   max-width:33px; 
   float:left
   }
+.baseline a {
+  font-family:var(--font-head);
+}
 
 p {
 max-width: 32rem;
@@ -218,4 +221,9 @@ ul.taglist li {
 
 ul.taglist li:before {
   content: '# ';
+}
+
+.footer img {
+  max-height: 9px;
+  margin: 5px;
 }
