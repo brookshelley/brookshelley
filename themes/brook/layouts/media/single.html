@@ -6,11 +6,6 @@
 		{{ partial "header.html" . }}
 <main>
 	<article class="baseline">
-	<div>
-		<time>
-			{{ dateFormat "02 Jan" .Date }}
-		</time>
-	</div>
 	<div><h1>{{ .Title }}</h1>
 	{{ .Content }}
 	</div>
