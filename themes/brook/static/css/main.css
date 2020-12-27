@@ -37,6 +37,14 @@ font-family:var(--font-body);
 font-weight:200;
 }
 
+.header nav {
+  font-family:var(--font-head);
+  text-align:left;
+  font-size:var(--font-large);
+  max-width:18em;
+  margin-bottom:.5em;
+}
+
 .footer {
   font-family:var(--font-head);
   font-size:.75em;
@@ -86,6 +94,7 @@ font-weight:200
 
 .site-title a {
   margin-left:10px;
+  color:var(--color-default)
 }
 
 h1 {
@@ -139,24 +148,13 @@ li.flat {
       padding: 3.5vw 0 9vw;
   }
   body>header>div:first-child {
-      position: relative;
       top: 6px;
       align-self: flex-start;
   }
   body>header a.logo {
       margin-bottom: 0;
   }
-  nav {
-      margin: 0;
-      padding: 0;
-      border: none;
-  }
-  nav div {
-      display: block; 
-      text-align: right;
-      margin: 0;
-  }
-  nav a { line-height: 21px; }
+
   footer {
       padding: 5vw 0;
       max-height:9px;
