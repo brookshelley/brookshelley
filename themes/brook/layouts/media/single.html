@@ -5,11 +5,9 @@
 <body>
 		{{ partial "header.html" . }}
 <main>
-	<article class="baseline">
 	<div><h1>{{ .Title }}</h1>
 	{{ .Content }}
 	</div>
-</article>
 {{ partialCached "footer.html" . }}
 </main>
 </body>
