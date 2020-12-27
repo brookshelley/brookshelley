@@ -169,3 +169,25 @@ article {
       grid-template-columns: 1fr 4fr;
   }
 }
+
+ul.taglist {
+  list-style: none;
+  padding: 0;
+  margin: var(--spacing-m) 0 0;
+  font-family: var(--font-mono);
+  font-size: var(--font-monosize);
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+
+ul.taglist li {
+  color: var(--color-mid);
+  font-family: var(--font-mono);
+  line-height: var(--font-line-height);
+  padding: 0;
+}
+
+ul.taglist li:before {
+  content: '# ';
+  color: var(--color-dim);
+}
