@@ -36,6 +36,11 @@ font-family:var(--font-body);
 font-weight:200;
 }
 
+.logo {
+  max-width:33px; 
+  float:left
+  }
+
 p {
 max-width: 32rem;
 }
@@ -45,8 +50,16 @@ p a, li a {
   text-decoration: none;
 }
 
-p a:hover, li a:hover {
+p a:hover, li a:hover, .active {
   color: var(--color-alt);
+}
+
+::-moz-selection {
+color:#8f75de
+}
+
+::selection {
+color:#8f75de
 }
 
 b,strong {
@@ -59,7 +72,7 @@ font-weight:200
 
 h1 {
   font-family: var(--font-head);
-  text-transform: uppercase;
+  text-transform: lowercase;
   letter-spacing: 0.1rem;
   font-size: 1rem;
   -webkit-font-smoothing: antialiased;
@@ -67,7 +80,7 @@ h1 {
 
 h2 {
     font-family: var(--font-head);
-    text-transform: uppercase;
+    text-transform: lowercase;
     font-size: 0.8rem;
     letter-spacing: 0.1rem;
     margin-top: 3rem;
@@ -89,8 +102,46 @@ h3 {
 
 ul.flat {
   display: flex;
-  width:100%;
   margin-top:5px;
-  margin-bottom:0;
+  margin-bottom:5px;
   margin-right:5px;
+  list-style:none;
 }
+
+@media (min-width: 800px) {
+  body>header, footer {
+      display: grid;
+      grid-template-columns: 1fr 3fr 1fr;
+      align-items: baseline;
+  }
+  body>header {
+      padding: 3.5vw 0 9vw;
+  }
+  body>header>div:first-child {
+      position: relative;
+      top: 6px;
+      align-self: flex-start;
+  }
+  body>header a.logo {
+      margin-bottom: 0;
+  }
+  nav {
+      margin: 0;
+      padding: 0;
+      border: none;
+  }
+  nav div {
+      display: block; 
+      text-align: right;
+      margin: 0;
+  }
+  nav a { line-height: 21px; }
+  footer {
+      padding: 5vw 0;
+  }
+  div.title {
+      font-size: 12px;
+      line-height: 23px;
+  }
+}
+
