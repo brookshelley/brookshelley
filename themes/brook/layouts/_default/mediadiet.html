@@ -3,16 +3,14 @@
 {{ partialCached "head.html" . }}
 
 <body>
-	<div class="container wrapper">
+	<main>
 		{{ partial "header.html" . }}
 		<h1 class="title2">media diet</h1>
-		<div class="markdown">
 		<ul class="archive-column">
 			{{ partial "by-page-date.html" . }}
 		</ul>
-	</div>
 		{{ partialCached "footer.html" . }}
-	</div>
+	</main>
 </body>
 
 </html>
