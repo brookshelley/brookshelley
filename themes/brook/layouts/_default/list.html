@@ -26,10 +26,16 @@
 			{{ end }}
 			<h2>newsletters</h2>
 			{{ range ( where .Site.RegularPages "Type" "newsletter") }}
-			<div class="baseline">
+			<article class="baseline">
+				<div>
+					<time>
+						{{ dateFormat "02 Jan" .Date }}
+					</time>
+				</div>
+			<div>
 				<a href="{{ .RelPermalink }}">{{.Title}}</a>
-	  </div>
-
+			</div>
+			</article>
 			{{- end -}}
 		</div>
 		</main>
