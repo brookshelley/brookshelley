@@ -1,7 +1,6 @@
 <!-- Groups content by month according to the "date" field in front matter -->
 {{ range .Pages.GroupByDate "2006" }}
 <h3>{{ .Key }}</h3>
-<ul class="article">
     {{ range .Pages }}
     <article class="baseline">
         <div>
@@ -9,10 +8,9 @@
                 {{ dateFormat "02 Jan" .Date }}
             </time>
         </div>
-    <div>
+    <div>    
         <a href="{{ .RelPermalink }}">{{.Title}}</a>
     </div>
-    </article>
+    </article>>
     {{ end }}
-</ul>
 {{ end }}
