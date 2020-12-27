@@ -13,11 +13,6 @@
 					<time>
 						{{ dateFormat "02 Jan" .Date }}
 					</time>
-				<ul class="taglist">
-					{{ range .Params.tags }}
-					<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
-					{{ end }}
-				</ul>
 				</div>
 				<div>
 				<!--div class="meta"-->
