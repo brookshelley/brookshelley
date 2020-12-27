@@ -3,7 +3,6 @@
 {{ partialCached "head.html" . }}
 
 <body>
-	<div class="container wrapper">
 		{{ partial "header.html" . }}
 
 		<main>
@@ -14,7 +13,7 @@
 				</time>
 			<ul class="taglist">
 				{{ range .Params.tags }}
-				<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"># {{ . }}</a></li>
+				<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
 				{{ end }}
 			</ul>
 			</div>

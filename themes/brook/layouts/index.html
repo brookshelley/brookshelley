@@ -3,27 +3,33 @@
 {{ partialCached "head.html" . }}
 
 <body>
-	<div class="container wrapper">
 		{{ partial "header.html" . }}
-		<div class="posts">
-			<!--h1 class="title">blog</h1-->
+		<main>
+			<article class="baseline"> 
+			<div>
+				<time>
+					{{ dateFormat "02 Jan" .Date }}
+				</time>
+			<ul class="taglist">
+				{{ range .Params.tags }}
+				<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
+				{{ end }}
+			</ul>
+			</div>
 			{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
 			{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
 			{{ range $paginator.Pages }}
 			<div class="post">
-				<div class="meta">
-					<div class="blogdate">{{ dateFormat "02 Jan" .Date }}</div>
-					<a class="blogtitle" href="{{ .RelPermalink }}">{{.Title}}</a>
-					<p class="description">
+				<!--div class="meta"-->
+					<!--div class="blogdate">{{ dateFormat "02 Jan" .Date }}</div-->
+					<a href="{{ .RelPermalink }}">{{.Title}}</a>
+					<!--p class="description"-->
 					  {{ .Description }}
-					</p>
+					<!--/p-->
 				</div>
 			</div>
 			{{ end }}
 		</div>
-		<!--div class="paginate">
-			{{ template "partials/paginator.html" . }}</div>
-		<div-->
 			<h2 class="archive"><a href="/posts">archive</a></h2>
 		</div>
 		{{ partialCached "footer.html" . }}
