@@ -177,6 +177,12 @@ li.flat {
       font-size: 12px;
       line-height: 23px;
   }
+  div.site-title {
+    margin-left:20px;
+  }
+  .header li {
+    margin-left:5px;
+  }
 }
 
 time {
