@@ -5,6 +5,9 @@
 <body>
 		{{ partial "header.html" . }}
 		<main>
+			{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
+			{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
+			{{ range $paginator.Pages }}
 			<article class="baseline"> 
 				<div>
 					<time>
@@ -16,9 +19,6 @@
 					{{ end }}
 				</ul>
 				</div>
-				{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
-				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
-				{{ range $paginator.Pages }}
 				<div>
 				<!--div class="meta"-->
 					<!--div class="blogdate">{{ dateFormat "02 Jan" .Date }}</div-->
