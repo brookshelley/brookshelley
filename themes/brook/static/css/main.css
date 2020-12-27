@@ -81,7 +81,10 @@ font-weight:200
 .site-title {
   line-height:33px;
   margin-bottom:0;
-  margin-left: 5px;
+}
+
+.site-title a {
+  margin-left:10px;
 }
 
 h1 {
