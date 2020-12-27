@@ -17,8 +17,9 @@
 				{{ end }}
 			</ul>
 			</div>
-			<div><h1 class="title2">{{ .Title }}</h1>
-			{{ .Content }}
+			<div>
+				<h1>{{ .Title }}</h1>
+				{{ .Content }}
 			</div>
 		</article>
 		{{ partialCached "footer.html" . }}
