@@ -122,8 +122,11 @@ ul.flat, .flat, li.flat {
   display: flex;
   margin-top:5px;
   margin-bottom:5px;
-  margin-right:10px;
   list-style:none;
+}
+
+li.flat {
+  margin-right:10px;
 }
 
 @media (min-width: 800px) {
@@ -191,7 +194,7 @@ article:first-of-type { margin-top: 0; }
 ul.taglist {
   list-style: none;
   padding: 0;
-  margin: var(--spacing-m) 0 0;
+  margin: 1.5 0 0;
   font-family: var(--font-head);
   font-size: var(--font-mono);
   text-transform: lowercase;
@@ -199,7 +202,6 @@ ul.taglist {
 }
 
 ul.taglist li {
-  color: var(--color-mid);
   font-family: var(--font-head);
   line-height: var(--font-line-height);
   padding: 0;
@@ -207,5 +209,4 @@ ul.taglist li {
 
 ul.taglist li:before {
   content: '# ';
-  color: var(--color-dim);
 }
