@@ -45,7 +45,7 @@ p {
 max-width: 32rem;
 }
 
-p a, li a {
+p a, li a, a {
   color: var(--color-accent);
   text-decoration: none;
 }
