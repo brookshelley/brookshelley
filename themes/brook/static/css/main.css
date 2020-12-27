@@ -58,8 +58,12 @@ footer p {
 }
 
 footer img {
-  max-height: 9px;
-  margin: 5px;
+  max-height: 16px;
+  margin-left: 5px;
+}
+
+footer img:first-of-type {
+  margin-left: 0px;
 }
 
 .logo {
