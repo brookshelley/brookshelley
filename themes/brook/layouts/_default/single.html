@@ -13,25 +13,14 @@
 					{{ dateFormat "02 Jan" .Date }}
 				</time>
 			<ul class="taglist">
-				<li>tags</li>
 				{{ range .Params.tags }}
-				<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
+				<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}"># {{ . }}</a></li>
 				{{ end }}
 			</ul>
 			</div>
 			<div><h1 class="title2">{{ .Title }}</h1>
 			{{ .Content }}
 			</div>
-			
-			<nav class="tags">
-				<ul class="flat">
-					<li>tags</li>
-					{{ range .Params.tags }}
-					<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
-					{{ end }}
-				</ul>
-			</nav>
-
 		</article>
 		{{ partialCached "footer.html" . }}
 	</main>
