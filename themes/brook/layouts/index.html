@@ -6,20 +6,20 @@
 		{{ partial "header.html" . }}
 		<main>
 			<article class="baseline"> 
-			<div>
-				<time>
-					{{ dateFormat "02 Jan" .Date }}
-				</time>
-			<ul class="taglist">
-				{{ range .Params.tags }}
-				<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
-				{{ end }}
-			</ul>
-			</div>
 			{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
 			{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
 			{{ range $paginator.Pages }}
-			<div class="post">
+				<div>
+					<time>
+						{{ dateFormat "02 Jan" .Date }}
+					</time>
+				<ul class="taglist">
+					{{ range .Params.tags }}
+					<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
+					{{ end }}
+				</ul>
+				</div>
+				<div>
 				<!--div class="meta"-->
 					<!--div class="blogdate">{{ dateFormat "02 Jan" .Date }}</div-->
 					<a href="{{ .RelPermalink }}">{{.Title}}</a>
@@ -27,11 +27,11 @@
 					  {{ .Description }}
 					<!--/p-->
 				</div>
-			</div>
+			</article>
 			{{ end }}
-		</div>
 			<h2 class="archive"><a href="/posts">archive</a></h2>
-		</div>
+		</main>>
+		
 		{{ partialCached "footer.html" . }}
 	</div>
 </body>
