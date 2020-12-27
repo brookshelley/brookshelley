@@ -45,17 +45,21 @@ font-weight:200;
   margin-bottom:.5em;
 }
 
-.footer {
+footer {
   font-family:var(--font-head);
   font-size:.75em;
   color:var(--color-default);
-  max-height:9px;
   width:100%;
 }
 
-.footer p {
+footer p {
   font-family:var(--font-head);
   font-size:var(--font-large)
+}
+
+footer img {
+  max-height: 9px;
+  margin: 5px;
 }
 
 .logo {
@@ -227,9 +231,4 @@ ul.taglist li {
 
 ul.taglist li:before {
   content: '# ';
-}
-
-.footer img {
-  max-height: 9px;
-  margin: 5px;
 }
