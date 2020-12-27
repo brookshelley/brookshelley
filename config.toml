@@ -1,4 +1,4 @@
-baseURL = "https://gracious-elion-624e42.netlify.app"
+baseURL = "https://gracious-elion-624e42.netlify.app/"
 languageCode = "en-us"
 title = "dill & fennel"
 theme = "brook"
