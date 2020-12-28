@@ -5,10 +5,10 @@
 <body>
 		{{ partial "header.html" . }}
 <main>
-	<newsletter>
+	<div class="newsletter">
 		<h1>{{ .Title }}</h1>
 		{{ .Content }}
-	</newsletter>>
+	</div>
 {{ partialCached "footer.html" . }}
 </main>
 </body>
