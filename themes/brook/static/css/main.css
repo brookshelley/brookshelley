@@ -68,7 +68,8 @@ footer img {
 
 .logo {
   max-width:33px; 
-  float:left
+  float:left;
+  margin-top:5px;
   }
   
 .baseline a {
@@ -109,6 +110,15 @@ font-weight:200
 .site-title {
   line-height:33px;
   margin-bottom:0;
+  margin-left:20px;
+}
+
+ul.flat {
+  display: flex;
+  margin-top:5px;
+  margin-bottom:5px;
+  list-style:none;
+  padding-left:0px;
 }
 
 .site-title a {
@@ -176,16 +186,6 @@ li.flat {
   div.title {
       font-size: 12px;
       line-height: 23px;
-  }
-  div.site-title {
-    margin-left:20px;
-  }
-  ul.flat {
-    display: flex;
-    margin-top:5px;
-    margin-bottom:5px;
-    list-style:none;
-    padding-left:0px;
   }
   header li {
     margin-left:5px;
