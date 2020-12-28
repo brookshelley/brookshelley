@@ -75,6 +75,7 @@ footer p {
 
 footer img {
   max-height: 16px;
+  max-width: auto;
   margin-right: 5px;
 }
 
