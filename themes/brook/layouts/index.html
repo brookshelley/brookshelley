@@ -15,12 +15,10 @@
 					</time>
 				</div>
 				<div>
-				<!--div class="meta"-->
-					<!--div class="blogdate">{{ dateFormat "02 Jan" .Date }}</div-->
 					<a class="blog-title" href="{{ .RelPermalink }}">{{.Title}}</a>
-					<p class="description">
+					<span class="description">
 					  {{ .Description }}
-					<p>
+					<span>
 				</div>
 			</article>
 			{{ end }}

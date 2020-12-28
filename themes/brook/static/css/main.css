@@ -49,6 +49,12 @@ p, article li {
   margin-left:5px;
 }
 
+header {
+  display: grid;
+  grid-template-columns: 1fr 3fr 1fr;
+  align-items: baseline;
+}
+
 footer {
   font-family:var(--font-head);
   font-size:.5em;
