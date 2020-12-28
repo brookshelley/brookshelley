@@ -175,7 +175,8 @@ li.flat {
 }
 
 .newsletter li {
-  list-style-image: url(/content/666.png)
+  list-style-image: url(/content/666.png);
+  font-family: var(--font-body)
 }
 
 @media (min-width: 800px) {
