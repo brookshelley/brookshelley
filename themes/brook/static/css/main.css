@@ -93,7 +93,8 @@ p a, li a, a, li {
 }
 
 li {
-  font-family: var(--font-head)
+  font-family: var(--font-head);
+  margin-bottom: 5px;
 }
 
 p a:hover, li a:hover, .active {
