@@ -245,6 +245,10 @@ article b {
   font-family: var(--font-head)
 }
 
+article h1 {
+  margin: 2px 0 1.5rem;
+}
+
 strong {
   font-family: var(--font-head);
 }
