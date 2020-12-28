@@ -176,7 +176,10 @@ li.flat {
   div.site-title {
     margin-left:20px;
   }
-  .header li {
+  header ul {
+    padding:0;
+  }
+  header li {
     margin-left:5px;
   }
 }
