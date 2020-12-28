@@ -175,7 +175,7 @@ li.flat {
   margin-right:10px;
 }
 
-.newsletter.li {
+.newsletter li {
   list-style-image: url(/666.png);
   font-family: var(--font-body)
 }
