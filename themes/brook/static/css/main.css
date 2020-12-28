@@ -105,7 +105,7 @@ color:#8f75de
 }
 
 b,strong {
-font-weight:700
+font-weight:400
 }
 
 i {
@@ -230,7 +230,7 @@ article b {
 }
 
 strong {
-  font-family: var(--font-head)
+  font-family: var(--font-head);
 }
 
 article:first-of-type { margin-top: 0; }
