@@ -52,7 +52,6 @@ p, article li {
 header {
   display: grid;
   grid-template-columns: 1fr 3fr 1fr;
-  align-items: baseline;
 }
 
 footer {
@@ -75,6 +74,7 @@ footer img {
 .logo {
   max-width:33px; 
   float:left;
+  margin-top:5px;
   }
   
 .baseline a {
