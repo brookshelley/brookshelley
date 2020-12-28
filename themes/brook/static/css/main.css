@@ -45,13 +45,14 @@ p, article li {
 .header nav {
   font-family:var(--font-head);
   font-size:var(--font-large);
-  margin-bottom:.5em;
+  margin-bottom:.5rem;
   margin-left:5px;
 }
 
 header {
   display: grid;
   grid-template-columns: 1fr 3fr 1fr;
+  margin-bottom: .5rem
 }
 
 footer {
