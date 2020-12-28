@@ -88,7 +88,6 @@ footer img {
 
 
 p a, li a, a, li {
-  color: var(--color-accent);
   text-decoration: none;
   list-style: none;
 }
