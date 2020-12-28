@@ -69,7 +69,6 @@ footer img {
 .logo {
   max-width:33px; 
   float:left;
-  margin-top:5px;
   }
   
 .baseline a {
@@ -190,6 +189,11 @@ li.flat {
   header li {
     margin-left:5px;
   }
+  .logo {
+    max-width:33px; 
+    float:left;
+    margin-top:5px;
+    }
 }
 
 time {
