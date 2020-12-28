@@ -8,6 +8,7 @@
   --color-default:#F3F2F3;
   --color-accent:#603ad0;
   --color-alt:#8f75de;
+  --spacing-maxwidth-para: 32rem;
   }
   
 @media (min-width: 1000px) {
@@ -35,6 +36,10 @@ margin: 0 auto;
 max-width: 55rem;
 font-family:var(--font-body);
 font-weight:200;
+}
+
+p, article li {
+  max-width: var(--spacing-maxwidth-para);
 }
 
 .header nav {
@@ -175,8 +180,12 @@ li.flat {
   div.site-title {
     margin-left:20px;
   }
-  ul.flat, .flat, li.flat {
-  padding-left:0px;
+  ul.flat {
+    display: flex;
+    margin-top:5px;
+    margin-bottom:5px;
+    list-style:none;
+    padding-left:0px;
   }
   header li {
     margin-left:5px;
