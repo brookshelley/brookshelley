@@ -180,6 +180,10 @@ li.flat {
   font-family: var(--font-body)
 }
 
+.newsletter footer {
+  list-style: none;
+}
+
 @media (min-width: 800px) {
   body>header {
       display: grid;
