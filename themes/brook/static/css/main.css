@@ -223,6 +223,10 @@ article b {
   font-family: var(--font-head)
 }
 
+strong {
+  font-family: var(--font-head)
+}
+
 article:first-of-type { margin-top: 0; }
 
 @media (max-width: 799px) {
