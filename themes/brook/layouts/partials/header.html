@@ -9,7 +9,7 @@
 		{{ $current := . }}
 		<ul class="flat">
 			{{ range .Site.Menus.main }}
-			<li>
+			<li class="flat">
 				{{ $active := or ($current.IsMenuCurrent "main" .) ($current.HasMenuCurrent "main" .) }}
 				{{ $active = or $active (eq .Name $current.Title) }}
 				{{ $active = or $active (and (eq .Name "archive") (eq $current.Section "posts")) }}

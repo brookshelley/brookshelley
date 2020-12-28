@@ -23,7 +23,7 @@ margin: 0 auto;
 padding: calc(8px + 5vw);
 color:var(--color-default);
 background-color:var(--color-bg);
-font-size:var(--font-small);
+font-size:16px;
 }
   
 @media (min-width: 600px) { html { font-size: 17px; } }
@@ -40,7 +40,6 @@ font-weight:200;
 .header nav {
   font-family:var(--font-head);
   font-size:var(--font-large);
-  max-width:18em;
   margin-bottom:.5em;
   margin-left:5px;
 }
@@ -71,9 +70,6 @@ footer img {
   font-family:var(--font-head);
 }
 
-p {
-max-width: 32rem;
-}
 
 p a, li a, a, li {
   color: var(--color-accent);
