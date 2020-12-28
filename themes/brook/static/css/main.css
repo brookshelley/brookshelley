@@ -86,6 +86,9 @@ footer img {
   font-family:var(--font-head);
 }
 
+a {
+ color: var(--color-alt); 
+}
 
 p a, li a, a, li {
   text-decoration: none;
@@ -169,6 +172,10 @@ ul.flat, .flat, li.flat {
 
 li.flat {
   margin-right:10px;
+}
+
+.newsletter li {
+  list-style-image: url(/content/666.png)
 }
 
 @media (min-width: 800px) {
