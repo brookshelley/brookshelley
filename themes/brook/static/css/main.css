@@ -38,6 +38,11 @@ font-family:var(--font-body);
 font-weight:200;
 }
 
+img {
+  width:100%;
+  height:auto
+}
+
 p, article li {
   max-width: var(--spacing-maxwidth-para);
 }
