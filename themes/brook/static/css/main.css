@@ -175,8 +175,8 @@ li.flat {
   div.site-title {
     margin-left:20px;
   }
-  header ul {
-    padding:0;
+  ul.flat, .flat, li.flat {
+  padding-left:0px;
   }
   header li {
     margin-left:5px;
