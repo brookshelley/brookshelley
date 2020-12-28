@@ -175,9 +175,10 @@ li.flat {
   margin-right:10px;
 }
 
-.main li {
+.newsletter li {
   list-style-type: circle;
-  font-family: var(--font-body)
+  font-family: var(--font-body);
+  max-width: var(--spacing-maxwidth-para);
 }
 
 .newsletter .flat {
