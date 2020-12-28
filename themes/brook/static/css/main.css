@@ -180,7 +180,7 @@ li.flat {
   font-family: var(--font-body)
 }
 
-.newsletter footer {
+.newsletter .flat {
   list-style: none;
 }
 
