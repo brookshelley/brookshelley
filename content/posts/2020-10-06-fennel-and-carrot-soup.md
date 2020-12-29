@@ -7,7 +7,6 @@ tags:
 description: a soup for the fall
 lang: en
 ---
-# Fennel and carrot soup
 
 This soup is _fall as fuck_. Happy October!
 

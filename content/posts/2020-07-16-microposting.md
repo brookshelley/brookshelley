@@ -8,8 +8,6 @@ tags:
   - indieweb
 ---
 
-# Microposting
-
 After a few days of playing around with micropub and the indieweb (which seems to largely be from 2018 and 2019) I have a micropub server that works with Hugo and integrates with iAWriter. Hooray!
 
 With the beta of iOS 14 I’ve had to heavily modify my publishing shortcuts, and while they’re pretty great, publishing directly through Micropub with the “publish” button in iAWriter seems even more convenient.
