@@ -5,7 +5,6 @@ date: 2019-01-24
 description: media diet
 tags:
   - mediadiet
-categories: mediadiet
 ---
 
 It’s a new year! Time to watch even more shows and movies, and with the rise of bingeable 10 hour TV movies, I have found myself watching fewer of the 90-120 minute variety. With Criteron launching a movie service, maybe that’ll change.

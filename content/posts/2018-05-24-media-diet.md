@@ -5,7 +5,6 @@ title: May
 tags:
   - mediadiet
 description: media diet
-categories: mediadiet
 ---
 
 ## Books

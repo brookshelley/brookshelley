@@ -3,7 +3,6 @@ layout: posts
 title: Learning kanji again
 date: 2019-01-27
 description: one character at a time
-
 tags:
   - thoughts
   - japanese

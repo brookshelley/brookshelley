@@ -3,7 +3,6 @@ layout: posts
 title: Minimal travel clothing
 date: 2019-04-08
 description: what I wear abroad
-
 tags:
   - backpacks
   - travel

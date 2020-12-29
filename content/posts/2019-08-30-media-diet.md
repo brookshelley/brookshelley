@@ -3,7 +3,6 @@ type: mediadiet
 date: 2019-08-30
 title: August
 description: media diet
-categories: mediadiet
 tags:
   - mediadiet
 ---

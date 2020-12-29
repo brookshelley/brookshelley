@@ -5,7 +5,6 @@ title: October
 description: media diet
 tags:
   - mediadiet
-categories: mediadiet
 ---
 
 ## Books

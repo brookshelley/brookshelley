@@ -4,8 +4,6 @@ title: June
 date: 2019-06-30
 tags:
   - mediadiet
-description: media diet
-categories: mediadiet
 ---
 
 ## Books

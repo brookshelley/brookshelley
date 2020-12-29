@@ -2,7 +2,6 @@
 type: mediadiet
 title: February
 description: media diet
-categories: mediadiet
 date: 2019-02-24
 tags:
   - mediadiet

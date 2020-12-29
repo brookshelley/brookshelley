@@ -3,7 +3,6 @@ type: posts
 title: Invisible One review
 date: 2018-05-17
 description: review of a new backpack for euro travel
-
 tags:
   - review
   - travel

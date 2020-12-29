@@ -3,7 +3,6 @@ layout: posts
 title: On notes and todos
 date: 2019-05-02
 description: how i do notes and todos
-
 tags:
   - process
   - tech

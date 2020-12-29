@@ -6,7 +6,6 @@ tags:
   - tech
 date: 2019-05-27
 description: why do we search for the best stuff?
-
 ---
 
 The search for the best, most optimized, beautiful, light, and pleasing things.

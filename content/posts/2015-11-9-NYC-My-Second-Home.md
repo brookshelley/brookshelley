@@ -6,7 +6,6 @@ tags:
   - travel
 date: 2015-11-09
 description: what I love about NYC
-
 ---
 
 New York is my home for two months out of the year, but I only recently became acquainted with it. Growing up in Texas, I got the idea from my dad that NYC was some kind of devil city. He regarded it as a liberal place with people who walked too fast, and were too greedy. The first time I visited in my mid-twenties, I realized just how wrong he was.

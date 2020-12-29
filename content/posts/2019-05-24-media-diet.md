@@ -3,7 +3,6 @@ type: mediadiet
 title: May
 date: 2019-05-24
 description: media diet
-categories: mediadiet
 tags:
   - mediadiet
 ---

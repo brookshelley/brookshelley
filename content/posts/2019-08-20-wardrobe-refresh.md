@@ -3,7 +3,6 @@ type: posts
 title: Wardrobe refresh
 date: 2019-08-20
 description: things to wear
-
 tags:
   - travel
 ---

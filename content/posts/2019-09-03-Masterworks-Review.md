@@ -3,7 +3,6 @@ type: posts
 date: 2019-09-03
 title: Masterworks review
 description: a wild collection by Simon Jacobs
-
 tags:
   - review
   - queer

@@ -3,7 +3,6 @@ type: mediadiet
 title: April
 date: 2019-04-27
 description: media diet
-categories: mediadiet
 tags:
   - mediadiet
 ---

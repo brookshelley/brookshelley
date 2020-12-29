@@ -3,7 +3,6 @@ type: posts
 title: LWT NYC Summit
 date: 2015-10-05
 description: speaking at the LWT NYC summit
-
 tags: 
  - work
  - conference

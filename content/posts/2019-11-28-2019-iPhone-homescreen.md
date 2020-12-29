@@ -3,7 +3,6 @@ type: posts
 title: 2019 iOS Homescreen
 date: 2019-11-28
 description: 2019 iOS Homescreen Update
-
 tags:
   - iPhone
   - homescreen

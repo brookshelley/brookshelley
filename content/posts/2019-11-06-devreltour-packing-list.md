@@ -2,7 +2,6 @@
 type: posts
 title: DevRel Tour Packing List
 description: what I brought for 3 weeks abroad in Japan
-
 date: 2019-11-06
 tags:
   - backpacks

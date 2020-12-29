@@ -5,7 +5,6 @@ tags:
   - mediadiet
 title: July
 description: media diet
-categories: mediadiet
 ---
 
 ## Books

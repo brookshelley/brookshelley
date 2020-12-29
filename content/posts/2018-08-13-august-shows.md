@@ -3,7 +3,6 @@ type: posts
 title: August shows
 date: 2018-08-13
 description: hop along & deafheaven shows
-
 tags:
  - music
 ---
