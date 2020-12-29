@@ -182,6 +182,10 @@ li.flat {
   max-width: var(--spacing-maxwidth-para);
 }
 
+.newsletter a, .article a {
+  margin: 0 4;
+}
+
 .newsletter .flat {
   list-style: none;
 }
