@@ -6,7 +6,7 @@ tag:
   - prose
   - queer
 description: writing on lesbian history
-categories: blog
+
 ---
 
 Note: This was a cunt-up piece, so it was delivered in chunks, read out of a hat, interspersed with Cooper Lee Bombardier’s piece about the same time period/culture. As such, it’s a little disjointed. Enjoy~

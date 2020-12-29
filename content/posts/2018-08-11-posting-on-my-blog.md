@@ -6,7 +6,7 @@ tags:
   - writing
 date: 2018-08-11
 description: posting on my blog
-categories: blog
+
 ---
 
 Inspired by both [Nick](https://roadrunnertwice.dreamwidth.org) and

@@ -5,7 +5,7 @@ description: a long year full of change
 date: 2018-12-22
 tags:
   - review
-categories: blog
+
 ---
 
 ## Started in Japan

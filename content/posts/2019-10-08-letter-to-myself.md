@@ -3,7 +3,7 @@ type: posts
 title: A letter
 date: 2019-10-08
 description: writing a cathartic letter to myself
-categories: blog
+
 tags:
  - queer
 ---

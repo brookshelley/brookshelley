@@ -5,7 +5,7 @@ tags:
   - review
 date: 2015-12-19
 description: reviewing a slightly ok year
-categories: blog
+
 ---
 
 Marginally better!

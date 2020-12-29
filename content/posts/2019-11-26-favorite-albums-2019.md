@@ -3,7 +3,7 @@ type: posts
 date: 2019-11-26
 title: Favorite Albums of 2019
 description: closing out the decade
-categories: blog
+
 tags:
   - music
 ---

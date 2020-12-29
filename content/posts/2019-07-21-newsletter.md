@@ -3,7 +3,7 @@ type: posts
 title: A Weekly Link Newsletter
 date: 2019-07-21
 description: a few links and thoughts in your inbox
-categories: blog
+
 tags:
   - process
   - tech

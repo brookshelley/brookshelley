@@ -6,7 +6,6 @@ tag:
  - writing
  - markdown
 description: why i made a static book blog
-categories: blog
 ---
 
 ![atom](/photos/atom.jpg)

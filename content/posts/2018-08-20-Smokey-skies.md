@@ -6,7 +6,7 @@ tags:
   - thoughts
   - climate
 description: don't burn down the whole ding dang forest
-categories: blog
+
 ---
 
 Due to a series of forest fires, Portland has looked like an alien planet for the past few weeks.
