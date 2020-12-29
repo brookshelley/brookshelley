@@ -1,5 +1,5 @@
 ---
-layout: micropubpost
+type: posts
 date: '2020-08-03T02:15:38.132Z'
 title: Sunday photo walk
 lang: en

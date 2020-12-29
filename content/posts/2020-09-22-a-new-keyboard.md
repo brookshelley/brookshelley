@@ -1,5 +1,5 @@
 ---
-layout: micropubpost
+type: posts
 date: '2020-09-22T23:23:14.400Z'
 title: A new keyboard
 tags:

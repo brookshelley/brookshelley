@@ -1,5 +1,5 @@
 ---
-layout: micropubpost
+type: posts
 date: '2020-08-30T20:45:41.776Z'
 title: 2020 Backpacking gear
 tags: 

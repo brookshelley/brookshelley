@@ -1,5 +1,5 @@
 ---
-layout: micropubpost
+type: mediadiet
 date: '2020-10-01T23:30:16.265Z'
 title: September
 tags:

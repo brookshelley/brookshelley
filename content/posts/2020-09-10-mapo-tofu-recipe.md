@@ -1,5 +1,5 @@
 ---
-layout: micropubpost
+type: posts
 date: '2020-09-10T01:54:50.591Z'
 title: Mapo Tofu Recipe
 tags:
