@@ -180,7 +180,7 @@ li.flat {
   max-width: var(--spacing-maxwidth-para);
 }
 
-.newsletter a, .article a {
+.newsletter a, .baseline a {
   margin: 0 4px;
 }
 
