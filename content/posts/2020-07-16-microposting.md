@@ -1,5 +1,5 @@
 ---
-layout: micropubpost
+type: posts
 date: '2020-07-16T08:01:36.143Z'
 title: Microposting
 tags:
@@ -7,8 +7,6 @@ tags:
   - markdown
   - indieweb
 ---
-
-# Microposting
 
 After a few days of playing around with micropub and the indieweb (which seems to largely be from 2018 and 2019) I have a micropub server that works with Hugo and integrates with iAWriter. Hooray!
 

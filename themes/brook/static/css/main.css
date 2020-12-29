@@ -49,12 +49,11 @@ p, article li {
 
 .header nav {
   font-family:var(--font-head);
-  font-size:var(--font-large);
-  margin-bottom:.5rem;
   margin-left:5px;
 }
 
 header {
+  font-size:var(--font-large);
   display: grid;
   grid-template-columns: 1fr 3fr 1fr;
   margin-bottom: .5rem
@@ -148,21 +147,21 @@ h1 {
 }
 
 h2 {
-    font-family: var(--font-head);
-    text-transform: lowercase;
-    font-size: 0.8rem;
-    letter-spacing: 0.1rem;
-    margin-top: 2rem;
-    -webkit-font-smoothing: antialiased;
+  font-family: var(--font-head);
+  text-transform: lowercase;
+  font-size: 0.8rem;
+  letter-spacing: 0.1rem;
+  margin-top: 2rem;
+  -webkit-font-smoothing: antialiased;
 }
 
 h3 {
-    font-family: var(--font-head);
-    font-weight: 400;
-    font-size: 0.98rem;
-    -webkit-font-smoothing: subpixel-antialiased;
-    font-size: 0.9rem;
-    color: var(--color-accent);
+  font-family: var(--font-head);
+  font-weight: 400;
+  font-size: 0.98rem;
+  -webkit-font-smoothing: subpixel-antialiased;
+  font-size: 0.9rem;
+  color: var(--color-accent);
 }
 
 ul.flat, .flat, li.flat {
@@ -179,6 +178,10 @@ li.flat {
   list-style-type: circle;
   font-family: var(--font-body);
   max-width: var(--spacing-maxwidth-para);
+}
+
+.newsletter a, .article a {
+  margin: 0 4px;
 }
 
 .newsletter .flat {

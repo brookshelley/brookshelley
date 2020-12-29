@@ -1,13 +1,11 @@
 ---
-layout: micropubpost
+type: posts
 date: '2020-09-11T03:59:55.900Z'
 title: Becoming a plant lady
 tags:
   - home
   - plants
 ---
-
-# Becoming a plant lady
 
 Ten years ago, I saw indoor plants as inconvenient, unwieldy, and dirty. Now, my house looks like this:
 

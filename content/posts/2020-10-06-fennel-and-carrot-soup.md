@@ -1,5 +1,5 @@
 ---
-layout: micropubpost
+type: posts
 date: '2020-10-06T04:27:54.677Z'
 title: Fennel and carrot soup
 tags:
@@ -7,7 +7,6 @@ tags:
 description: a soup for the fall
 lang: en
 ---
-# Fennel and carrot soup
 
 This soup is _fall as fuck_. Happy October!
 

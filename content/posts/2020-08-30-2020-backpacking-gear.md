@@ -1,5 +1,5 @@
 ---
-layout: micropubpost
+type: posts
 date: '2020-08-30T20:45:41.776Z'
 title: 2020 Backpacking gear
 tags: 
@@ -8,8 +8,6 @@ tags:
   - travel
   - camping
 ---
-
-# Backpacking gear
 
 With flying out of the question, especially to other countries, I decided to do a bit of local adventuring. With the encouragement and planning of some Slack pals, I began to plan for a few days of backpacking, and more importantly, a few days of gear. Anyone who’s read my blog for a bit knows I’m a nerd about backpacks, technical clothing, and having the absolute minimum amount of stuff with me on trips. At home, I live pretty comfortably, but when I’m out of the house, I love the deep thrill of having exactly what I need.
 
