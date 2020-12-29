@@ -1,5 +1,5 @@
 ---
-layout: micropubpost
+type: posts
 date: '2020-09-11T03:59:55.900Z'
 title: Becoming a plant lady
 tags:

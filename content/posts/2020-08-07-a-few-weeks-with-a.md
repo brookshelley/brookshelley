@@ -1,5 +1,5 @@
 ---
-layout: micropubpost
+type: posts
 date: '2020-08-07T23:03:37.113Z'
 title: A GR III review
 tags:

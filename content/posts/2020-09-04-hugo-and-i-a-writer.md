@@ -1,5 +1,5 @@
 ---
-layout: micropubpost
+type: posts
 date: '2020-09-04T22:31:49.013Z'
 title: Hugo and iA Writer
 tags: 

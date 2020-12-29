@@ -1,5 +1,5 @@
 ---
-layout: micropubpost
+type: posts
 date: '2020-10-06T04:27:54.677Z'
 title: Fennel and carrot soup
 tags:

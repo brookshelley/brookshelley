@@ -1,5 +1,5 @@
 ---
-layout: micropubpost
+type: posts
 date: '2020-07-16T08:01:36.143Z'
 title: Microposting
 tags:
