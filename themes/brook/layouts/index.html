@@ -8,7 +8,7 @@
 			{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
 			{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
 			{{ range $paginator.Pages }}
-			<article class="baseline"> 
+			<article> 
 				<div>
 					<time>
 						{{ dateFormat "02 Jan" .Date }}
