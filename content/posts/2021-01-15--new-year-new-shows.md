@@ -5,7 +5,7 @@ title: "New Year, new shows"
 date: 2021-01-15
 description: some tv I’ve enjoyed lately 
 tags:
-  - 
+  - tv
 ---
 
 Every month I talk about the movies and books I've romped around with, but I figured I would share what I'm watching on the smaller screen lately[^1]. With a thorough lockdown still in effect in most of California, it's never been a better time to really dig-in to shows I've missed, or new stuff being [produced _somehow_](https://deadline.com/2020/12/young-sheldon-s-production-suspended-positive-covid-19-test-1234650816/)[^2] during all of this.
