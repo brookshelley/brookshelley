@@ -48,6 +48,14 @@ ignoreErrors = ["error-remote-getjson"]
   name = "about"
   icon = "info"
   url = "/about"
+  
+[caches]
+[caches.assets]
+  dir = ":resourceDir/_gen"
+  maxAge = -1
+[caches.images]
+  dir = ":resourceDir/_gen"
+  maxAge = -1
 
 [menu]
 
