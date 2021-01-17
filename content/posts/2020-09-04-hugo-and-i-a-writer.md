@@ -7,9 +7,9 @@ tags:
   - markdown
 ---
 
-![iawriter](/photos/iAWriter.jpg)
+![iawriter](/iAWriter.jpg)
 
-When I started [writing my blog in earnest again](https://www.brookshelley.com/posts/2017-08-01-markdown-books-blog/), I wanted to find a workflow I could use on both iOS and Mac with ease. I use an iPad and iPhone mostly, so I didn&#39;t want a system that required a lot of fiddliness, which meant a build pipeline that automated as much as possible. My goal was a site I could write to, publish to, and read from with a minimum of app switching or ssh-ing.
+When I started [writing my blog in earnest again](/posts/2017-08-01-markdown-books-blog/), I wanted to find a workflow I could use on both iOS and Mac with ease. I use an iPad and iPhone mostly, so I didn&#39;t want a system that required a lot of fiddliness, which meant a build pipeline that automated as much as possible. My goal was a site I could write to, publish to, and read from with a minimum of app switching or ssh-ing.
 
 ## Static site
 
@@ -62,7 +62,7 @@ Essentially, you set your public branch, and Github actions for pulling Hugo, bu
 
 ## iA Writer
 
-![iawriter](/photos/iawriter.jpg)
+![iawriter](/iawriter.jpg)
 
 My love for iA Writer continues to grow every year. It&#39;s not just a fantastic place to write, but increasingly it&#39;s a solid platform to publish to the indie web from. With one-click flows for Micro.Blog, Micropub, Wordpress, and other sites, it&#39;s super easy to write and get something online. My only wish is that somehow it could support photo upload in the same manner. I also love the Quattro font the team at iA Writer created as a slightly variable monospaced font. Their support of iOS, Mac, and the iPad is excellent, not to mention very good keyboard shortcuts for all of them. Simply put, iA Writer is my favorite place to write and create.
 
@@ -74,7 +74,7 @@ I would never recommend doing this for something that super matters, but my webs
 
 ## Publishing with Micropub
 
-I previously covered this with [another post](https://www.brookshelley.com/posts/microposting/). I didn’t do much customization to the GitHub code I linked to in that post, so your mileage may vary, but using Heroku for free, I’m able to tap publish on iA Writer for a nice, easy update to this blog. Previously I used the iOS Shortcut linked below, which was also fine, but during the beta period became a bit unwieldy in addition to not being available on my Mac. I briefly considered an Automator action to replicate the same features, but hopefully at some point shortcuts will come to the Mac￼ instead. I might update my Micropub server at some point to remove some of the weird stuff I don&#39;t really use from it, but that&#39;s a project for another vacation.
+I previously covered this with [another post](/posts/microposting/). I didn’t do much customization to the GitHub code I linked to in that post, so your mileage may vary, but using Heroku for free, I’m able to tap publish on iA Writer for a nice, easy update to this blog. Previously I used the iOS Shortcut linked below, which was also fine, but during the beta period became a bit unwieldy in addition to not being available on my Mac. I briefly considered an Automator action to replicate the same features, but hopefully at some point shortcuts will come to the Mac￼ instead. I might update my Micropub server at some point to remove some of the weird stuff I don&#39;t really use from it, but that&#39;s a project for another vacation.
 
 ## iOS Shortcuts
 
@@ -82,4 +82,4 @@ I previously covered this with [another post](https://www.brookshelley.com/posts
 
 ## Wrap-up
 
-My site has come a long way from when I [started it up again](https://www.brookshelley.com/posts/2017-08-01-markdown-books-blog/) three years ago, while leaving [Medium](https://medium.com/@brookshelley) as a platform. Hell, Medium has changed focuses four or five times in that period as well, now going back towards a [customizable blogging place](https://blog.medium.com/whats-around-the-corner-for-medium-b79e8764c9cd). I&#39;m pretty happy I set up my own little world of blogging and archiving content, and hopefully with the information above you can do the same if you want.
+My site has come a long way from when I [started it up again](/posts/2017-08-01-markdown-books-blog/) three years ago, while leaving [Medium](https://medium.com/@brookshelley) as a platform. Hell, Medium has changed focuses four or five times in that period as well, now going back towards a [customizable blogging place](https://blog.medium.com/whats-around-the-corner-for-medium-b79e8764c9cd). I&#39;m pretty happy I set up my own little world of blogging and archiving content, and hopefully with the information above you can do the same if you want.

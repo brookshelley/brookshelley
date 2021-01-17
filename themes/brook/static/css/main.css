@@ -174,7 +174,7 @@ li.flat {
   margin-right:10px;
 }
 
-.newsletter li {
+.newsletter li, .post li {
   list-style-type: circle;
   font-family: var(--font-body);
   max-width: var(--spacing-maxwidth-para);

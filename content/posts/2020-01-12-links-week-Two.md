@@ -11,7 +11,7 @@ We’re halfway through with the first month of 2020, and the sun has been out a
 
 Have you already mastered all of your New Year’s resolutions? Mine was the same as it is every year: “do more of what you love and less of what you hate”. So far, so good.
 
-One of the things I love is writing, so I’ll keep on doing it. Another is the television program [Halt and Catch Fire](https://www.brookshelley.com/posts/2020-01-09-rewatching-halt-catch-fire/), which I wrote about so that I could combine pleasures. If only I’d managed to eat prosciutto while writing, I would’ve likely passed out from delight. 
+One of the things I love is writing, so I’ll keep on doing it. Another is the television program [Halt and Catch Fire](/posts/2020-01-09-rewatching-halt-catch-fire/), which I wrote about so that I could combine pleasures. If only I’d managed to eat prosciutto while writing, I would’ve likely passed out from delight. 
 
 Two new things I’m trying this year: going to the gym next to my office, and washing my face. I was a big powerlifter for over a year in Portland, but never found my rhythm here in the bay due to a weird commute. Fortunately, the gym next to my office seems great for lifting, and since it’s literally a few feet from the bus home, I think I’ll be able to use it at least a few times a week. Time will tell. As for washing my face? I’ve never really done it, so I’m not sure what I’ll get out of the whole endeavor, but I’m _aging_ so I figured no time like the present. 
 

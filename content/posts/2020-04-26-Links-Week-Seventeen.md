@@ -7,7 +7,7 @@ tags:
 type: newsletter
 ---
 
-This is the week of the _[Magic Keyboard](https://www.brookshelley.com/posts/2020-04-24-ipad-magic-keyboard-review/)_ which I’m using to write this email. If you’re curious, or considering picking one up, the linked review should help you decide. For something more exhaustive, perhaps check out this longer look:
+This is the week of the _[Magic Keyboard](/posts/2020-04-24-ipad-magic-keyboard-review/)_ which I’m using to write this email. If you’re curious, or considering picking one up, the linked review should help you decide. For something more exhaustive, perhaps check out this longer look:
 
 {{< youtube RRjMDoAVGrg >}}
 

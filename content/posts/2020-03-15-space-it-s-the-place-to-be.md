@@ -9,4 +9,4 @@ tags:
 
 Welp, time to blast off into self-quarantine.
 
-![nasa](https://www.brookshelley.com/photos/nasa.jpg)
+![nasa](/nasa.jpg)

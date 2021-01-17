@@ -9,7 +9,7 @@ type: newsletter
 
 Hello from a 200mph Nozomi Shinaksen train on my way to Tokyo! This train still feels like the future, and it’s especially wild that people are riding it and no one seems particularly worried.
 
-Onomichi—where I was for the past few days—was gorgeous! Truly in rare form. If you’d like to read about that and see some photos of my hiking and exploring, you know [where to go](https://www.brookshelley.com/posts/2020-03-19-traveling-during-a-pandemic-part-three/).
+Onomichi—where I was for the past few days—was gorgeous! Truly in rare form. If you’d like to read about that and see some photos of my hiking and exploring, you know [where to go](/posts/2020-03-19-traveling-during-a-pandemic-part-three/).
 
 I spent *four hours* on the phone today with Chase bank trying to move my flight forward a few days to try to ensure that I won’t be trapped outside of California. Were it not for Snorri, I might consider trying to just work and hide out in Japan during this pandemic, but for both him and my work, it’s probably good to head home. Knock on some wood for me, or send good travel vibes—whatever your method of magic may be.
 

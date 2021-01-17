@@ -9,7 +9,7 @@ tags:
 description: a review of a great backpack
 ---
 
-![Bellroy Studio Backpack](/photos/bellroybackpack.jpeg)
+![Bellroy Studio Backpack](/bellroybackpack.jpeg)
 
 A new backpack for everyday carry, and travel.
 
@@ -19,7 +19,7 @@ After first getting my new Bellroy sling, I fell in love with the delightful mat
 
 ## Sizing
 
-For quite a while, I’ve [brought my Topo Trip Pack](https://www.brookshelley.com/blog/2019/11/06/devreltour-packing-list.html) to work as it fits my coffee bottle, iPad, journal, and a few other things perfectly. Adding in a spare jacket could stuff it pretty tight, but I preferred that to hauling a bag that was typically too large. With the Studio Backpack, my everyday stuff fits well, with ample space, but the shallow depth of the bag means it looks nice even unloaded.
+For quite a while, I’ve [brought my Topo Trip Pack](/blog/2019/11/06/devreltour-packing-list.html) to work as it fits my coffee bottle, iPad, journal, and a few other things perfectly. Adding in a spare jacket could stuff it pretty tight, but I preferred that to hauling a bag that was typically too large. With the Studio Backpack, my everyday stuff fits well, with ample space, but the shallow depth of the bag means it looks nice even unloaded.
 
 ### Measurements
 
@@ -31,13 +31,13 @@ All-in-all, this bag feels like a great balance between a daily size and one tha
 
 ## Features
 
-![Bellroy Front Pocket](/photos/bellroysmall.jpg)
+![Bellroy Front Pocket](/bellroysmall.jpg)
 
 This bag is a top-loader, with a generously-wide opening, and a fidlock magnetic closure I can open with one hand using the small fabric loop. This flap makes for an easy way to use the main compartment, while keeping the rain off of my stuff. On the outside, there’s a pocket a little bit lower than mid-way that zips shut, and has pockets for pens, AirPods, and a few other things along with a key loop on a long fabric loop. Usually, I keep a Hobonichi Weeks, a Kaweco fountain pen, house keys, AirPods Pro and my work badge in here.
 
 Inside of the main bag area, there’s a laptop area that can hold up to a 16” MacBook Pro—the new one with the real escape key—or an iPad Pro of either size. The bottom of the bag is generously padded to keep your stuff safe, and the laptop sleeve ends before the bottom for more safety. On the front wall of the main bag opening there is another zipped compartment for glasses, cables, or other odds and ends that you don’t need as often.
 
-![Bellroy Main Pocket](/photos/mainbellroy.jpg)
+![Bellroy Main Pocket](/mainbellroy.jpg)
 
 ## Colors and Materials
 

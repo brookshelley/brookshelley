@@ -19,18 +19,18 @@ Thus began my list:
 
 ## Shelter
 
-![nemo](/photos/nemo.jpg) 
+![nemo](/nemo.jpg) 
 
 * 1275.72g [Nemo Dragonfly](https://www.outdoorgearlab.com/reviews/camping-and-hiking/backpacking-tent/nemo-dragonfly-2)
     
     This is a new addition to my list, but so far it seems neat, albeit very small. If I needed to spend extended time in a tent, I’d probably want something larger, but for a spot to sleep I think this will do just fine. I replaced the stakes with 60g of [MSR groundhog stakes](https://www.msrgear.com/tents/tent-accessories/groundhog-tent-stakes/05807.html).
-![nemopacked](/photos/nemopacked.jpg) 
+![nemopacked](/nemopacked.jpg) 
 
 * 60g [MSR Groundhog tent stakes](https://www.msrgear.com/tents/tent-accessories/groundhog-tent-stakes/05807.html)
     
     Dependable light stakes. I’ve bent one of these only once when applying my full body weight through my foot into hard ground. In most cases this is very chill. I’ll probably dig a hole in the future, or possibly not even use stakes depending on the setup.
     
-![sleep system](/photos/sleepsystem.jpg) 
+![sleep system](/sleepsystem.jpg) 
 
 
 * 455.01 [Enlightened Equipment Revelation](https://enlightenedequipment.com/revelation-stock/)
@@ -40,13 +40,13 @@ Thus began my list:
 * 340g [Thermarest Neoair XLite air mattress](https://www.hyperlitemountaingear.com/collections/new-arrivals/products/therm-a-rest-neoair-xlite-air-mattress)
     
     This is a big comfort upgrade over my Z-Packs folding mat, even though it’s definitely more annoying to blow up and deflate. I sleep on my side often, so I like knowing I can adjust this a bit to facilitate that instead of basically sleeping on a thin foam cover over bits of rock. I might try bringing the inflation sack to save my lungs, and maybe I’ll store clothes in it or something in the meantime.
-![inside Nemo](/photos/nemoinside.jpg) 
+![inside Nemo](/nemoinside.jpg) 
 
 ### Weight: 2130.73
 
 ## Bag
 
-![hyperlite](/photos/hyperlitebag.jpg) 
+![hyperlite](/hyperlitebag.jpg) 
 
 * 904g [Hyperlite Mountain Gear Junction 2400](https://www.hyperlitemountaingear.com/products/2400-junction)
     
@@ -56,7 +56,7 @@ Thus began my list:
 
 ## Food
 
-![cooking system](/photos/cookingsystem.jpg) 
+![cooking system](/cookingsystem.jpg) 
 
 * 72g [Toaks titanium pot](https://www.toaksoutdoor.com/collections/frontpage/products/pot-550-l)
     
@@ -65,8 +65,8 @@ Thus began my list:
 * 72g [Crux lite stove](https://www.rei.com/product/146426/optimus-crux-lite-stove)
     
     Absolutely my favorite stove. It’s effective, quick and super light. I’ve used this for years, and it’s always worked save for the time I was trying to boil water with a 50mph wind blowing at me. Eventually, I hid behind a car and was able to make coffee.
-    ![food bag](/photos/foodbag.jpg) 
-    food bag
+    
+![food bag](/foodbag.jpg) 
 
 * 16g [Snow Peak Spork](https://snowpeak.com/products/titanium-spork)
     
@@ -80,7 +80,7 @@ Thus began my list:
 
 ## Electronics
 
-![tech gear and other accessories](/photos/assortedcamp.jpg) 
+![tech gear and other accessories](/assortedcamp.jpg) 
 
 * 188g [Kindle Oasis](https://bookriot.com/amazon-kindle-oasis-review/)
     
@@ -107,7 +107,7 @@ Thus began my list:
 * 14.7g [Kula cloth](https://kulacloth.com)
     
     A recent trip was my first time using this cloth, and largely it ruled! My one big mistake was getting a little too much camp soap on it, and having to wash it for a while to remove the soap. I think I can probably safely avoid soap for a couple days, and just wash it off with water.
-![befree bag](/photos/befree.jpg) 
+![befree bag](/befree.jpg) 
 
 * 70g [Katadyn BeFree bottle with filter](https://www.katadyn.com/us/us/14946-8019639-katadyn-beefree-0.6L_usa)
     
@@ -153,7 +153,7 @@ There’s a straw with the ability to bite to get water, which makes this easy f
     
     Works as a hat, a scarf, a temp face cover, and even as a wrap for my improvised pillow that is a bit softer. Love it. I’d resisted getting a buff for years, but frankly, I was a fool.
     
-![on shoes](/photos/onshoes.jpg)    
+![on shoes](/onshoes.jpg)    
     
 * [On Cloudventure Peak](https://www.on-running.com/en-us/products/cloudventure-peak) shoes
 

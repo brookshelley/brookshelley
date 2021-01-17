@@ -9,7 +9,7 @@ tags:
 
 Out of [74 movies](https://letterboxd.com/brookshelley/films/), I wanted to pick a few that really stood out, and then talk briefly about a few that I really didn't enjoy. I went to the theater quite a bit this year, as I live pretty close to one with couch-seats and luckily have a few film-buddies to meet up with. Other films that I didn't get a chance to see while they were on the big screen were rented at home or watched through a myriad of streaming services I've accrued over the years.
 
-![favorite movies photo](/photos/letterboxd.jpeg)
+![favorite movies photo](/letterboxd.jpeg)
 
 ---
 
@@ -83,7 +83,7 @@ I know, right? I hated the new Star Wars and the end of the Avenger's duology? I
 
 ## 2019 streaming
 
-Wow, 2019 was a great year for films! If you want to read longer reviews of the above films, visit my [movies page](https://www.brookshelley.com/movies). I didn't set out to watch more films this year, but with Amazon Prime, Criterion, Kanopy, iTunes, and Netflix, it was super easy to watch most of the stuff I wanted to see. I finally upgraded to a 4K TV and 4K Apple TV too, so I will likely watch even more things at my house without trekking to the land of empty cola machines and questionable curly fries.
+Wow, 2019 was a great year for films! If you want to read longer reviews of the above films, visit my [movies page](/movies). I didn't set out to watch more films this year, but with Amazon Prime, Criterion, Kanopy, iTunes, and Netflix, it was super easy to watch most of the stuff I wanted to see. I finally upgraded to a 4K TV and 4K Apple TV too, so I will likely watch even more things at my house without trekking to the land of empty cola machines and questionable curly fries.
 
 ---
 

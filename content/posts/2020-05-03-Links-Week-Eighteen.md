@@ -43,7 +43,7 @@ Whether or not you like coffee, [this story](https://indoor-voices.blogspot.com/
 
 ## Comics
 
-During this copious indoor time, I’ve enjoyed reading quite a few [books](https://www.brookshelley.com/books), and a bunch of graphic novels, manga, and comics. Unfortunately, Marvel and a few other publishers decided to pause a number of series like [Decorum](https://imagecomics.com/comics/releases/decorum-1) and [Injection](https://bookshop.org/books/injection-volume-1/9781632154798).
+During this copious indoor time, I’ve enjoyed reading quite a few [books](/books), and a bunch of graphic novels, manga, and comics. Unfortunately, Marvel and a few other publishers decided to pause a number of series like [Decorum](https://imagecomics.com/comics/releases/decorum-1) and [Injection](https://bookshop.org/books/injection-volume-1/9781632154798).
 
 If you need a few volumes to read during this pause, I recommend these three:
 

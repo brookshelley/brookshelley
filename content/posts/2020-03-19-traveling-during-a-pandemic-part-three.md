@@ -27,7 +27,7 @@ A brief stop in Fukuyama meant a small cup sake, then a local train to Onomichi.
 
 ## Onomichi
 
-![onomichi view](https://www.brookshelley.com/photos/ono_view.jpg)
+![onomichi view](https://www.brookshelley.com/ono_view.jpg)
 
 Wow. This town is gorgeous. I fully plan to come back here and spend more serious time when I’m able to in the future. I love the river that runs through the middle of town, and the winding hilly roads and stairs. I learned on my first night that this town is _well known_ for [cats](https://www.boredpanda.com/cats-sneaking-security-ken-chan-gosaku-hiroshima-onomichi-city-museum-of-art/?utm_source=google&utm_medium=organic&utm_campaign=organic). I’m sure somewhere in the back of my head, I’d seen this and taken note, but mostly I came here to stay at [LOG](https://monocle.com/magazine/issues/122/destination-japan/) and relax a little.
 
@@ -35,7 +35,7 @@ My first day was certainly relaxing after a hike up a hill to get to the hotel. 
 
 Wow! They had *natural wine from Alsace*. Honestly LOG felt like a heaven—a retreat and a recharge from my worries. I hope more of you reading this are able to visit in the future, despite the nightly rate being a little steep (~$350 a night). 
 
-![dinner](https://www.brookshelley.com/photos/ono_dinner.jpg)
+![dinner](https://www.brookshelley.com/ono_dinner.jpg)
 
 Dinner was a multi-course vegetable-focused feast with more white and whiskey to go with it. The small restaurant could seat 20, but only myself and two other women (a couple?) were there. It was utterly bizarre to be the only guests in a hotel.
 
@@ -45,15 +45,15 @@ Later I read by my window, and listened to jazz.
 
 ## Day two
 
-![pancake](https://www.brookshelley.com/photos/ono_pancake.jpg)
+![pancake](https://www.brookshelley.com/ono_pancake.jpg)
 
 I woke a little before my alarm and got ready for the day. My breakfast was served in the same small cafe as dinner, and included the best pancake I’ve had in years. The maple syrup was delightful and not to sweet, and there was coarse sea salt sprinkled over the top to balance the flavor.
 
-![library](https://www.brookshelley.com/photos/ono_library.jpg)
+![library](https://www.brookshelley.com/ono_library.jpg)
 
 While my room was cleaned, I hung out in the library of the hotel with the windows open, despite the construction on the street outside. The sawing and jackhammering was somehow oddly soothing. I liked the idea that despite everything, this crew was still repairing a mountain path hundreds of years older than my own country. 
 
-![view from library](https://www.brookshelley.com/photos/ono_library_view.jpg)
+![view from library](https://www.brookshelley.com/ono_library_view.jpg)
 
 From what I’ve read, Onomichi was spared from bombing during the war, so many of the houses I see around are a very old style, with tiled roofs and small engawas. If it wasn’t for the electrical lines running overhead, my view from the library window would’ve seemed like time-travel. 
 
@@ -63,11 +63,11 @@ It was gorgeous.
 
 Later, I walked on the literature path all the way up to an observation point, and also visited the famous Tadao Ando-designed museum. I saw more than a few cats, but fellow was my favorite. We sat together for five minutes or so and appreciated the view.
 
-![mr cat](https://www.brookshelley.com/photos/mr_cat.jpg)
+![mr cat](https://www.brookshelley.com/mr_cat.jpg)
 
 All told I climbed 50 flights of steps during my hike. I only saw one other foreigner, but made sure to greet the older folks I walked past in the neighborhood with a cheerful 「こんにちは！」.
 
-![I later learned photographs were prohibited](https://www.brookshelley.com/photos/elephant.jpg)
+![I later learned photographs were prohibited](https://www.brookshelley.com/elephant.jpg)
 
 The museum had so much great cat art. I’m not a huge fine art lady, but even I enjoyed the 18th and 19th century Japanese paintings. It was pretty funny to see how white people were depicted in these paintings—all the bearded cello-playing weirdos from Holland and Portugal. 
 

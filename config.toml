@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "dill & fennel"
 theme = "brook"
 
-copyright = "© Brook Shelley 2020"
+copyright = "© Brook Shelley 2021"
 
 # Enable syntax highlighting.
 pygmentsstyle = "monokai"
@@ -48,14 +48,21 @@ ignoreErrors = ["error-remote-getjson"]
   name = "about"
   icon = "info"
   url = "/about"
+
+[minify]
+  disableCSS = false
+  disableHTML = false
+  disableJSON = false
+  disableSVG = false
+  minifyOutput = false
   
 [caches]
-[caches.assets]
-  dir = ":resourceDir/_gen"
-  maxAge = -1
-[caches.images]
-  dir = ":resourceDir/_gen"
-  maxAge = -1
+  [caches.assets]
+    dir = ":resourceDir/_gen"
+    maxAge = -1
+  [caches.images]
+    dir = ":resourceDir/_gen"
+    maxAge = -1
 
 [menu]
 

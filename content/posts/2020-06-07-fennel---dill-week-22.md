@@ -7,7 +7,7 @@ tags:
   - newsletter
 ---
 
-It's been a busy week! At my company, we had Monday and Friday off, and most of our staff took off the entire week. I decided to work through the week for some reason, and ended-up getting a lot done! Suffering from a bout of creative excitement, I also [redesigned my site](https://www.brookshelley.com/posts/2020-05-30-blog-redesign/) to try to beat the [Google performance measure](https://web.dev/measure/) and load fully under two seconds. Yes. I'm a frontend pervert. At one point I almost ditched the entire site and rebuilt it in [CSS grid](https://rachelandrew.co.uk/css/), but cooler heads prevailed (I got a little drunk and decided to just finish the redesign instead).
+It's been a busy week! At my company, we had Monday and Friday off, and most of our staff took off the entire week. I decided to work through the week for some reason, and ended-up getting a lot done! Suffering from a bout of creative excitement, I also [redesigned my site](/posts/2020-05-30-blog-redesign/) to try to beat the [Google performance measure](https://web.dev/measure/) and load fully under two seconds. Yes. I'm a frontend pervert. At one point I almost ditched the entire site and rebuilt it in [CSS grid](https://rachelandrew.co.uk/css/), but cooler heads prevailed (I got a little drunk and decided to just finish the redesign instead).
 
 Did you know we have a [cool marina](https://www.cityofberkeley.info/Marina_Home/) near our IKEA? My pal André showed it to me in a socially distant bike ride, and it's super fun to ride to, despite the slightly crowded trails. I'm trying to balance my desire to never leave the house with my need for exercise, so we'll see how many times I head to the marina in the coming weeks.
 

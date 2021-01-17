@@ -25,7 +25,7 @@ This was one of the more challenging sci-fi books I've read in a while. Ultimate
 
 **Masterworks** — Simon Jacobs
 
-[Long form review](https://www.brookshelley.com/blog/2019/09/03/Masterworks-Review.html)
+[Long form review](/blog/2019/09/03/Masterworks-Review.html)
 
 ## Movies
 

@@ -20,7 +20,7 @@ The search for the best thing is best represented by the website [The Wirecutter
 
 Supposedly, [experiences make us happier than stuff](https://www.fastcompany.com/3043858/the-science-of-why-you-should-spend-your-money-on-experiences-not-thing), but we still buy a good amount of stuff. Talking with friends, it seems like most of us like to think we’re getting a deal—by buying the _best_ thing, we’re ensuring that our dollar goes furthest. The single thing we’re buying is categorically superior, and knowing that means we can stop looking, secure in the knowledge that we’ve made the _right decision_. And yet, I still browse these sites.
 
-There’s a sense, at least for me, that something could be better. A new thing might suit my needs, or a specific complaint better. Yes, I have a raincoat, but do I have one I can wear near a campfire? Actually, [yes, yes I do](https://www.brookshelley.com/blog/2019/04/08/minimal-travel-clothing.html#jacket). In an effort to be minimal in my ownership of things, I’ve also bought quite a few of them. The irony is not lost on me.
+There’s a sense, at least for me, that something could be better. A new thing might suit my needs, or a specific complaint better. Yes, I have a raincoat, but do I have one I can wear near a campfire? Actually, [yes, yes I do](/blog/2019/04/08/minimal-travel-clothing.html#jacket). In an effort to be minimal in my ownership of things, I’ve also bought quite a few of them. The irony is not lost on me.
 
 ## The happiness factor
 

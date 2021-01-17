@@ -9,13 +9,13 @@ type: newsletter
 
 This week I spent some time thinking about hoarding.
 
-![cool hoarders](https://www.brookshelley.com/photos/cool.jpeg)
+![cool hoarders](/cool.jpeg)
 
 Specifically, toilet paper hoarding. I've yet to venture out this week to the grocery, but the TP situation in my house is on its way to dire. I was able to procure _napkins_ a week ago, so... needs must.
 
 The only hoarding I've managed to do, back when it was just called "collecting" was of alcohol. I'm a little proud of my strange Shochu collection, largely enabled by my friends over at [Umami Mart](https://umamimart.com) (who're still doing curbside pickup in the East Bay, btw).
 
-![shochu collection](https://www.brookshelley.com/photos/shochucollection.jpeg)
+![shochu collection](/shochucollection.jpeg)
 
 As you can tell from the photo, I'm prepared. You can also tell that Snorri is quite glad I'm constantly around right now, since he gets a 24/7 warm body to sleep on, and climb on. He's only demanded things a few times.
 

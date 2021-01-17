@@ -37,7 +37,7 @@ If that wet your whistle, let’s dive in for a full link immersion.
 
 Meanwhile, deep into quarantine I’ve continued to bake up a storm, and I think this is my best boule so far! 
 
-![boule](https://www.brookshelley.com/photos/boule.jpg)
+![boule](/boule.jpg)
 
 I’ve got another one in the oven this morning, and I hope it turns out well. Also if you’re the sort of person who practices witchcraft, or otherwise wants to send some good vibes my way... Friday could be very interesting. Hopefully I can share more, and it’s good news. Short version is I’m trying to do something very neat at work.
 

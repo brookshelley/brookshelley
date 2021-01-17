@@ -8,7 +8,7 @@ tags:
   - japanese
 ---
 
-![kanji](/photos/kanji.jpg)
+![kanji](/kanji.jpg)
 
 ## My first Japanese class
 

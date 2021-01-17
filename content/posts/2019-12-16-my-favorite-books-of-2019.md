@@ -7,7 +7,7 @@ tags:
 description: books I loved this year
 ---
 
-This year I [read 55 books](https://www.brookshelley.com/books) and a lot of graphic novels. Fortunately, most of them were pretty great, which made it even harder to pick out my five favorite. I gravitated towards a lot of fantasy and sci-fi in 2019 as a nice way to escape or even think about a potentially scarier future. My plan to keep reading primarily female authors also paid off.
+This year I [read 55 books](/books) and a lot of graphic novels. Fortunately, most of them were pretty great, which made it even harder to pick out my five favorite. I gravitated towards a lot of fantasy and sci-fi in 2019 as a nice way to escape or even think about a potentially scarier future. My plan to keep reading primarily female authors also paid off.
 
 In no particular order, here’s the list:
 

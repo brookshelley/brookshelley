@@ -19,6 +19,6 @@ Without further ado, release the links!
 - During the break I picked up a rad re-release of a classic manga called [“The Walking Man”](https://www.greenapplebooks.com/book/9781912097364), and it’s both gorgeous and delightfully banal. The book is mostly about a man walking quietly through urban Japan. That’s it. Sometimes he climbs trees.
 - During the holiday I also got to spend a lot of time with my friend Julian, who writes [excellent short fiction](https://maudlinhouse.net/i-am-a-beautiful-bug/) and a column about [gender and food](https://entropymag.org/the-care-and-feeding-of-your-sex-change-dan-ortberg-discusses-the-important-matter-of-soup/). We ate quite a bit of food, and rang in the new year at a party where everyone wore wigs. A+ would hang out again.
 
-All right, thanks for reading along, and being part of my [newsletter journey over this last year](https://www.brookshelley.com/posts/2019-12-30-what-i-learned-from-sending-a-newsletter-this-year/). If you’re still hungry for more newsletter _content_, I recommend learning about life and birds with [Morgane, the night heron](https://tinyletter.com/night_heron).
+All right, thanks for reading along, and being part of my [newsletter journey over this last year](/posts/2019-12-30-what-i-learned-from-sending-a-newsletter-this-year/). If you’re still hungry for more newsletter _content_, I recommend learning about life and birds with [Morgane, the night heron](https://tinyletter.com/night_heron).
 
 See you next week, space cowgirls~
