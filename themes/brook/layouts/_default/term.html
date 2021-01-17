@@ -10,9 +10,19 @@
 		<h2>{{ .Title }}</h2>
 			{{ $t := .Site.GetPage "/tags" }}
 			{{ range .Pages }}
-			<li>
-				<a href={{ .Permalink  }}>{{ .Title }}&nbsp;&nbsp;
-			</li>
+			<article> 
+				<div>
+					<time>
+						{{ dateFormat "02 Jan" .Date }}
+					</time>
+				</div>
+				<div>
+					<a class="blog-title" href="{{ .RelPermalink }}">{{.Title}}</a>
+					<div class="description">
+						{{ .Description }}
+					<div>
+				</div>
+			</article>
 			{{ end }}
 		<a href="https://buttondown.email/brookshelley"><h3>subscribe to newsletter</h3></a>
 		<a href=/tags><h3>all tags</h3></a>
