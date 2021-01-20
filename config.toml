@@ -1,6 +1,7 @@
 baseURL = "https://www.brookshelley.com/"
 languageCode = "en-us"
 title = "dill & fennel"
+subtitle = "a blog"
 theme = "brook"
 
 copyright = "© Brook Shelley 2021"
@@ -16,10 +17,9 @@ ignoreErrors = ["error-remote-getjson"]
 
 [params]
 	mainSections = ["posts"]
-  subtitle = "a blog"
 	disableDisqusTypes = ["page", "posts"]
 	disableDateTypes = ["page"]
-  featherIconsCDN = true
+    featherIconsCDN = true
 	favicon = "/favicon.ico"
 	logo = "/666.png"
 	mode = "light" # "dark", "auto", "light"
