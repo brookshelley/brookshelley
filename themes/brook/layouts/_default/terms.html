@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
-{{ partial "head.html" . }}
+{{ partialCached "head.html" . }}
 
 <body>
-	{{ partial "header.html" . }}
+	{{ partialCached "header.html" . }}
 	<main>
 
 		{{ $biggest := 1 }}
@@ -11,16 +11,16 @@
 		{{ $max := 3 }}
 		{{ $min := 1 }}
 		{{ $size := $min }}
-
 		{{ $data := .Data }}
-		<div class="taglist">
+		<article class="baseline">
 			<h2>All tags</h2>
-			{{ range $key, $value := .Data.Terms.ByCount }}
+			<p>{{ range $key, $value := .Data.Terms.ByCount }}
 			{{ $size := (add (mul (div $value.Count $biggest) (sub $max $min)) $min) }}
 			{{ $size := (cond (eq $biggest $smallest) $min $size) }}
-			<li><a href="{{ $.Site.LanguagePrefix | absURL }}{{ $data.Plural }}/{{ $value.Name | urlize }}/">{{ $value.Name }}</a>&nbsp;&nbsp;</li>
+			<a href="{{ $.Site.LanguagePrefix | absURL }}{{ $data.Plural }}/{{ $value.Name | urlize }}/">#{{ $value.Name }}</a>&nbsp;&nbsp;
 			{{ end }}
-		</div>
+			</p>
+		</article>
 		{{ partial "footer.html" . }}
 	</main>
 </body>

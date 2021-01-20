@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 {{ partialCached "head.html" . }}
 
 <body>
@@ -24,19 +24,6 @@
 			</div>
 			</article>
 			{{ end }}
-			<h2>newsletters</h2>
-			{{ range ( where .Site.RegularPages "Type" "newsletter") }}
-			<article class="baseline">
-				<div>
-					<time>
-						{{ dateFormat "02 Jan" .Date }}
-					</time>
-				</div>
-			<div>
-				<a href="{{ .RelPermalink }}">{{.Title}}</a>
-			</div>
-			</article>
-			{{- end -}}
 		</div>
 		</main>
 			{{ partialCached "footer.html" . }}

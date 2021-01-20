@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html>
-{{ partial "head.html" . }}
+{{ partialCached "head.html" . }}
 
 <body>
-	{{ partial "header.html" . }}
+	{{ partialCached "header.html" . }}
 	<main>
-	
+	<h1># {{ .Title }}</h1>
 	<div class="taglist">
-		<h2>{{ .Title }}</h2>
 			{{ $t := .Site.GetPage "/tags" }}
 			{{ range .Pages }}
 			<article> 
@@ -24,7 +23,6 @@
 				</div>
 			</article>
 			{{ end }}
-		<a href="https://buttondown.email/brookshelley"><h3>subscribe to newsletter</h3></a>
 		<a href=/tags><h3>all tags</h3></a>
 	  </div>
 		{{ partial "footer.html" . }}
