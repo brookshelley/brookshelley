@@ -7,6 +7,9 @@
 <main>
 	<article class="baseline">
 	<div>
+		{{range .Site.Data.read.books}}
+		<a href="{{ .link }}"><img class=thumb src={{ .thumbnail }} /></a>
+		{{ end }}
 		</div>
 	<div><h1>{{ .Title }}</h1>
 	{{ .Content }}

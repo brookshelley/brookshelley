@@ -1,0 +1,14 @@
+books:
+- name: Random Acts of Senseless Violence
+  read: 2021/01/17
+  link: https://bookshop.org/books/random-acts-of-senseless-violence/9780802134240
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/10804955/original/9780802134240.jpg?1587137240
+- name: The Quantum Thief
+  read: 2021/01/09
+  link: https://bookshop.org/books/the-quantum-thief/9780765375889
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/5212867/original/9780765375889.jpg?
+- name: Company Town
+  read: 2021/01/03
+  link: https://bookshop.org/books/company-town/9780765382917
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/5226042/original/9780765382917.jpg?1587940627
+  

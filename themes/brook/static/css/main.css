@@ -43,6 +43,11 @@ img {
   height:auto
 }
 
+.thumb {
+  width:100px;
+  height:auto
+}
+
 p, article li {
   max-width: var(--spacing-maxwidth-para);
 }

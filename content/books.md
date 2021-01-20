@@ -1,10 +1,15 @@
 ---
 title: "read"
 draft: false
-type: media
+type: books
 ---
 
 ## 2021 {#2021}
+
+**Random Acts of Senseless Violence** — Jack Womack
+
+This was a wild book. Written as diary entries, it follows the quick dissolution of a middle-class life in New York with the backdrop of the US falling apart completely. I'm not a huge fan of books that affect a dialect, but eventually it was easier to follow. A very depressing speculative fiction.
+
 
 **The Quantum Thief** — Hannu Rajaniemi
 
