@@ -179,6 +179,10 @@ li.flat {
   margin-right:10px;
 }
 
+li.archive {
+  margin-right:30px;
+}
+
 .newsletter li, .post li {
   list-style-type: circle;
   font-family: var(--font-body);
