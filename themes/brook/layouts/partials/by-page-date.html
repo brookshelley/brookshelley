@@ -2,7 +2,7 @@
 {{ range .Pages.GroupByDate "2006" }}
 <h3>{{ .Key }}</h3>
     {{ range .Pages }}
-    <article>
+    <article class="baseline">
         <div>
             <time>
                 {{ dateFormat "02 Jan" .Date }}

@@ -3,8 +3,8 @@
 {{ partialCached "head.html" . }}
 
 <body>
+	{{ partial "header.html" . }}
 	<main>
-		{{ partial "header.html" . }}
 		<h1>media diet</h1>
 			{{ partial "by-page-date.html" . }}
 		{{ partialCached "footer.html" . }}
