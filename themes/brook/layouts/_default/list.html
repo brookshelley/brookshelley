@@ -5,17 +5,20 @@
 <body>
 		{{ partial "header.html" . }}
 		<main>
-		<h1 class="title">archive</h1>
+		<h1>archive</h1>
 		{{ range ( where .Site.RegularPages "Type" "posts") }}
-		  <article class="baseline">
+		  <article> 
 				<div>
 					<time>
 						{{ dateFormat "02 Jan" .Date }}
 					</time>
 				</div>
-			    <div>
-				    <a href="{{ .RelPermalink }}">{{.Title}}</a>
-			    </div>
+				<div>
+					<a class="blog-title" href="{{ .RelPermalink }}">{{.Title}}</a>
+					<div class="description">
+					  {{ .Description }}
+					<div>
+				</div>
 			</article>
 			{{ end }}
 		</main>
