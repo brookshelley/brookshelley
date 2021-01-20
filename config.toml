@@ -33,6 +33,10 @@ ignoreErrors = ["error-remote-getjson"]
 	name = "Github"
 	icon = "github"
 	url = "https://github.com/brookshelley"
+	
+	[[params.social]]
+	name = "Letterboxd"
+	url = "https://www.letterboxd.com/brookshelley"
 
 	[[params.social]]
 	name = "Twitter"
@@ -40,14 +44,14 @@ ignoreErrors = ["error-remote-getjson"]
 	url = "https://twitter.com/brookshelley"
 
 	[[params.social]]
-  name = "newsletter"
-  icon = "mail"
-  url = "/tags/newsletter"
+    name = "newsletter"
+    icon = "mail"
+    url = "/tags/newsletter"
 
-  [[params.social]]
-  name = "about"
-  icon = "info"
-  url = "/about"
+    [[params.social]]
+    name = "about"
+    icon = "info"
+    url = "/about"
 
 [minify]
   disableCSS = false
