@@ -1,7 +1,7 @@
 ---
 title: "about"
 draft: false
-type: page
+type: media
 ---
 
 brook is a noted sapphist who lives in a forest with her cat snorri.
