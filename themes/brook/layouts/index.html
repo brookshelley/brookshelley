@@ -22,8 +22,14 @@
 				</div>
 			</article>
 			{{ end }}
-			<div><h3 class="archive"><a href="/posts">blog archive</a></h3></div><div><h3>
-			<a href="/tags/newsletter/">newsletter archive</h3></a></div>
+			<ul class="flat">
+				<li class="flat">
+					<a href="/posts">blog archive</a>
+				</li>
+				<li class="flat">
+					<a href="/tags/newsletter/">newsletter archive</a>
+				</li>
+			</ul>
 		</main>
 		
 		{{ partialCached "footer.html" . }}
