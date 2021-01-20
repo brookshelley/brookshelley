@@ -16,10 +16,10 @@ ignoreErrors = ["error-remote-getjson"]
 
 [params]
 	mainSections = ["posts"]
-  subtitle = "a blog"
 	disableDisqusTypes = ["page", "posts"]
 	disableDateTypes = ["page"]
   featherIconsCDN = true
+  subtitle = "a blog"
 	favicon = "/favicon.ico"
 	logo = "/666.png"
 	mode = "light" # "dark", "auto", "light"

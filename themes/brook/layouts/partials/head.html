@@ -4,7 +4,14 @@
 	<meta name="Description" content="a bunch of stuff brook reads, writes, and watches. also a blog.">
 	{{- $title := ( .Title ) -}}
 	{{- $siteTitle := ( .Site.Title ) -}}
+<<<<<<< HEAD
 	<title>{{ $siteTitle }}</title>
+=======
+	{{- if .IsHome -}}
+	<title>{{ $siteTitle }} {{ if isset .Site.Params "subtitle" }}- {{ .Site.Params.Subtitle }}{{ end }} </title>
+	{{- else -}}
+	<title>{{ $title }} — {{ $siteTitle }}</title>
+>>>>>>> af3b4682b7880abecb9bb4dbbec103c99d2b33d1
 	{{- end -}}
 	{{- if isset .Site.Params "favicon" -}}
 	<link rel="icon" type="image/png" href={{ .Site.Params.favicon }} />
