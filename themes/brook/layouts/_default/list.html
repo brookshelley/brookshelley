@@ -5,13 +5,10 @@
 <body>
 		{{ partial "header.html" . }}
 		<main>
-		{{ if isset .Data "Term" }}
-		<h1>Entries tagged - "{{ .Data.Term }}"</h1>
 		<div>
 		{{ else }}
 		<div>
-		<h2 class="title">archive</h2>				
-		{{ end }}
+		<h1 class="title">archive</h1>
 		{{ range ( where .Site.RegularPages "Type" "posts") }}
 		  <article class="baseline">
 				<div>
@@ -19,9 +16,9 @@
 						{{ dateFormat "02 Jan" .Date }}
 					</time>
 				</div>
-			<div>
-				<a href="{{ .RelPermalink }}">{{.Title}}</a>
-			</div>
+			    <div>
+				    <a href="{{ .RelPermalink }}">{{.Title}}</a>
+			    </div>
 			</article>
 			{{ end }}
 		</div>
