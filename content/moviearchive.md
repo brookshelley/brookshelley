@@ -1402,10 +1402,7 @@ physical comedy.
 
 **Book Club**
 
-	Watched this on a whim with a couple friends, and it was kinda great? I love
-	Candace Bergen from the Murphy Brown days, and hope I look as good as Diane
-	Keaton when I'm older. Silly popcorn fun. Also I guess I own it now because it
-	wasn't available to rent.
+Watched this on a whim with a couple friends, and it was kinda great? I love Candace Bergen from the Murphy Brown days, and hope I look as good as Diane Keaton when I'm older. Silly popcorn fun. Also I guess I own it now because it wasn't available to rent.
 
 **The Meg**
 
