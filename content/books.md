@@ -6,6 +6,14 @@ type: books
 
 ## 2021 {#2021}
 
+**The Dragon Republic** — R. F Kuang
+
+After the whiplash of the first book in the trilogy from school-based fantasy to brutal warfare, this book was refreshing in being exclusively brutal. I'm excited to see how the series ends, and it's also nice to be so clearly rooting against the Hesperians.
+
+**Trick Mirror** — Jia Tolentino
+
+A wide-ranging essay collection on modern social networks, marriage, and assault. Definitely worth a read, though at times it's pretty tough to get through depending on your background. Fuck marriage. Fuck Twitter. Fuck the world of conservative "christianity".
+
 **Random Acts of Senseless Violence** — Jack Womack
 
 This was a wild book. Written as diary entries, it follows the quick dissolution of a middle-class life in New York with the backdrop of the US falling apart completely. I'm not a huge fan of books that affect a dialect, but eventually it was easier to follow. A very depressing speculative fiction.

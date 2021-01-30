@@ -1,4 +1,12 @@
 books:
+- name: The Dragon Republic
+  read: 2021/01/26
+  link: https://bookshop.org/books/the-dragon-republic/9780062662606
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/12471411/original/9780062662606.jpg?1588620895
+- name: Trick Mirror
+  read: 2021/01/24
+  link: https://bookshop.org/books/trick-mirror-reflections-on-self-delusion/9780525510567
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/12411351/original/9780525510567.jpg?1594740507
 - name: Random Acts of Senseless Violence
   read: 2021/01/17
   link: https://bookshop.org/books/random-acts-of-senseless-violence/9780802134240

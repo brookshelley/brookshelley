@@ -117,7 +117,7 @@ For a book that was maddeningly confusing for almost its length, I loved it. I l
 
 A fun portal fantasy set in the early 1900s. This was decidedly a YA book, but moved along quickly and had enough fun world building to make me hope for a sequel. I also appreciated the use of alternate worlds to talk a bit more about race, gender, and sexuality, but hoped that would translate a little more into the main characters desires. As always, my throne for more lesbian protagonists. 
 
-**How to be Bored** -- Eva Hoffman
+**How to be Bored** -- Eva Hoffman
 
 I've read a lot of books _kind of_ like over the last few years, and this is one of the better-stated and brief ones out there. If you would like to read a book about attention and enjoyment, this is solid. It's high-minded and well-cited without coming off pompous either.
 
