@@ -6,6 +6,40 @@ type: media
 
 ## 2021 {#2021}
 
+Movies
+
+**The Dig**
+
+A rather interesting film about excavating a ship from a mound in rural Suffolk.Theres a wild WW2 backdrop, and a lot of Fiennes looking pensive as all getout. Everyone is in love with someone they shouldn’t be, and I kept hoping the kid was actually from the future.
+
+**Insomnia**
+
+Robin Williams is so good in this. I haven’t seen Insomnia since opening weekend, and also forgot it was a Nolan. I still need to watch the original. This is a great view of Pacino slowly losing his mind. I had this a little confused with One Hour Photo so I kept expceted a scene to take place at a CVS or something.
+
+**The Prestige**
+
+The one time Wolverine and Batman worked together with David Bowie to make powerful magicks. I honestly forgot this was a Nolan film, but I’ve loved it every time I’ve watched it. Just so fun and clever. I wonder how Golem’s cats are doing?
+
+**Never Rarely Sometimes Always**
+
+Easily the best movie I’ve seen in a long time. The level of kindness and empathy for the challenge of being a young woman in the world is outstanding. Really incredible performances from Flanagan and Ryder with a candid view of how amazing Planned Parenthood is to top it off. The focus on women caring for each other was spot-on.
+
+**The Bourne Supremacy**
+
+In the world there is only one good supremacy: the Bourne kind. Brian Cox rules in this, but I wish Julia Stylse and Franka Potente had more to do. I’m rewatching this series and it’s mostly holding-up.
+
+**Our Little Sister**
+
+I love Koreeda movies because they so beautifully humanize a great deal of pain. From his slow pans, to the way he shot the room to make you feel part of the family, this movie ruled. 
+
+**The Lost City of Z**
+
+It turns out the story of this movie’s protagonist was much more racist and absurd than presented here. The vaporization of bullshit explorers of other people’s lands is a bummer. This was well-shot despite apparent massive innacuracies. Pattinson did a solid job. 
+
+**Yes, God, Yes**
+
+A delightful look at a religious youth that was spot-on. I wish I had a cool dyke bar to escape to from youth retreat, but otherwise this was pretty much what creepy youth camps were like. Dyer is excellent, and Simons perfectly inhabits a shitty priest.
+
 **Promising Young Woman**
 
 Woah. I think I’ll have to rewatch this to really get the full impact, but this was intense and Cary Mulligan was fantastic.
