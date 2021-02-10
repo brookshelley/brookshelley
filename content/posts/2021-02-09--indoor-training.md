@@ -5,7 +5,9 @@ title: "Indoor Training"
 date: 2021-02-09
 description: riding out of the rain
 tags:
-  - 
+  - bikes
+  - zwift
+  - tech
 ---
 
 ![check out the fans](/zwiftbike.jpeg)
