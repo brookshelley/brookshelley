@@ -190,7 +190,7 @@ li.archive {
 }
 
 .newsletter a, .baseline a {
-  margin: 0 4px;
+  margin: 0 2px;
 }
 
 .newsletter .flat {
@@ -270,7 +270,7 @@ strong {
 }
 
 em {
-  margin: 0 4px;
+  margin: 0 2px;
 }
 
 article:first-of-type { margin-top: 0; }
