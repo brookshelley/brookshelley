@@ -6,6 +6,23 @@ type: books
 
 ## 2021 {#2021}
 
+**No One is Talking About This** — Patricia Lockwood
+
+A hilarious and brutally sad book about the internet and loss. I think this book perfectly captured what using Twitter is like for those who use it to find the funny things.
+
+**‌The Ministry for the Future** — Kim Stanley Robinson
+
+This was less of a novel then a series of essays somewhat thinly held-together by a so-so plot. I enjoyed bits of this, but it felt very long. I do love a good airship and a good eco-anarchism.
+
+**Worldwired** — Elizabeth Bear
+
+A satisfying conclusion with a few pretty interesting action scenes. I don't think this necessarily delivered on the ideas behind climate sci-fi, but generally it was a fun trilogy.
+
+**Scardown** — Elizabeth Bear
+
+An interesting take on a ecological crisis sci-fi. It’s wild that this sort of climate disaster sci-fi was written 15 years ago, and I really enjoyed the AI component and the idea that the US had completely blown itself up before the books begin.
+
+
 **The Dragon Republic** — R. F Kuang
 
 After the whiplash of the first book in the trilogy from school-based fantasy to brutal warfare, this book was refreshing in being exclusively brutal. I'm excited to see how the series ends, and it's also nice to be so clearly rooting against the Hesperians.

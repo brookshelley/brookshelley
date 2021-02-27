@@ -1,4 +1,20 @@
 books:
+- name: No One is Talking About This
+  read: 2021/02/24
+  link: https://bookshop.org/books/no-one-is-talking-about-this/9780593189580
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/12778629/original/9780593189580.jpg?1609773251
+- name: The Ministry for the Future
+  read: 2021/02/20
+  link: https://bookshop.org/books/the-ministry-for-the-future/9780316300131
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/12620072/original/9780316300131.jpg?1588002604
+- name: Scardown
+  read: 2021/02/05
+  link: https://bookshop.org/books/scardown/9780553587517
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/5388241/original/9780553587517.jpg?1588188681
+- name: Worldwired
+  read: 2021/02/10
+  link: https://bookshop.org/books/worldwired/9780553587494
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/5386354/original/9780553587494.jpg?1586654426
 - name: The Dragon Republic
   read: 2021/01/26
   link: https://bookshop.org/books/the-dragon-republic/9780062662606
