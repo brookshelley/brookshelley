@@ -6,7 +6,17 @@ type: media
 
 ## 2021 {#2021}
 
-Movies
+**The Thing**
+
+The remake isn’t the same level of incredible that the original was, but it’s still a pretty great alien film. I loved seeing a bunch of folks who went on to be in lots of TV shows and other things I hasn’t seen when I originally saw this film.
+
+**Monster Hunter**
+
+I don’t know what I expected from a movie based on a game with no plot. The three stars are solely bc I love jovanovich and also every action scene was absurd and delightful. 
+
+**Minari**
+
+A gorgeous, sad, and brutal portrait of trying to make family and a dream work out. The cinematography and soundtrack were a perfect pairing to one of the cutest kids in cinema, and an outstanding performance by Yuen and Youn Yuh-jung. This movie was so good it conquered my Texan's dislike of Oklahoma.
 
 **The Dig**
 
