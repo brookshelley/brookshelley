@@ -6,6 +6,14 @@ type: media
 
 ## 2021 {#2021}
 
+**Barb and Starr Go to Vista Del Mar**
+
+My friend texted me to say he was _cackling_ watching this--it was ok funny, but I didn’t know it would be a "silly" musical. I don’t really know what this kind of comedy is called, but it’s not my thing. It’s like Ace Ventura meets Marshall’s with some real Paul Blart 2 vibes.
+
+**The Little Things**
+
+I don't know if I can ever take the sheriff from True Blood seriously, or even Rami Malek. Denzel, as usual, is an imposing figure who oozes charm while methodically saving a crime.
+
 **The Thing**
 
 The remake isn’t the same level of incredible that the original was, but it’s still a pretty great alien film. I loved seeing a bunch of folks who went on to be in lots of TV shows and other things I hasn’t seen when I originally saw this film.
