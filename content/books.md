@@ -6,6 +6,10 @@ type: books
 
 ## 2021 {#2021}
 
+**Fake Accounts** — Lauren Oyler
+
+A very strange book that flirts with autobiography, and continually subverts both modern female fiction and expectations. I really enjoyed how funny and dark this was, even if it made me deeply wish I could return to Berlin soon. 
+
 **No One is Talking About This** — Patricia Lockwood
 
 A hilarious and brutally sad book about the internet and loss. I think this book perfectly captured what using Twitter is like for those who use it to find the funny things.
