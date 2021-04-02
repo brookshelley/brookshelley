@@ -6,6 +6,10 @@ type: books
 
 ## 2021 {#2021}
 
+**The Space Between Worlds** — Micaiah Johnson
+
+A rad take on the many worlds theory, complete with a bit of Mad Max desert action, and queer characters. I really enjoyed this book, but a word of warning, it includes a bit of assault.
+
 **Fake Accounts** — Lauren Oyler
 
 A very strange book that flirts with autobiography, and continually subverts both modern female fiction and expectations. I really enjoyed how funny and dark this was, even if it made me deeply wish I could return to Berlin soon. 
