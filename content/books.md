@@ -6,6 +6,10 @@ type: books
 
 ## 2021 {#2021}
 
+**The Spy Who Came in From the Cold** — John Le Carré
+
+I've seen a number of tv and film adaptations of Le Carré's work, but this is the first novel I've read of his. I get why he's so well-regarded. This was a wild story of spies and double-crosses, with everyone on the spectrum between terrible and ghoulish. A delightful spy novel.
+
 **The Space Between Worlds** — Micaiah Johnson
 
 A rad take on the many worlds theory, complete with a bit of Mad Max desert action, and queer characters. I really enjoyed this book, but a word of warning, it includes a bit of assault.
