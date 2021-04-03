@@ -1,6 +1,10 @@
 books:
+- name: The Spy Who Came in From the Cold
+  read: 2021/03/30
+  link: https://bookshop.org/books/the-spy-who-came-in-from-the-cold/9780143124757
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/4378222/original/9780143124757.jpg?1588314385
 - name: The Space Between Worlds
-  read:
+  read: 2021/03/25
   link: https://bookshop.org/books/the-space-between-worlds-9780593135051/9780593135051
   thumbnail: https://images-production.bookshop.org/spree/images/attachments/12560197/original/9780593135051.jpg?1590041747
 - name: Fake Accounts

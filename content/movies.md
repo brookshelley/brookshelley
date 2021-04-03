@@ -6,6 +6,38 @@ type: media
 
 ## 2021 {#2021}
 
+**Safe House**
+
+Old spy/young spy. Not quite a Bourne or a Le Carré, but it was a fun thriller even though I can’t quite take Ryan Reynolds seriously.
+
+**Dante’s Peak**
+
+This is a more focused predecessor to one of my all-time favorite movies, 2012. James Bond does a science, while Sarah Conner slings espresso and does mayor stuff. This move made me afraid of volcanos and hot springs and also children driving. If there’s a genre called "my boss didn’t beleive me until it was too late" this is firmly part of it.
+
+**The Last Black Man in San Francisco**
+
+The colors and light in this film are unbeleivable. Utterly gorgeous. Jimmie Fails and Jonathan Major had incredible screen chemistry, with their performances tied together with long pans. I can’t wait to see more Jimmie Falls in films.
+
+**Oblivion**
+
+Somehow I hadn’t seen this until tonight. A delightful Tom Cruise sci-fi with a pretty predicitable twist, and really goofy goggles. A+
+
+**Sentinelle**
+
+A nice and tight action film. The fights were well-coreographed, and there just wasn’t much fat to trim. Fast, fun, and chill.
+
+**Shadow in the Cloud**
+
+A hat on a gremlin on a hat. This movie was initially kind of interesting, and seemed like it would be a straight-up tale of misogyny in the sky, but then the gremlin showed-up, and the zeros, and it just kept going. 
+
+**The Fugitive**
+
+I hadn’t seen this since the 90s, and it really holds up. Ford and Jones amp up the tension and make every scene worth watching. Classic.
+
+**Space Sweepers**
+
+I’d heard this described as a life action Cowboy Bebop, but sadly it has much less style and substance. Parts of the world building were cool, but why did they have to add a farting child? 
+
 **Barb and Starr Go to Vista Del Mar**
 
 My friend texted me to say he was _cackling_ watching this--it was ok funny, but I didn’t know it would be a "silly" musical. I don’t really know what this kind of comedy is called, but it’s not my thing. It’s like Ace Ventura meets Marshall’s with some real Paul Blart 2 vibes.
