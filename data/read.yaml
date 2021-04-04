@@ -1,4 +1,8 @@
 books:
+- name: Temporary
+  read: 2021/04/03
+  link: https://bookshop.org/books/temporary-9781721353484/9781566895668
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/8703196/original/9781566895668.jpg?1617141844
 - name: The Spy Who Came in From the Cold
   read: 2021/03/30
   link: https://bookshop.org/books/the-spy-who-came-in-from-the-cold/9780143124757
