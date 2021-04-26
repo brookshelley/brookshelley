@@ -1,4 +1,17 @@
+# - name: 
+# read: 
+# link:
+# thumbnail:
+
 books:
+- name: Yokohama Station SF
+  read: 2021/04/25
+  link: https://bookshop.org/books/yokohama-station-sf/9781975319519
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/14171485/original/9781975319519.jpg?1618977943
+- name: There's No Such Thing as an Easy Job
+  read: 2021/04/20
+  link: https://bookshop.org/books/there-s-no-such-thing-as-an-easy-job/9781635576917[]
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/12984761/original/9781635576917.jpg?1616428878
 - name: Temporary
   read: 2021/04/03
   link: https://bookshop.org/books/temporary-9781721353484/9781566895668

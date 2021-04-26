@@ -6,6 +6,26 @@ type: books
 
 ## 2021 {#2021}
 
+**Yokohama Station SF** — Yuba Isukari
+
+I guess this is a light novel, which means it lived up to my expectations of being plot and idea-rich, without much character development or interiority. This was made into a manga already, and I've heard there could be an anime adaptation, and I think it will work well in that medium. An easy read with some fun scenes.
+
+**There's No Such Thing as an Easy Job** — Kikuko Tsumura
+
+A cute, quirky book about taking odd jobs that get odder as time wears-on. My favorite bits could be books of their own—the postering job and bus advert job are standouts. Ultimately, the message that maybe burnout is avoidable if you look for the fun weird parts of work is not so great, but I dug this book overall.
+
+**The Invisible Life of Addie Larue** — V.E. Schwab
+
+A fun Faustian bargain hampered slightly by a ho-hum romance. The devil rules.
+
+**Cannonball** — Kelsey Wroten
+
+A bit overwrought, but I dug the art. 
+
+**Temporary** — Hillary Leichter
+
+This reminded me of a much more cohesive Kathy Acker novel, with weird pirate jaunts, assassins, and ghosts. Fun, and fast-moving.
+
 **The Spy Who Came in From the Cold** — John Le Carré
 
 I've seen a number of tv and film adaptations of Le Carré's work, but this is the first novel I've read of his. I get why he's so well-regarded. This was a wild story of spies and double-crosses, with everyone on the spectrum between terrible and ghoulish. A delightful spy novel.
