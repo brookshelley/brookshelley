@@ -1,4 +1,12 @@
-# Back to normal?
+---
+draft: false
+type: posts
+title: "back to normal"
+date: 2021-04-27
+description: a few thoughts post-vaccine
+tags:
+  - thoughts
+---
 
 After more than a year, I received a COVID vaccine (J&J), which meant both a degree of safety, and signaled a potential end to the pandemic locally.
 
