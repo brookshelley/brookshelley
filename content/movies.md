@@ -6,6 +6,56 @@ type: media
 
 ## 2021 {#2021}
 
+**Unstoppable**
+
+Denzel Washington is too old for this shit, but not too old to stop a runaway train. This movie rules.
+
+**Sexy Beast**
+
+Realized halfway through this is a rewatch, but Winstone and Kingsley are wildly compelling regardless.
+
+**I Care a Lot**
+I love an anti-hero, and pretty much every person in this film is either horrible or an idiot, or all of the above. I also love a lesbian lead. This managed to be twisted and funny, and I really dug it.
+
+**Transsiberian** 
+
+Look I love a train mystery. I remembered halfway through this I’ve seen it before.
+
+**The Mosquito Coast**
+
+What if dads but too much? This movie reminded me of some of the worst bits of my childhood. At least my dad never made us move to the jungle. They’re remaking this soon with Justin Theroux and I’m super excited to see how he channels the deranged dad energy. ICE IS CIVILIZATION.
+
+**Courier**
+
+Wow who knew the real story behind the font was this intense!
+
+**Nobody**
+
+A blast from start to finish. This is the best action comedy since True Lies. 
+
+**Gone Girl**
+
+Imagine if Tyler Perry had played Madea in this movie but with the same character and level of seriousness. I think at a fundamental level a movie that imagines “what if a woman fakes domestic abuse” is dangerous, but otherwise as a film this was solid. Rosamund Pike was great as a nightmarish villain though.
+
+**Sorcerer**
+
+You’ve seen the Fast & Furious, but what about the Slow & Simmering? For a movie largely about trucks driving below 10mph, this was a thrill ride. I should rewatch Seaquest.
+
+**Under the Skin**
+
+Haven’t seen this since it came out, but the moody slow build and austere soundtrack are haunting.
+
+**Bad Trip**
+
+Planes, Trains, and incredibly wild scenes. The restaurant scene was a standout, but so many bits of this movie were amazing.
+
+**Godzilla vs. Kong**
+Explosions, huge monster fights, and a surprisingly great cast having a good time. Ideal summer entertainment. I guess I’ve seen every film in the “monsterverse” now, and this was maybe the most fun? Long live Godzilla, the KoM.
+
+**Wet Hot American Summer**
+
+A delightful rewatch. I forgot how many amazing actors were in this at the start of their career, with absurdist performances from Michael Ian Black, Bradley Cooper, and David Hyde Pierce. All the little bits, and the kids’ reactions to them are hilarious. A classic. _smashing pottery sounds_
+
 **Safe House**
 
 Old spy/young spy. Not quite a Bourne or a Le Carré, but it was a fun thriller even though I can’t quite take Ryan Reynolds seriously.
