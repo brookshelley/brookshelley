@@ -6,6 +6,10 @@ type: books
 
 ## 2021 {#2021}
 
+**The Galaxy and the Ground Within** -- Becky Chambers
+
+A fantastic final volume in the Wayfarers series. I loved the look at imperialism, racism, and many assumptions we make about each other regularly. This book does a lot with a closed setting, and was a page-turner. 
+
 **Yokohama Station SF** — Yuba Isukari
 
 I guess this is a light novel, which means it lived up to my expectations of being plot and idea-rich, without much character development or interiority. This was made into a manga already, and I've heard there could be an anime adaptation, and I think it will work well in that medium. An easy read with some fun scenes.
