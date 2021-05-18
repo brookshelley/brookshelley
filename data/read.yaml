@@ -5,9 +5,13 @@
 
 books:
 - name: The Last Tourist
-  read: 20201/05/15
+  read: 2021/05/15
   link: https://bookshop.org/books/the-last-tourist/9781250036193
   thumbnail: https://images-production.bookshop.org/spree/images/attachments/12751600/original/9781250036193.jpg?1611717363
+- name: Persephone Station
+  read: 2021/05/08
+  link: https://bookshop.org/books/persephone-station-9781534414594/9781534414587
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/13347235/original/9781534414587.jpg?1617049683
 - name: The Galaxy and the Ground Below
   read: 2021/04/30
   link: https://bookshop.org/books/the-galaxy-and-the-ground-within-9780062936042/9780062936042
