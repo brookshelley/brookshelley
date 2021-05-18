@@ -10,6 +10,10 @@ type: books
 
 A post-2016 election spy novel that deals in interesting ways with how capitalism and the rise of facism effect even the spy industry. I've enjoyed the twists of this series, and this was a neat fourth entry.
 
+**Persephone Station** — Stina Leicht
+
+Kinda hokey at times, with a lot of _wink wink_ I’m hip with the sexual politics of the youth, but otherwise enjoyable. 
+
 **The Galaxy and the Ground Within** -- Becky Chambers
 
 A fantastic final volume in the Wayfarers series. I loved the look at imperialism, racism, and many assumptions we make about each other regularly. This book does a lot with a closed setting, and was a page-turner. 
