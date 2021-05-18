@@ -6,6 +6,10 @@ type: books
 
 ## 2021 {#2021}
 
+**The Last Tourist** -- Olen Steinhauer
+
+A post-2016 election spy novel that deals in interesting ways with how capitalism and the rise of facism effect even the spy industry. I've enjoyed the twists of this series, and this was a neat fourth entry.
+
 **The Galaxy and the Ground Within** -- Becky Chambers
 
 A fantastic final volume in the Wayfarers series. I loved the look at imperialism, racism, and many assumptions we make about each other regularly. This book does a lot with a closed setting, and was a page-turner. 
