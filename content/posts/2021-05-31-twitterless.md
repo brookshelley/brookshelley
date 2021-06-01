@@ -2,7 +2,7 @@
 type: posts
 title: "twitterless"
 date: 2021-05-31
-description: 
+description: not posting through it
 tags:
   - socialmedia
 ---
