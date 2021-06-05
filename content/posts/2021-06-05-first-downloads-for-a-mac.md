@@ -1,6 +1,6 @@
 ---
 type: posts
-title: "First downloads for a Mac"
+title: "first downloads for a Mac"
 date: 2021-06-05
 description: apps I use lately
 tags:
