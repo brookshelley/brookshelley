@@ -72,18 +72,12 @@ Do you write on the internet and need to upload images? This is for that.
 Finally, I install a few utilities via the command line:
 
 - Brew
-
-		/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 		
 - Hyper
-	
-		brew install hyper
 		
 - OhMyZsh
-
-		sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 		
-These apps are are a backing service for installing and managing packages, my terminal of choice, and a good Zsh customization now that Zsh is the standard on a Mac.
+These apps are a backing service for installing and managing packages, my terminal of choice, and a good Zsh customization now that Zsh is the standard on a Mac.
 
 ## Anything else?
 
