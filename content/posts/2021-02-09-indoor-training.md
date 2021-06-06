@@ -1,7 +1,7 @@
 ---
 draft: false
 type: posts
-title: "Indoor Training"
+title: "indoor training"
 date: 2021-02-09
 description: riding out of the rain
 tags:
