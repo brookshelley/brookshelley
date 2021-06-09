@@ -143,6 +143,7 @@ ul.flat {
 .site-title a {
   color:var(--color-default);
   font-family: var(--font-head);
+  margin-left: 10px;
 }
 
 h1 {
@@ -225,9 +226,7 @@ li.archive {
       font-size: 12px;
       line-height: 23px;
   }
-  header li {
-    margin-left:5px;
-  }
+
   .logo {
     max-width:33px; 
     float:left;
