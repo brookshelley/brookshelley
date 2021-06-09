@@ -71,6 +71,7 @@ footer {
   width:100%;
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
+  grid-column-start: 2;
 }
 
 footer p {
@@ -82,10 +83,6 @@ footer img {
   max-height: 20px;
   max-width: 20px;
   margin-right: 10px;
-}
-
-footer ul {
-  grid-column-start: 2;
 }
 
 .logo {
