@@ -60,7 +60,7 @@ p, article li {
 header {
   font-size:var(--font-large);
   display: grid;
-  grid-template-columns: 3fr 2fr;
+  grid-template-columns: 2fr 2fr;
   margin-bottom: 1.5rem
 }
 
