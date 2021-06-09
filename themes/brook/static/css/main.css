@@ -140,15 +140,6 @@ ul.flat {
   padding-left:0px;
 }
 
-ul.flatright {
-  display: flex;
-  margin-top:5px;
-  margin-bottom:5px;
-  list-style:none;
-  padding-left:0px;
-  align-items: :right;
-}
-
 .site-title a {
   color:var(--color-default);
   font-family: var(--font-head);
