@@ -37,8 +37,7 @@ margin: 0 auto;
 max-width: 55rem;
 font-family:var(--font-body);
 display: grid;
-grid-template-columns: 1fr 2fr 1fr;
-align-items: baseline;
+grid-template-columns: 1fr 1fr;
 }
 
 img {
