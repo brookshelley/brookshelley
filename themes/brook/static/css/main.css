@@ -64,12 +64,6 @@ header {
   margin-bottom: .5rem
 }
 
-main {
-  display: grid;
-  grid-template-columns: 1fr 1fr;
-  align-items: baseline;
-}
-
 footer {
   font-family:var(--font-head);
   font-size:.8em;
