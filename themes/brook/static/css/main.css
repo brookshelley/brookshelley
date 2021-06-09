@@ -84,6 +84,10 @@ footer img {
   margin-right: 10px;
 }
 
+footer ul {
+  grid-column-start: 2;
+}
+
 .logo {
   max-width:33px; 
   float:left;
