@@ -4,6 +4,10 @@
 # thumbnail:
 
 books:
+- name: A Deadly Education
+  read: 2021/05/24
+  link: https://bookshop.org/books/a-deadly-education/9780593128480
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/12296416/original/9780593128480.jpg?1595956534
 - name: The Last Tourist
   read: 2021/05/15
   link: https://bookshop.org/books/the-last-tourist/9781250036193
