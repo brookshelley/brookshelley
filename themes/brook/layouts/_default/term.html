@@ -5,6 +5,9 @@
 <body>
 	{{ partialCached "header.html" . }}
 	<main>
+	<div>
+		<a href=/tags><h3>all tags</h3></a>
+	</div>
 	<h1># {{ .Title }}</h1>
 	<div class="taglist">
 			{{ $t := .Site.GetPage "/tags" }}
@@ -23,9 +26,8 @@
 				</div>
 			</article>
 			{{ end }}
-		<a href=/tags><h3>all tags</h3></a>
 	  </div>
-		{{ partial "footer.html" . }}
 	</main>
+	{{ partial "footer.html" . }}
 </body>
 </html>
