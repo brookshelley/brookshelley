@@ -8,7 +8,7 @@
 	<div>
 		<a href=/tags><h3>all tags</h3></a>
 	</div>
-	<h1># {{ .Title }}</h1>
+	<div><h1># {{ .Title }}</h1></div>
 	<div class="taglist">
 			{{ $t := .Site.GetPage "/tags" }}
 			{{ range .Pages }}
