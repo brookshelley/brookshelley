@@ -6,6 +6,74 @@ type: media
 
 ## 2021 {#2021}
 
+**Chappie**
+
+Despite being very silly at times, this was a fun movie that explored consciousness and the ideas of a learning AI. I think folks were disappointed because it wasn’t serious at all times, but this played out like a cool sci-fi short story.
+
+**Together, Together**
+
+Hilarious and deeply touching. I love this look at an unlikely friendship and the complexity of pregnancy. Plus, Patti Harrison fucking owns.
+
+**Free Fire**
+
+Just a wild ride from start to finish. Watching everything go to shit, then get worse was a delight.
+
+**Chaos Walking**
+
+This felt like the first few episodes of a longer show, and not really a whole films. I enjoy Mads just doing weird shit though. When I first saw stills for this I thought it was that Hideo Kojima game.
+
+**Riders of Justice**
+
+A fantastic black comedy one part John wick, and one part Planes, Trains, and Automobiles. A truly weird and fun film. More Mads please.
+
+**Army of the Dead**
+
+I’m not a Snyder fan, but he’s made two good zombie films and this is one of them. Silly, fun, and full of excitement.
+
+Pacific Rim: Uprising Fun and silly, like what a Transformers move could’ve been if they weren’t such hot trash.
+
+**Dead Man Down**
+
+Meh
+
+**Set It Off**
+
+Queen Latifah should’ve gotten a massage and romance scene. This is a classic heist movie, and after hearing EPM talk about it I couldn’t believe I hadn’t seen it before.
+
+**Oxygen**
+
+A movie set in tight quarters reminiscent of when Green Lantern got buried in that one movie with just a lighter.
+
+**Green Zone**
+
+I still find it abhorrent we destroyed a country for no real reason. Matt Damon plays a hapless but passionate action man well.
+
+**Patriot Games**
+
+Ah, the good old days of bad guy Sean Bean. This continues my tour of Harrison Ford classics, and I’d forgotten all the talent in this film. A good spy thriller and Ford makes a much better Ryan than Jim from the office.
+
+**Without Remorse**
+
+I’ve been on a Harrison Ford kick lately and looking forward to reexploring his foray into the dad fiction of Tom Clancy, so it’s lovely seeing Michael B. Jordan so thoroughly take on the mantle of spyman John Clark. Action trash delight.
+
+**Relic**
+
+A real House of Leaves-esque situation. Is this perhaps a prequel to Under the Skin?
+
+Really though this was a deeply scary, haunting film about aging and our responsibility to our loved ones.
+
+**In the Earth**
+
+A wild film that somehow manages to combine pandemic fear with supernatural mushroom horror. Excellent. Two fun tastes that taste great together.
+
+**Searching**
+
+An interesting way to tell a story but I think the reliance on computer footage hindered the overall story, despite strong performances by Cho.
+
+**Training Day**
+
+A classic Denzel/Fuqua film that starts wild and gets so much wilder. The way Denzel delivers every line and just delivers looks is a delight every time. Ethan Hawke is fine in this but I don’t think he has the charisma to counter Denzel. Fun and disturbing, this is like a short-form The Wire, but in LA.
+
 **Unstoppable**
 
 Denzel Washington is too old for this shit, but not too old to stop a runaway train. This movie rules.
