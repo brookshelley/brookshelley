@@ -6,6 +6,10 @@ type: books
 
 ## 2021 {#2021}
 
+**Deadly Education** — Naomi Novik
+
+Another take on the dark wizard school, but the best one yet. I loved the setting, all the truly weird characters, and the magic system. I’m only mad that I have to wait until September to read the next book.
+
 **The Last Tourist** -- Olen Steinhauer
 
 A post-2016 election spy novel that deals in interesting ways with how capitalism and the rise of facism effect even the spy industry. I've enjoyed the twists of this series, and this was a neat fourth entry.
