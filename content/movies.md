@@ -6,6 +6,46 @@ type: media
 
 ## 2021 {#2021}
 
+**Come to Daddy**
+
+Elijah Wood seems to only take fun projects in a post-LOTR world, and I love it. His 2017 film I Don't Feel at Home in This World Again, Wilfred, voice-acting in Miyazaki films, and now this short bowl cut and hooded-cape weirdo film are such a nice career pivot.
+
+**Demon Slayer: Mugen Train**
+
+More like a few episodes than a cohesive film, this got me stoked for season 2.
+
+**Resident Evil: The Final Chapter**
+
+I’ve seen this one the most besides the first because I got to see it in Japan before it came out in the states. That was a strange experience so it’ll always stick with me. 
+
+**Resident Evil 2-5**
+
+Hokey but fun.
+
+**Resident Evil**
+
+Classic.
+
+**Red Dawn**
+
+The original was a classic schlocky action film, and this one was an alright action remake. I don't know if Chris Pine can live up to Kurt Russell generally, but if you want to see him try, this is a film for it.
+
+**Conjuring: The Devil Made Me Do It**
+
+I’m a sucker for this very silly series. I love how much they malign and hate on the spectre of "satanists". Walter Bishop from Fringr is in this and that was a nice surprise. 
+
+**Saw 3**
+
+The first three films in this series are in the perfect uncanny valley of bad fashion. I should listen to the Why Are Dads episode now that I’ve made it through because John is an absolutely insufferable dad.
+
+**Saw 2**
+
+I forgot the kid from Continuum was in this. Overall, this sequel was a lot schlockier now that we know what the whole Saw deal is like. The nü-metal at the end dates this more than anything else could.
+
+**Saw 2**
+
+I think I watched this shortly after it came out, but it’s still wild to see Ben from Lost, Danny Glover, and the man in the mask from Princess Bride. This is a classic absurd horror thriller, and this rewatch begins my staycation of Saw.
+
 **Chappie**
 
 Despite being very silly at times, this was a fun movie that explored consciousness and the ideas of a learning AI. I think folks were disappointed because it wasn’t serious at all times, but this played out like a cool sci-fi short story.

@@ -6,6 +6,26 @@ type: books
 
 ## 2021 {#2021}
 
+**Changing Planes**
+
+A fantastic meta-narrative is the lead-in to this multiverse adventure. I appreciate the creativity and speculation even though the short stories are loosely tied together.
+
+**The Seep**
+
+A good take on alien invasion with a complex protagonist. The Seep was a nice meditation on loss and moving forward.
+
+**We Are Satellites**
+
+An interesting look at the social effects of brain augmentation and who is left behind. Definitely easier to read than her pandemic book.
+
+**Foundation** -- Issac Asimov 
+
+Wow. What a wild old book. I love the sprawling story even if it completely forgets that women exist.
+
+**Lady Joker** -- Kaoru Takamura
+
+I thought this was a mystery but it’s much more of a… police and investigative procedural. Slow at times but nice too.
+
 **Deadly Education** — Naomi Novik
 
 Another take on the dark wizard school, but the best one yet. I loved the setting, all the truly weird characters, and the magic system. I’m only mad that I have to wait until September to read the next book.
