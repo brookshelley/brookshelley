@@ -19,7 +19,7 @@
 }
 
 html {
-line-height: 1.5; 
+line-height: 1.4; 
 margin: 0 auto; 
 padding: calc(8px + 5vw);
 color:var(--color-default);
@@ -224,7 +224,7 @@ li.archive {
   }
   div.title {
       font-size: 12px;
-      line-height: 23px;
+      line-height: 22px;
   }
 
   .logo {
