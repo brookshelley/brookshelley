@@ -1,4 +1,8 @@
---- title: "read before" draft: false type: media ---
+--- 
+title: "read before" 
+draft: false 
+type: media 
+---
 
 _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020)_
 
