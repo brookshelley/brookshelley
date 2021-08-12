@@ -3,16 +3,17 @@
 {{ partialCached "head.html" . }}
 
 <body>
-		{{ partial "header.html" . }}
-<main>
-	<article class="baseline">
-	<div>
-		</div>
-	<div><h1>{{ .Title }}</h1>
-	{{ .Content }}
-	</div>
-</main>
-{{ partialCached "footer.html" . }}
+	{{ partial "header.html" . }}
+	<main>
+		<article class="baseline">
+			<div>
+			</div>
+			<div>
+				<h1>{{ .Title }}</h1>
+				{{ .Content }}
+			</div>
+			{{ partialCached "footer.html" . }}
+	</main>
 </body>
 
 </html>
