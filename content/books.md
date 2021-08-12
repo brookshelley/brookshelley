@@ -171,4 +171,3 @@ protagonist. A good escape read for the holidays.
 [**](#ghost) <a name="ghost"></a> Ghost Book Club
 
 ## [book archive](/bookarchive)
- -->
