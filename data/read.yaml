@@ -4,6 +4,34 @@
 # thumbnail:
 
 books:
+- name: Where the Wild Ladies Are
+  read: 2021/06/05
+  link: https://bookshop.org/books/where-the-wild-ladies-are/9781593766900
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/14604233/original/9781593766900.jpg?1627662794
+- name: Subprime Attention Crisis
+  read: 2021/06/05
+  link: https://bookshop.org/books/subprime-attention-crisis-advertising-and-the-time-bomb-at-the-heart-of-the-internet/9780374538651
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/12560950/original/9780374538651.jpg?1587512932
+- name: Changing Planes
+  read: 2021/06/05
+  link: https://bookshop.org/books/changing-planes-stories/9780358380023
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/10829422/original/9780358380023.jpg?1617629741
+- name: The Seep
+  read: 2021/06/05
+  link: https://bookshop.org/books/the-seep-9781641290869/9781641292153
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/12444761/original/9781641292153.jpg?1618242312
+- name: We Are Satellites
+  read: 2021/06/05
+  link: https://bookshop.org/books/we-are-satellites/9781984802606
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/12766972/original/9781984802606.jpg?1601582865
+- name: Foundation
+  read: 2021/06/05
+  link: https://bookshop.org/books/foundation-9780553293357/9780553293357
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/8868680/original/9780553293357.jpg?1623825714
+- name: Lady Joker
+  read: 2021/06/05
+  link: https://bookshop.org/books/lady-joker-volume-1/9781616957018
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/13494070/original/9781616957018.jpg?1609958904
 - name: A Deadly Education
   read: 2021/05/24
   link: https://bookshop.org/books/a-deadly-education/9780593128480
