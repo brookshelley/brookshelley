@@ -218,7 +218,10 @@ li.archive {
   body>header a.logo {
       margin-bottom: 0;
   }
-
+  article, .grid {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+  } 
   footer {
       padding: 2 0;
       display: grid;
@@ -234,6 +237,9 @@ li.archive {
     float:left;
     margin-top:2px;
     }
+  article {
+    margin: 1.6rem 1rem;
+  }
 }
 
 time {
@@ -259,7 +265,7 @@ time {
 }
 
 article {
-  margin: 1.6rem 1rem;
+  margin: 1.6rem 0;
 }
 
 article b {
@@ -282,13 +288,6 @@ article:first-of-type { margin-top: 0; }
 
 @media (max-width: 799px) {
   ul.taglist { display: none; }
-}
-
-@media (min-width: 800px) {
-  article, .grid {
-      display: grid;
-      grid-template-columns: 1fr 2fr;
-  }
 }
 
 ul.taglist {
