@@ -1,4 +1,11 @@
-# Colemak Keyboard
+---
+type: posts
+title: " Colemak Keyboard"
+date: 2021-08-16
+description: learing a new way to type
+tags:
+  - tech
+---
 
 A year and change into the pandemic and I'm the kind of over it where I take up random hobbies just for something different to do. Road cycling was the best thing I've committed to in earnest, besides my pre-pandemic goal to become literate in Japanese. 
 
