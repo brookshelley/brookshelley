@@ -7,8 +7,6 @@ tags:
   - tech
 ---
 
-# Moving back to Keychain from 1Password
-
 With the announcement of [1Password 8](https://blog.1password.com/1password-8-for-mac-is-now-in-early-access/) and its move to Electron, along with iOS 15 bringing a Safari password service capable of creating two-factor passwords, it seems like the perfect time to try moving back to the keychain.
 
 Until I worked at [Turbine Labs](https://www.turbinelabs.io), I'd never used a standalone password manager. In 2015, the sheer number of logins I managed were comparatively small, and the options for two-factor limited. I probably used insecure passwords a fair bit too. 1Password had shared vaults for the team though, and with our company buying a subscription it seemed like an easy choice to switch my personal data over as well. 
