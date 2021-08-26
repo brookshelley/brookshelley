@@ -6,6 +6,70 @@ type: media
 
 ## 2021 {#2021}
 
+**Scanners**
+
+Somehow I hadn’t ever seen this absolute banger of a movie about telepathy and telekinesis. It’s delightfully Canadian and I’m sure inspired many an anime.
+
+**After Midnight**
+
+A way more interesting and charming film than I expected. A monster film cover for a movie about relationships and growing together.
+
+**Jolt**
+
+A goofy, but fun-enough action film. 
+
+**The Master**
+
+Why did we need the Joker when we already had this? A true weird PTA classic.
+
+**Drug War**
+
+A brutal, non-stop cop procedural. Guns akimbo? Yup. Betrayal and tons of Buicks? You bet.
+
+**High Tension**
+
+I forgot how fucked-up this is, and that they used Muse songs for the soundtrack.
+
+**Blackhat**
+
+This is my second viewing with my first on opening night. They should’ve called this movie "Himbo Hacker". This is the only movie I can think of with a dramatic scene where someone types ‘ls’ and also ‘cat’ in a terminal. As hokey as the whole thing is, the action slaps, and it’s a fun action romp.
+
+**Midnight Special**
+
+What a cool movie! What’s left unshown and unsaid kept this taunt and fun. Shannon spoke volumes with his eyes, and even the kid managed gravitas without falling into the haley joel trap. I don’t remember hearing about this movie at the time, but I think it deserves more hype.
+
+**Gunpowder Milkshake**
+
+On it’s face, this was made for me, but sadly it was a substanceless and somehow joyless exercise.
+
+**Censor**
+
+I had very little idea what was going on towards the end of this. Generally, I dug the vibe though.
+
+**No Sudden Move**
+
+A really outstanding cast made this a delight from start to finish. Full of fun twists and a brisk-moving story.
+
+**Synchronic**
+
+A cool time travel film about using drugs to wander around in the past and how that's not a great plan because of racism. Very interesting and though it's not quite the same wild as Primer or Los Cronoscriminos, it's up there.
+
+**Insidious**
+
+A spooky, but not very good horror film.
+
+**The Tomorrow War**
+
+I like the version of the world where enough people watch soccer worldwide that folks use the World Cup to announce vital information. I don’t like a world where a few heroes save the world after the governing bodies don’t help. Climate change is a collective problem and needs collective solutions. Also this is a fun movie so whatever.
+
+**Fast 7**
+
+A big ‘ol sob of an ending and a really fun movie.
+
+**Werewolves Within**
+
+A pretty perfect horror comedy. Sam Richardson is seriously talented, and if you haven’t seen Detroiters, get on that. The beats were great, everyone was doing a lot, and I laughed throughout.
+
 **Come to Daddy**
 
 Elijah Wood seems to only take fun projects in a post-LOTR world, and I love it.
