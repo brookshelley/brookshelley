@@ -32,7 +32,7 @@ I forgot how fucked-up this is, and that they used Muse songs for the soundtrack
 
 **Blackhat**
 
-This is my second viewing with my first on opening night. They should’ve called this movie "Himbo Hacker". This is the only movie I can think of with a dramatic scene where someone types ‘ls’ and also ‘cat’ in a terminal. As hokey as the whole thing is, the action slaps, and it’s a fun action romp.
+This is my second viewing with my first on opening night. They should’ve called this movie “Himbo Hacker”. This is the only movie I can think of with a dramatic scene where someone types ‘ls’ and also ‘cat’ in a terminal. As hokey as the whole thing is, the action slaps, and it’s a fun action romp.
 
 **Midnight Special**
 
