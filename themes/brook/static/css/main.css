@@ -252,6 +252,9 @@ li.archive {
   article {
   margin: 1.6rem .5rem
   }
+  main {
+    margin-top: 0rem;
+  }
 }
 
 time {
