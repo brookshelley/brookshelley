@@ -1,5 +1,5 @@
 ---
-type: posts
+type: mediadiet
 title: The old is new again
 tags:
   - process

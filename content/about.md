@@ -4,19 +4,9 @@ draft: false
 type: media
 ---
 
-brook is a noted sapphist who lives in a forest with her cat snorri.
+brook is a noted sapphist who lives in a forest with her cat snorri
 
-she loves travel, food, and satan. 
-
-you can reach her [here](mailto:about@brookshelley.com).
-
-<li>
- <a href="/tags/newsletter/" title="newsletter"><img src="/mail.svg" alt="rss icon" /></a>
-</li>		 
-<li>
- <a href="/index.xml" title="rss"><img src="/rss.svg" alt="rss icon" /></a>
-</li>
-
+you can reach her [here](mailto:about@brookshelley.com) or view her weekly [newsletter](/tags/newsletter/)
 
 ## writing
 

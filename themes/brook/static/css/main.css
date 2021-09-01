@@ -34,7 +34,6 @@ html {
   
 body {
 padding: 0;
-margin: 0 auto;
 max-width: 55rem;
 font-family:var(--font-body);
 }
@@ -62,7 +61,6 @@ header {
   font-size:var(--font-large);
   display: grid;
   grid-template-columns: 1fr 1fr;
-  margin-bottom: 1.5rem;
   margin-left: 1rem;
   margin-right: 1rem;
 }
@@ -229,8 +227,9 @@ li.archive {
   }
   
   body>main {
-    padding: 2.5vw 5vw 8vw;
+    padding: 1vw 5vw;
   }
+  
   article, .grid {
     display: grid;
     grid-template-columns: 1fr 2fr;
