@@ -276,6 +276,10 @@ time {
   margin-left: 0;
 }
 
+main {
+  margin-top: 3rem;
+}
+
 article {
   margin: 1.6rem 1rem;
 }
