@@ -6,6 +6,10 @@ type: books
 
 ## 2021 {#2021}
 
+**Psion**
+
+A slightly jaunty angle on future space stuff that spent a lot of time on telepathy and belonging. 
+
 **Changing Planes**
 
 A fantastic meta-narrative is the lead-in to this multiverse adventure. I
