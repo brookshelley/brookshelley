@@ -1,5 +1,5 @@
 ---
-layout: posts
+layout: mediadiet
 title: "January"
 date: 2020-01-30
 tags:

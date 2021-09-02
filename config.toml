@@ -10,7 +10,7 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-paginate = 5
+paginate = 300
 summaryLength = 20
 ignoreErrors = ["error-remote-getjson"]
 
@@ -44,14 +44,14 @@ ignoreErrors = ["error-remote-getjson"]
 	url = "https://twitter.com/brookshelley"
 
 	[[params.social]]
-    name = "newsletter"
-    icon = "mail"
-    url = "/tags/newsletter"
+  name = "newsletter"
+  icon = "mail"
+  url = "/tags/newsletter"
 
-    [[params.social]]
-    name = "about"
-    icon = "info"
-    url = "/about"
+  [[params.social]]
+  name = "about"
+  icon = "info"
+  url = "/about"
 
 [minify]
   disableCSS = false
@@ -87,8 +87,8 @@ ignoreErrors = ["error-remote-getjson"]
     weight = 2
 
   [[menu.main]]
-    name = "wrote"
-    url = "/writing"
+    name = "about"
+    url = "/about"
     weight = 3
 
 [outputs]
