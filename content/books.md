@@ -6,6 +6,22 @@ type: books
 
 ## 2021 {#2021}
 
+**Agency**
+
+Another re-read. Honestly one of the best Gibsons.
+
+**Psion**
+
+A slightly jaunty angle on future space stuff that spent a lot of time on telepathy and belonging. 
+
+**Where the Wild Ladies Are**
+
+A neat collection of modern stories based on Japanese folklore. I want to read an entire novel about the company that employs both ghosts and living people.
+
+**Subprime Attention Crisis**
+
+A thorough look at the advertising world online and how it might implode in the near future. Compelling and well-researched. I learned a lot.
+
 **Changing Planes**
 
 A fantastic meta-narrative is the lead-in to this multiverse adventure. I
