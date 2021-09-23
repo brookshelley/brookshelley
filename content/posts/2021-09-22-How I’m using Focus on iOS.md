@@ -2,7 +2,7 @@
 type: posts
 title: "How I’m using Focus on iOS"
 date: 2021-09-22
-description: 
+description: dnd and homescreens
 tags:
   - tech
   - apple
