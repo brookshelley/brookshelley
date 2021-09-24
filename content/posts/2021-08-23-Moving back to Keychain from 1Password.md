@@ -1,11 +1,13 @@
 ---
 type: posts
-title: "Moving back to Keychain"
+title: "(Updated) ~Moving back to Keychain~"
 date: 2021-08-22
 description: moving off 1Pass
 tags:
   - tech
 ---
+
+_I’m back on 1Password because the Safari extension is excellent. My only remaining frustration is that the cmd \ keyboard shortcut is intermittently failing._
 
 With the announcement of [1Password 8](https://blog.1password.com/1password-8-for-mac-is-now-in-early-access/) and its move to Electron, along with iOS 15 bringing a Safari password service capable of creating two-factor passwords, it seems like the perfect time to try moving back to the keychain.
 
