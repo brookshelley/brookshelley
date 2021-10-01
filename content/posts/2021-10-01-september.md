@@ -11,6 +11,10 @@ tags:
 
 ## Books
 
+**The Word for World is Forest**
+
+An interesting take on colonization, and how destructive humanity can be. 
+
 **Unconquerable Sun**
 
 I'm not too familiar with Alexander the Great but I enjoyed this book quite a bit. It was long, but never felt like a slog. Quite a few rad space battles and exploits.
