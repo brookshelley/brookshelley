@@ -6,6 +6,18 @@ type: books
 
 ## 2021 {#2021}
 
+**The Word for World is Forest**
+
+An interesting take on colonization, and how destructive humanity can be. 
+
+**Unconquerable Sun**
+
+I'm not too familiar with Alexander the Great but I enjoyed this book quite a bit. It was long, but never felt like a slog. Quite a few rad space battles and exploits.
+
+**Everyone Knows Your Mother Is a Witch**
+
+A meandering, funny book about being accused of witchcraft in the 1600s.
+
 **Agency**
 
 Another re-read. Honestly one of the best Gibsons.

@@ -4,6 +4,23 @@
 # thumbnail:
 
 books:
+
+- name: 
+  read: 
+  link:
+  thumbnail:
+- name: The Word for World is Forest
+  read: 2021/09/20
+  link: https://bookshop.org/books/the-word-for-world-is-forest/9780765324641
+  thumbnail: https://images-us.bookshop.org/ingram/9780765324641.jpg?height=500&v=v2
+- name: Unconquerable Sun
+  read: 2021/09/10
+  link: https://bookshop.org/books/unconquerable-sun-9781250197269/9781250197269
+  thumbnail: https://images-us.bookshop.org/ingram/9781250197269.jpg?height=500&v=v2
+- name: Everyone Knows Your Mother is a Witch
+  read: 2021/09/02
+  link: https://bookshop.org/books/everyone-knows-your-mother-is-a-witch/9780374280468
+  thumbnail: https://images-us.bookshop.org/ingram/9780374280468.jpg?height=500&v=v2
 - name: Agency
   read: 2021/08/27
   link: https://app.thestorygraph.com/books/fe49c519-3de8-468c-8785-74ea5bd28832
