@@ -21,7 +21,7 @@ If you want to read more about Hugo, [their website](https://gohugo.io) is prett
 
 ## Build pipeline
 
-Once GitHub launched their Actions feature I was pretty sure I could go without a separate CI app or something like Netlify (though Netlify in specific is pretty awesome and has a really good DNS feature I still use). There are a bunch of cool Actions out there for building and launching static sites, but I use `[actions-hugo](https://github.com/peaceiris/actions-hugo)` from Shohei Ueda.
+Once GitHub launched their Actions feature I was pretty sure I could go without a separate CI app or something like Netlify (though Netlify in specific is pretty awesome and has a really good DNS feature I still use). There are a bunch of cool Actions out there for building and launching static sites, but I use [actions-hugo](https://github.com/peaceiris/actions-hugo) from Shohei Ueda.
 
 It&#39;s super simple, and here&#39;s the yaml:
 
