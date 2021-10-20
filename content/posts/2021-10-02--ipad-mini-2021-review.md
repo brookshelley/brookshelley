@@ -8,6 +8,8 @@ tags:
   - 
 ---
 
+![iPad Mini](/ipadmini.png)
+
 When the iPad first came out, I was working on OS X Server stuff at the fruit stand, and took a long lunch to line up at the nearby store. I loved that iPad despite it not quite doing much that I needed. 10+ years later I’ve had a few iPads, including a 10.5” Pro, 11” Pro, and the first generation Mini. 
 
 For the past few years, an 11ish” Pro was my primary travel computer, with its excellent cellular connection and fancy new keyboard case it flew around the world with me and made carrying a laptop a thing of the past.
