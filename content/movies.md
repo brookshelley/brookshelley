@@ -8,7 +8,7 @@ type: media
 
 **The Thing**
 
-My umpteenth rewatch.st
+My umpteenth rewatch.
 
 **Dracula**
 
