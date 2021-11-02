@@ -1,4 +1,11 @@
-October
+---
+type: mediadiet
+title: "October"
+date: 2021-11-01
+description: so many movies
+tags:
+  - mediadiet
+---
 
 I didn't get nearly as much reading done this month as I usually do, and due to the size of Priory, and my current read, I only finished two books. That said, Laserwriter II was an all-time favorite, and Priory was one of the best fantasy novels I've read in quite some time. Quality > quantity. The same can't be said for the rogues gallery of cinema I dove into this month. 
 
@@ -16,7 +23,7 @@ This could've been a few books, but it was well-paced despite its length. My onl
 
 **The Thing**
 
-My umpteenth rewatch.
+My umpteenth rewatch.st
 
 **Dracula**
 
