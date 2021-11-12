@@ -5,6 +5,14 @@
 
 books:
 
+- name: Laserwriter II
+  read: 2021/10/30
+  link: https://bookshop.org/books/laserwriter-ii/9780374602574
+  thumbnail: https://images-us.bookshop.org/ingram/9780374602574.jpg?height=500&v=v2
+- name: Priory of the Orange Tree
+  read: 2021/10/28
+  link: https://bookshop.org/books/the-priory-of-the-orange-tree/9781635570304
+  thumbnail: https://images-us.bookshop.org/ingram/9781635570304.jpg?height=500&v=v2
 - name: The Word for World is Forest
   read: 2021/09/20
   link: https://bookshop.org/books/the-word-for-world-is-forest/9780765324641

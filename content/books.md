@@ -6,6 +6,14 @@ type: books
 
 ## 2021 {#2021}
 
+**Laserwriter II**
+
+A fantastic book about the 90s in Mac repair and the magic of TekServe and real sugar Cola. I loved how Laserwriter wove a simple new job story with the poetry of tech.
+
+**Priory of the Orange Tree**
+
+This could've been a few books, but it was well-paced despite its length. My only complaint is the final battle and wrap-up happened in a short bit of book. It managed to cram quite a bit of magic system and world-building into a nice lesbian fantasy story though. 
+
 **The Word for World is Forest**
 
 An interesting take on colonization, and how destructive humanity can be. 
