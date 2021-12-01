@@ -48,7 +48,7 @@ img {
   height:auto;
 }
 
-code {
+code, pre {
   font-family:var(--font-mono);
 }
 
