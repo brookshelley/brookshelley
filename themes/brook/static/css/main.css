@@ -50,6 +50,7 @@ img {
 
 code, pre {
   font-family:var(--font-mono);
+  max-width: 55rem;
 }
 
 p, article li {
@@ -263,7 +264,7 @@ li.archive {
 
 time {
   font-family: var(--font-head);
-  font-size: var(--font-mono);
+  font-size: var(--font-small);
   text-transform: lowercase;
   letter-spacing: 0.03em;
   color:#888;
@@ -272,7 +273,7 @@ time {
 
 .description {
   font-family: var(--font-head);
-  font-size: var(--font-mono);
+  font-size: var(--font-small);
   text-transform: lowercase;
 }
 
@@ -318,7 +319,7 @@ ul.taglist {
   padding: 0;
   margin: 1 0 0;
   font-family: var(--font-head);
-  font-size: var(--font-mono);
+  font-size: var(--font-small);
   text-transform: lowercase;
   letter-spacing: 0.03em;
 }
