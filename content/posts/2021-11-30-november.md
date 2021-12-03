@@ -6,7 +6,6 @@ tags:
   - mediadiet
 ---
 
-
 <!--more-->
 
 ## Books
