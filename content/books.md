@@ -6,6 +6,30 @@ type: books
 
 ## 2021 {#2021}
 
+**Queen of Coin and Whispers**
+
+Another solid queer read. It’s great to see court intrigue and lesbian romance so well-married. I wish the third act was a little less rushed but it at least resolved the book—there’s a world in which it took a sequel to tie-up.
+
+**Scapegracers**
+
+I'm a sucker for a fun queer witch YA.
+
+**Death in Her Hands**
+
+A truly strange mystery novel with an unreliable narrator. It took a minute to get into, but once I did, I couldn't put it down.
+
+**The Last Graduate**
+
+This series is getting better and better. I missed that it’s a trilogy so the cliffhanger surprised me, but the pacing and character growth was chill.
+
+**Piranesi**
+
+What a fun book! I’m drawn to stories of labyrinths, which are a joy to wander. House of Leaves was a far more intense journey that always leaves me feeling a bit out of sorts, but Piranesi is a perfect little jaunt into another world.
+
+**Once and Future Witches**
+
+When I first picked this up I didn’t know it would be set in an alt-history turn of the century, but despite my disinterest in that time period it was a great tale. I appreciated the system of magic and the inclusivity of the cast. 
+
 **Laserwriter II**
 
 A fantastic book about the 90s in Mac repair and the magic of TekServe and real sugar Cola. I loved how Laserwriter wove a simple new job story with the poetry of tech.

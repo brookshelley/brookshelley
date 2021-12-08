@@ -6,6 +6,52 @@ type: media
 
 ## 2021 {#2021}
 
+**Night Raiders**
+
+A great anti-imperialist sci-fi with a solid cast. It was great to see Cree ritual and language throughout the film.
+
+**Ronin**
+
+A classic. Absolutely riveting action with great gritty characters.
+
+**Venom: Let There Be Carnage**
+
+A pretty solid comic movie, even if none of it was super new or wild.
+
+**Mullholland Drive**
+
+Oops I did it again…
+
+**Shang Chi and the Ten Rings**
+
+Significantly more fun than most Marvel films. This movie largely stands on its own as a fun martial arts film.
+
+**Gretel & Hansel**
+
+Visually stunning but poorly paced. 
+
+**Mitchells vs. the Machines**
+
+A delightful tale of a fucked-up family.
+
+**Water Lilies**
+
+November is turning out to be a lot of rewatches. This held up, and it was cool to revisit the beginning of Adèle Haenel‘s career. I wish more directors were tackling the challenges of girlhood and sexuality with the same energy as Sciamma. 
+
+**Attack the Block**
+
+I guess this is a Doctor Who now.
+
+My first rewatch in a while and it really holds up.
+
+**Kate Plays Christine**
+
+Eerily compelling. This could have been simply an exploitative look at a woman’s death but transcends the material to be a look at how we approach mental health and the voyeurism of suicide.
+
+**Alien: Resurrection**
+
+Definitely the weakest of the four, even if it has some solid actors. I hate the weird new alien the most.
+
 **The Thing**
 
 My umpteenth rewatch.
