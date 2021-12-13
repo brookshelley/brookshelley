@@ -1,10 +1,28 @@
-# - name: 
-# read: 
-# link:
-# thumbnail:
-
 books:
-
+- name: Queen of Coin and Whispers
+  read: 2021/11/28
+  link: https://bookshop.org/books/queen-of-coin-and-whispers-a-kingdom-of-secrets-and-a-game-of-lies-9781867507215/9781788491181
+  thumbnail: https://images-us.bookshop.org/ingram/9781788491181.jpg?height=500&v=v2
+- name: Scapegracers
+  read: 2021/11/22
+  link: https://bookshop.org/books/the-scapegracers-1/9781645660002
+  thumbnail: https://images-us.bookshop.org/ingram/9781645660002.jpg?height=500&v=v2
+- name: Death in Her Hands
+  read: 2021/11/18
+  link: https://bookshop.org/books/death-in-her-hands/9781984879356
+  thumbnail: https://images-us.bookshop.org/ingram/9781984879356.jpg?height=500&v=v2
+- name: The Last Graduate
+  read: 2021/11/16
+  link: https://bookshop.org/books/the-last-graduate/9780593128862
+  thumbnail: https://images-us.bookshop.org/ingram/9780593128862.jpg?height=500&v=v2
+- name: Piranesi
+  read: 2021/11/10
+  link: https://bookshop.org/books/piranesi-9781432886578/9781635575637
+  thumbnail: https://images-us.bookshop.org/ingram/9781635575637.jpg?height=500&v=v2-372b758a9cdd54be61eef640a8cf8821
+- name: Once and Future Witches
+  read: 2021/11/04
+  link: https://bookshop.org/books/the-once-and-future-witches/9780316422048
+  thumbnail: https://images-us.bookshop.org/ingram/9780316422048.jpg?height=500&v=v2
 - name: Laserwriter II
   read: 2021/10/30
   link: https://bookshop.org/books/laserwriter-ii/9780374602574
@@ -103,8 +121,8 @@ books:
   thumbnail: https://images-production.bookshop.org/spree/images/attachments/4378222/original/9780143124757.jpg?1588314385
 - name: The Space Between Worlds
   read: 2021/03/25
-  link: https://bookshop.org/books/the-space-between-worlds-9780593135051/9780593135051
-  thumbnail: https://images-production.bookshop.org/spree/images/attachments/12560197/original/9780593135051.jpg?1590041747
+  link: https://bookshop.org/books/the-space-between-worlds-9780593135051/9780593156919
+  thumbnail: https://images-us.bookshop.org/ingram/9780593156919.jpg?height=500&v=v2
 - name: Fake Accounts
   read: 2021/03/12
   link: https://bookshop.org/books/fake-accounts-9781948226929/9781948226929
