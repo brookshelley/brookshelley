@@ -94,7 +94,7 @@ This show is a gift of incredible observations and social anxiety well-utilized.
 
 **Looking**
 
-An older show that I didn't care much about watching until I saw White Lotus. It's cute to see many SF and Oakland locations I'm familiar with in a cute gay dreamed. I wish there was more lesbian content like this.
+An older show that I didn't care much about watching until I saw White Lotus. It's cute to see many SF and Oakland locations I'm familiar with in a cute gay dramedy. I wish there was more lesbian content like this.
 
 **White Lotus**
 
