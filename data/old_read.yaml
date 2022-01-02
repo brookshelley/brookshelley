@@ -1,0 +1,166 @@
+books:
+- name: Queen of Coin and Whispers
+  read: 2021/11/28
+  link: https://bookshop.org/books/queen-of-coin-and-whispers-a-kingdom-of-secrets-and-a-game-of-lies-9781867507215/9781788491181
+  thumbnail: https://images-us.bookshop.org/ingram/9781788491181.jpg?height=500&v=v2
+- name: Scapegracers
+  read: 2021/11/22
+  link: https://bookshop.org/books/the-scapegracers-1/9781645660002
+  thumbnail: https://images-us.bookshop.org/ingram/9781645660002.jpg?height=500&v=v2
+- name: Death in Her Hands
+  read: 2021/11/18
+  link: https://bookshop.org/books/death-in-her-hands/9781984879356
+  thumbnail: https://images-us.bookshop.org/ingram/9781984879356.jpg?height=500&v=v2
+- name: The Last Graduate
+  read: 2021/11/16
+  link: https://bookshop.org/books/the-last-graduate/9780593128862
+  thumbnail: https://images-us.bookshop.org/ingram/9780593128862.jpg?height=500&v=v2
+- name: Piranesi
+  read: 2021/11/10
+  link: https://bookshop.org/books/piranesi-9781432886578/9781635575637
+  thumbnail: https://images-us.bookshop.org/ingram/9781635575637.jpg?height=500&v=v2-372b758a9cdd54be61eef640a8cf8821
+- name: Once and Future Witches
+  read: 2021/11/04
+  link: https://bookshop.org/books/the-once-and-future-witches/9780316422048
+  thumbnail: https://images-us.bookshop.org/ingram/9780316422048.jpg?height=500&v=v2
+- name: Laserwriter II
+  read: 2021/10/30
+  link: https://bookshop.org/books/laserwriter-ii/9780374602574
+  thumbnail: https://images-us.bookshop.org/ingram/9780374602574.jpg?height=500&v=v2
+- name: Priory of the Orange Tree
+  read: 2021/10/28
+  link: https://bookshop.org/books/the-priory-of-the-orange-tree/9781635570304
+  thumbnail: https://images-us.bookshop.org/ingram/9781635570304.jpg?height=500&v=v2
+- name: The Word for World is Forest
+  read: 2021/09/20
+  link: https://bookshop.org/books/the-word-for-world-is-forest/9780765324641
+  thumbnail: https://images-us.bookshop.org/ingram/9780765324641.jpg?height=500&v=v2
+- name: Unconquerable Sun
+  read: 2021/09/10
+  link: https://bookshop.org/books/unconquerable-sun-9781250197269/9781250197269
+  thumbnail: https://images-us.bookshop.org/ingram/9781250197269.jpg?height=500&v=v2
+- name: Everyone Knows Your Mother is a Witch
+  read: 2021/09/02
+  link: https://bookshop.org/books/everyone-knows-your-mother-is-a-witch/9780374280468
+  thumbnail: https://images-us.bookshop.org/ingram/9780374280468.jpg?height=500&v=v2
+- name: Agency
+  read: 2021/08/27
+  link: https://app.thestorygraph.com/books/fe49c519-3de8-468c-8785-74ea5bd28832
+  thumbnail: https://images.thestorygraph.com/vgw3t5f1vg4v9szbdpdjt5qfubf7
+- name: Psion 
+  read: 2021/08/15
+  link: https://app.thestorygraph.com/books/d5a0e579-f504-4f79-8a46-92e24b8df6f7
+  thumbnail: https://images.thestorygraph.com/1suwsb51a6wr75cjg2thgiz7bm6r
+- name: Where the Wild Things Are
+  read: 2021/07/19
+  link: https://app.thestorygraph.com/books/9d320da1-39ab-48a4-9d62-fb0e24422203
+  thumbnail: https://images.thestorygraph.com/akt9i5zudmnjlb1gb3h4ogea5dcw
+- name: Subprime Attention Crisis
+  read: 2021/06/05
+  link: https://bookshop.org/books/subprime-attention-crisis-advertising-and-the-time-bomb-at-the-heart-of-the-internet/9780374538651
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/12560950/original/9780374538651.jpg?1587512932
+- name: Changing Planes
+  read: 2021/06/05
+  link: https://bookshop.org/books/changing-planes-stories/9780358380023
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/10829422/original/9780358380023.jpg?1617629741
+- name: The Seep
+  read: 2021/06/05
+  link: https://bookshop.org/books/the-seep-9781641290869/9781641292153
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/12444761/original/9781641292153.jpg?1618242312
+- name: We Are Satellites
+  read: 2021/06/05
+  link: https://bookshop.org/books/we-are-satellites/9781984802606
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/12766972/original/9781984802606.jpg?1601582865
+- name: Foundation
+  read: 2021/06/05
+  link: https://bookshop.org/books/foundation-9780553293357/9780553293357
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/8868680/original/9780553293357.jpg?1623825714
+- name: Lady Joker
+  read: 2021/06/05
+  link: https://bookshop.org/books/lady-joker-volume-1/9781616957018
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/13494070/original/9781616957018.jpg?1609958904
+- name: A Deadly Education
+  read: 2021/05/24
+  link: https://bookshop.org/books/a-deadly-education/9780593128480
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/12296416/original/9780593128480.jpg?1595956534
+- name: The Last Tourist
+  read: 2021/05/15
+  link: https://bookshop.org/books/the-last-tourist/9781250036193
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/12751600/original/9781250036193.jpg?1611717363
+- name: Persephone Station
+  read: 2021/05/08
+  link: https://bookshop.org/books/persephone-station-9781534414594/9781534414594
+  thumbnail: https://images-us.bookshop.org/ingram/9781534414594.jpg?height=500&v=v2-5f97764dca49503ef5af9e028a8de478
+- name: The Galaxy and the Ground Below
+  read: 2021/04/30
+  link: https://bookshop.org/books/the-galaxy-and-the-ground-within-9780062936042/9780062936042
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/13830145/original/9780062936042.jpg?1611769617
+- name: Yokohama Station SF
+  read: 2021/04/25
+  link: https://bookshop.org/books/yokohama-station-sf/9781975319519
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/14171485/original/9781975319519.jpg?1618977943
+- name: There's No Such Thing as an Easy Job
+  read: 2021/04/20
+  link: https://bookshop.org/books/there-s-no-such-thing-as-an-easy-job/9781635576917
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/12984761/original/9781635576917.jpg?1616428878
+- name: The Invisible Life of Addie LaRue
+  read: 2021/04/15
+  link: https://bookshop.org/books/the-invisible-life-of-addie-larue/9780765387561
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/12084819/original/9780765387561.jpg?1597173149
+- name: Cannonball
+  read: 2021/04/05
+  link: https://bookshop.org/books/cannonball/9781941250334
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/12611203/original/9781941250334.jpg?1617148964
+- name: Temporary
+  read: 2021/04/03
+  link: https://bookshop.org/books/temporary-9781721353484/9781566895668
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/8703196/original/9781566895668.jpg?1617141844
+- name: The Spy Who Came in From the Cold
+  read: 2021/03/30
+  link: https://bookshop.org/books/the-spy-who-came-in-from-the-cold/9780143124757
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/4378222/original/9780143124757.jpg?1588314385
+- name: The Space Between Worlds
+  read: 2021/03/25
+  link: https://bookshop.org/books/the-space-between-worlds-9780593135051/9780593156919
+  thumbnail: https://images-us.bookshop.org/ingram/9780593156919.jpg?height=500&v=v2
+- name: Fake Accounts
+  read: 2021/03/12
+  link: https://bookshop.org/books/fake-accounts-9781948226929/9781948226929
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/12961193/original/9781948226929.jpg?1605882068
+- name: No One is Talking About This
+  read: 2021/02/24
+  link: https://bookshop.org/books/no-one-is-talking-about-this/9780593189580
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/12778629/original/9780593189580.jpg?1609773251
+- name: The Ministry for the Future
+  read: 2021/02/20
+  link: https://bookshop.org/books/the-ministry-for-the-future/9780316300131
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/12620072/original/9780316300131.jpg?1588002604
+- name: Worldwired
+  read: 2021/02/10
+  link: https://bookshop.org/books/worldwired/9780553587494
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/5386354/original/9780553587494.jpg?1586654426
+- name: Scardown
+  read: 2021/02/05
+  link: https://bookshop.org/books/scardown/9780553587517
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/5388241/original/9780553587517.jpg?1588188681
+- name: The Dragon Republic
+  read: 2021/01/26
+  link: https://bookshop.org/books/the-dragon-republic/9780062662606
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/12471411/original/9780062662606.jpg?1588620895
+- name: Trick Mirror
+  read: 2021/01/24
+  link: https://bookshop.org/books/trick-mirror-reflections-on-self-delusion/9780525510567
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/12411351/original/9780525510567.jpg?1594740507
+- name: Random Acts of Senseless Violence
+  read: 2021/01/17
+  link: https://bookshop.org/books/random-acts-of-senseless-violence/9780802134240
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/10804955/original/9780802134240.jpg?1587137240
+- name: The Quantum Thief
+  read: 2021/01/09
+  link: https://bookshop.org/books/the-quantum-thief/9780765375889
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/5212867/original/9780765375889.jpg?
+- name: Company Town
+  read: 2021/01/03
+  link: https://bookshop.org/books/company-town/9780765382917
+  thumbnail: https://images-production.bookshop.org/spree/images/attachments/5226042/original/9780765382917.jpg?1587940627
+  
