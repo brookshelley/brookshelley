@@ -6,6 +6,90 @@ type: media
 
 ## 2021 {#2021}
 
+**Black Christmas**
+
+The calls are coming from inside the house! Margot Kidder is so absurd in this. The whole thing is a mess but also a classic that inspired a whole series of slashers.
+
+**Don’t Look Up**
+
+The comedy version of contemplating the inevitable death of everyone you know to climate change in the next 10-30 years…
+So yea! Bleak!
+
+**The Great Outdoors**
+
+Not the best Hughes, but it had weird moments of charm.
+
+**Into to the Spiderverse**
+
+Saw this in theaters, but the rewatch really held-up. Absolutely gorgeous animation and a fun story. Still by far the best comic book movie.
+
+**Dr. Strangelove**
+
+An utterly madcap story of bureaucracy and silliness. This is up with Armando Iannucci's work on the absurdity of the US government and our attempts wage endless wars.
+
+**The Matrix: Resurrection**
+
+For a movie that had to explain its own existence metatextually, it was pretty fun.
+
+**Resident Evil: Welcome to Raccoon City**
+
+I love these goofy movies. This is maybe the best video game adaptation? It covers the first two games pretty well and has some solid action with decent actors I’ve seen in various Canadian TV shoes.
+
+**The French Dispatch**
+
+The first third of this movie I couldn't tell if I found it amusing or entirely up its own ass--probably its both! The emotions of this film are refracted too many times to have any real effect, but on the upside the font for the subtitles was nice. I haven't seen an Anderson film since Moonrise hit theaters, so perhaps I'm just out of love with his work. Timmy Chalet is the most fourteen y/o-looking twenty-five y/o since Schwartzman. The final acts was my favorite, mostly because of Wright and Schreiber.
+
+**The Mummy (2017)**
+
+None of the fun of the original but some of the action sequences were neat.
+
+**Lincoln**
+
+parts of this were great but a lot of it felt like Sorkin nightmare.
+great hats.
+
+**The Mummy**
+
+I haven’t seen this since I was a kid and its still fun. Watched to prep to listen to Blank Check. 
+
+**No Man of God**
+
+I didn’t know much about Bundy before this, and I might not after, but I enjoyed the ride.
+
+**Dogs Don't Wear Pants**
+
+It seems like they jumped to breath-play pretty fast in this one. I like the portrayal of kink as a way to heal.
+
+**Boogie Nights**
+
+Somehow I’d never seen this. Every performance is a little more unhinged than the last. A delight.
+
+**Super 8**
+
+Cloverfield meets the Goonies. Underrated fun.
+
+**Last Night in Soho**
+
+A fun romp through swingin’ London.
+
+**Power of the Dog**
+
+Take that, peach scene. This is the fucked-up gay Phantom Thread.
+Damn.
+Amazing soundtrack and just a delightful story.
+
+**The Feast**
+
+Just a chill Welsh dinner party. Bring the family.
+
+**Unstuck in Time**
+
+This hit me like a ton of bricks. So good and weird and sad and wonderful.
+
+**Night Raiders**
+
+A great anti-imperialist sci-fi with a solid cast. It was great to see Cree ritual and language throughout the film.
+
 **Night Raiders**
 
 A great anti-imperialist sci-fi with a solid cast. It was great to see Cree ritual and language throughout the film.
