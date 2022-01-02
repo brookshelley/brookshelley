@@ -8,6 +8,26 @@ _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020) [2
 
 ## 2021 {#2021}
 
+**The Last Watch**
+
+Got sucked into this one and couldn’t put it down. I’ve missed a good space story, and this was full of interesting tech and a lot of mystery.
+
+**The Ruthless Lady’s Guide to Wizardry**
+
+A bit too cute and clever but overall a fun story. 
+
+**Slaughterhouse Five**
+
+Another reread of a classic. Funny, accessible, and deeply moving.
+
+**Peripheral**
+
+A reread of one of Gibson's finest.
+
+**‌Light from Uncommon Stars**
+
+Ryka is a delight! This book was a fun combination of magic Faustian bargains and space exploits.
+
 **Laserwriter II**
 
 A fantastic book about the 90s in Mac repair and the magic of TekServe and real sugar Cola. I loved how Laserwriter wove a simple new job story with the poetry of tech.
