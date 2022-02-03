@@ -1,1 +1,9 @@
 books:
+- name: Heretics of Dune 
+  read: 2022/01/25
+  link: https://bookshop.org/books/heretics-of-dune/9780593098264
+  thumbnail: https://images-us.bookshop.org/ingram/9780593098264.jpg?height=500&v=v2
+- name: Less is More
+  read: 2022/01/15
+  link: https://bookshop.org/books/less-is-more-how-degrowth-will-save-the-world/9781786091215
+  thumbnail: https://images-us.bookshop.org/ingram/9781786091215.jpg?height=500&v=v2-1d1b3f439e8a7c105e08db7b3015c868
