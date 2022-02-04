@@ -8,6 +8,8 @@ tags:
   - 
 ---
 
+![](/cycling.jpeg)
+
 After a few years post-broken hand cycling break, I started riding around on my new Surly Straggler at the start of the pandemic. Forest fires and a fear of the road led me to a lot of Zwift indoor riding, racing, and training that year. Once I started getting out on the road, and felt confident going up bigger hills, I didn't want to get back on my trainer, and instead tried to find hours every day to explore the Bay Area on two wheels. I rode with a number of friends, like Drew, Salman, Haley, Andre, Sara, and Carlos over the course of 482 rides, but most were solo. 
 
 Riding alone with music or a podcast next to the ocean or in the hills around Oakland and Berkeley was the number one thing that has kept me mentally healthy in the past two years. A hard day at work? An hour of sweating and spinning my wheels around the city and my mind is clear and my heart is full. I am so glad I rediscovered cycling after a break, and I hope I get to keep it up for years to come.
