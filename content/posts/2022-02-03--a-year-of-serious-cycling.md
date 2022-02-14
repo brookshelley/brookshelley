@@ -17,9 +17,13 @@ Riding alone with music or a podcast next to the ocean or in the hills around Oa
 ## The stats
 
 Distance: 8,170.5km / 5077mi
+
 Time: 403h 47m 
+
 Elev gain	: 71,197m / 26,806ft
+
 Flat tires: 4 
+
 Bikes purchased: 1 Specialized Allez Comp from Roland
 
 ## What I learned
