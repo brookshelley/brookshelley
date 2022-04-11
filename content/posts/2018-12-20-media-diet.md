@@ -1,5 +1,5 @@
 ---
-type: mediadiet
+type: posts
 title: December
 date: 2018-12-20
 description: media diet

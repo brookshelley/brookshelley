@@ -1,5 +1,5 @@
 ---
-type: mediadiet
+type: posts
 date: 2019-08-30
 title: August
 description: media diet

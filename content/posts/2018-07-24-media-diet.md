@@ -1,5 +1,5 @@
 ---
-type: mediadiet
+type: posts
 date: 2018-07-24
 tags:
   - mediadiet

@@ -1,5 +1,5 @@
 ---
-type: mediadiet
+type: posts
 title: June
 date: 2018-06-24
 tags:

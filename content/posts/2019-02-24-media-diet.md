@@ -1,5 +1,5 @@
 ---
-type: mediadiet
+type: posts
 title: February
 description: media diet
 date: 2019-02-24

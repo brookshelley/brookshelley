@@ -1,5 +1,5 @@
 ---
-type: mediadiet
+type: posts
 date: 2018-05-24
 title: May
 tags:

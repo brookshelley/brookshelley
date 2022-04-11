@@ -1,5 +1,5 @@
 ---
-type: mediadiet
+type: posts
 title: April
 date: 2018-04-17
 description: media diet

@@ -1,5 +1,5 @@
 ---
-type: mediadiet
+type: posts
 title: "October"
 date: 2021-11-01
 description: so many movies

@@ -1,5 +1,5 @@
 ---
-type: mediadiet
+type: posts
 date: 2018-10-30
 title: October
 description: media diet

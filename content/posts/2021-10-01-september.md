@@ -1,5 +1,5 @@
 ---
-type: mediadiet
+type: posts
 title: "September"
 date: 2021-10-01
 tags:
