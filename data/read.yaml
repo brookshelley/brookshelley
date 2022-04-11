@@ -1,4 +1,16 @@
 books:
+- name: The Goblin Emperor
+  read: 2022/03/22
+  link: https://bookshop.org/books/the-goblin-emperor/9780765365682
+  thumbnail: https://images-us.bookshop.org/ingram/9780765365682.jpg?height=500&v=v2  
+- name: The Exiled Fleet
+  read: 2022/02/27
+  link: https://bookshop.org/books/the-exiled-fleet/9781250236364
+  thumbnail: https://images-us.bookshop.org/ingram/9781250236364.jpg?height=500&v=v2
+- name: The Bone Shard Daughter
+  read: 2022/02/15
+  link: https://bookshop.org/books/the-bone-shard-daughter/9780316541435
+  thumbnail: https://images-us.bookshop.org/ingram/9780316541435.jpg?height=500&v=v2
 - name: Heretics of Dune 
   read: 2022/01/25
   link: https://bookshop.org/books/heretics-of-dune/9780593098264
