@@ -1,5 +1,5 @@
 ---
-type: mediadiet
+type: posts
 title: "December"
 date: 2019-12-31
 tags:

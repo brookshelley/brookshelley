@@ -1,5 +1,5 @@
 ---
-type: mediadiet
+type: posts
 title: September
 date: 2019-09-30
 description: media diet

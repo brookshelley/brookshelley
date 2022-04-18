@@ -6,6 +6,63 @@ type: media
 
 ## 2022 {#2022}
 
+**Apollo 11**
+
+Wow.
+This was a breathtaking documentary reconstruction of film and still photos. It’s amazing to see all the incredible space stuff against the backdrop of a time I’m only familiar with from old family photos. Short-sleeved dress shirts and chain smoking? Hell yea.
+
+**Beyond the Infinite Two Minutes**
+
+The camera work is outstanding. This one one of the more clever and fun time concepts I’ve seen on film. The acting is a bit ~~more~~ improv show than drama, but it comes together and continues to be fun.
+
+**Moonfall**
+
+"Mounting moon terror" is a phrase uttered in this film, and I couldn't be happier. A ridiculous moon disaster movie is exactly what I wanted tonight. The screw-up kid was a hat on a hat though, and ditto all the Elon shit.
+
+**After the Wedding**
+
+Another story of flawed men and regret, but with excellent performances, music cues, and a fantastic pace.
+
+**Perfect Blue**
+
+I’ve watched this a few times and it’s still a fascinating look at obsession and an entertainment career. I wish Kon was alive and making more movies.
+
+**Death on the Nile**
+
+The biggest shock of this film was that Brand could act! I saw this film’s predecessor in Osaka a few years ago and have a fondness for Branaugh and Christie. The costuming was nice, and the mystery taut. This movie makes me with I could travel again!
+
+**Drive My Car**
+
+This movie will stick with me for a while. I haven't read the story its based-on, so I went into it with only a one Hamaguchi and an idea of Murakami's style in mind. The use of silence and a spare soundtrack really lent itself to the long road shots and close-ups of faces. An amazing film.
+
+**The Adam Project**
+
+A thoroughly fun action film. This was well-paced, high-enough budget, and chill.
+
+**What Keeps You Alive**
+
+This is why I’ve always preferred a clean break and never trust a girl with a Jeep. A fun if a little long-winded thriller.
+
+**Miami Connection**
+
+A classic with first-timer Drew.
+
+**After Yang**
+
+Woah, a Lily Chou-chou song! This movie was a fascinating look at a struggling family. It was a less aggressively uneasy Black Mirror episode; thoughtful mediation on life.
+
+**Fresh**
+
+Initially I thought the guy in this was Henry Cavill, which would've been a little too on the nose. Also I will never believe that anyone sleeps in a bra despite at least two former dates doing so. Lesbian best friend is the new gay best friend? I guess this movie is saying that heterosexuality is basically the same as being kidnapped and slowly killed by a man... which, huh. Ok. 
+
+**Spiderman: No Way Home**
+
+More fun than I expected but I still hear “Spider-Man” in the voice of the grown man crying next to me in the theater during the Avengers movie.
+
+**Hausu**
+
+A weird and silly mess. 
+
 **Wheel of Fortune and Fantasy**
 
 Regret is a helluva thing. Fantastic.

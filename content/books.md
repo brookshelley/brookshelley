@@ -6,6 +6,10 @@ type: books
 
 ## 2022 {#2022}
 
+**The Goblin Emperor**
+
+The number of characters with similar names was baffling at times, especially for such a densely woven tale of intrigue, but on balance I enjoyed the story.
+
 **The Exiled Fleet**
 
 This series is a fun space adventure with a compelling cast and a story that’s building up well. I’m curious to see how long it goes for, as there are enough lingering mysteries and plot threads it could be four or five books to resolve.

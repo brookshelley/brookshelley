@@ -1,5 +1,5 @@
 ---
-type: mediadiet
+type: posts
 date: 2019-11-30
 title: November
 description: november media diet

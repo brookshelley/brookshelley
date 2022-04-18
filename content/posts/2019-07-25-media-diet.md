@@ -1,5 +1,5 @@
 ---
-type: mediadiet
+type: posts
 title: July
 date: 2019-07-25
 description: media diet
