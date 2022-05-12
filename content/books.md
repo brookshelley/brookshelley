@@ -6,6 +6,14 @@ type: books
 
 ## 2022 {#2022}
 
+**The Haunting of Tram Car 015**
+
+A fun introduction to a magical alt-Cairo. I’ve had a harder time finishing Clark’s Ring Shout and perhaps prefer his short fiction.
+
+**The Caledonian Gambit**
+
+Space heists and spy stories are my jam. I loved this and hope that his other books return to the universe he created here, because it seems full of intrigue and possibility.
+
 **The Goblin Emperor**
 
 The number of characters with similar names was baffling at times, especially for such a densely woven tale of intrigue, but on balance I enjoyed the story.

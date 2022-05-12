@@ -1,4 +1,12 @@
 books:
+- name: The Haunting of Tram Car 015
+  read: 2022/04/25
+  link: https://bookshop.org/books/the-haunting-of-tram-car-015/9781250294807
+  thumbnail: https://images-us.bookshop.org/ingram/9781250294807.jpg?height=500&v=v2
+- name: The Caledonia Gambit
+  read: 2022/04/10
+  link: https://bookshop.org/books/the-caledonian-gambit/9781940456843
+  thumbnail: https://images-us.bookshop.org/ingram/9781940456843.jpg?height=500&v=v2-e5bcaa53dc05f36df335aa1a15088ba2
 - name: The Goblin Emperor
   read: 2022/03/22
   link: https://bookshop.org/books/the-goblin-emperor/9780765365682
