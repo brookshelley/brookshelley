@@ -6,6 +6,23 @@ type: books
 
 ## 2022 {#2022}
 
+**Sea of Tranquility**
+
+Fantastic! Shades of David Mitchell, but more contained and rather relaxing.
+
+**The Body Keeps the Score**
+
+I’ll definitely return to this again in the future. This book captures the cutting-edge and seemingly silly ways modern trauma is treated effectively. Many stories and ideas here have fueled therapy sessions for the two or three months I’ve read it.
+
+**Ninth House**
+
+Magic at a University more mundane than the Magicians, but every bit as seedy. I hope there are more of these.
+
+**Warm Worlds and Otherwise**
+
+A very strange collections from an interesting lady. I’ve got a few other of Tiptree’s books and I’m curious if they’re all so horny.
+
+
 **The Haunting of Tram Car 015**
 
 A fun introduction to a magical alt-Cairo. I’ve had a harder time finishing Clark’s Ring Shout and perhaps prefer his short fiction.
