@@ -1,4 +1,20 @@
 books:
+- name: Sea of Tranquility
+  read: 2022/05/30
+  link: https://bookshop.org/books/sea-of-tranquility-9780593552070/9780593321447
+  thumbnail: https://images-us.bookshop.org/ingram/9780593321447.jpg?height=500&v=v2
+- name: The Body Keeps the Score
+  read: 2022/05/30
+  link: https://bookshop.org/books/the-body-keeps-the-score-brain-mind-and-body-in-the-healing-of-trauma/9780143127741
+  thumbnail: https://images-us.bookshop.org/ingram/9780143127741.jpg?height=500&v=v2
+- name: Ninth House
+  read: 2022/05/28
+  link: https://bookshop.org/books/ninth-house/9781250751362
+  thumbnail: https://images-us.bookshop.org/ingram/9781250751362.jpg?height=500&v=v2
+- name: Warm Worlds and Otherwise
+  read: 2022/05/20
+  link: https://www.amazon.com/Worlds-Otherwise-Penguin-Science-Fiction/dp/0241509750/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=
+  thumbnail: https://images-na.ssl-images-amazon.com/images/I/41BUz1fWVuL._SX305_BO1,204,203,200_.jpg
 - name: The Haunting of Tram Car 015
   read: 2022/04/25
   link: https://bookshop.org/books/the-haunting-of-tram-car-015/9781250294807
