@@ -6,6 +6,74 @@ type: media
 
 ## 2022 {#2022}
 
+**Christine**
+
+"God I hate rock and roll". For a goofy movie about a killer car, this was a lot more interesting than I expected. Also I love that all the high-schoolers looked 35.
+
+**Enemy of the State**
+
+Not the best Tony Scott, but pretty fun. Will Smith in the utterly bizarre lingerie store made me laugh.
+
+**Joshy**
+
+It's weird seeing Alex Ross Perry in a film after hearing him in so many Blank Check episodes. This is the best movie about a bachelor party I've ever seen.
+
+**Men**
+
+Hot damn! I was excited about this as soon as I saw the preview and it met my expectations. Kinnear and Buckley are excellent and the mounting oddity built to truly bizarre heights.
+
+**The Unknown Girl**
+
+I'll be honest I kinda spaced-out during this film.
+
+**Faults**
+
+ME Winstead is a delight and this went to places I didn’t expect.
+
+**Doctor Strange in the Multiverse of Madness**
+
+A fun Marvel film with a lot of long side stories. I'm glad Spiderman wasn't in this.
+
+**Her Smell**
+
+A super chill and easy to watch movie if you've been around a lot of alcohol and drug abuse. Yikes. I think this was well done but I kinda had to watch it the way lots of people watch horror films.
+
+**Sicario**
+
+A rewatch.
+
+**Crimes of the Future**
+
+A lot less disturbing than I'd initially imagined. A fun look at what human evolution might do to solve the horrific exploitation and pollution of the planet.
+
+**Kimi**
+
+Chekhov’s kombucha. The Net for a new generation.
+
+**Macross Plus**
+
+A Top Gun x Macross classic. Don't trust AI.
+
+**Hologram for the King**
+
+I'm not geopolitically intelligent enough to comment on the world of this film, but it's nice to see Tom Hanks just kind of wander around and do stuff.
+
+**Speak No Evil**
+
+What starts as a mortifying difference in cultures becomes much more disturbing. Sure, pannekoeken is great, but is it worth the risk?
+
+**Morbius**
+
+At least it’s short.
+
+**Michael Clayton**
+
+Blackberrys galore. Apparently I saw this in theaters because I remembered a good amount.
+
+**Top Gun: Maverick**
+
+This is everything I wanted it to be and more.
+
 **Limitless**
 
 For sure I’ve seen this before but this movie feels like what every guy from Stanford and young founder dude thinks he sounds like.

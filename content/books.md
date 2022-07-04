@@ -6,6 +6,22 @@ type: books
 
 ## 2022 {#2022}
 
+**The Echo Wife**
+
+Way heavier than I expected, but an interesting look at trauma, nature vs. nurture, and the limits of tech and morality.
+
+**Do You Dream of Terra Two**
+
+Largely a meditation on the effects of space on psychology and the dangers of kids laser-focusing on a dream from youth. Sometimes fun, but mostly tense.
+
+**Planetfall**
+
+The mystery and excitement builds, with stopovers in rather chilling depictions of mental illness.
+
+**Salvaged**
+
+Excellent space horror/survival. 
+
 **Sea of Tranquility**
 
 Fantastic! Shades of David Mitchell, but more contained and rather relaxing.
