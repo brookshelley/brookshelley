@@ -1,4 +1,20 @@
 books:
+- name: The Echo Wife
+  read: 2022/06/28
+  link: https://bookshop.org/books/the-echo-wife-9781432884130/9781250174666
+  thumbnail: https://images-us.bookshop.org/ingram/9781250174666.jpg?height=500&v=v2
+- name: Do You Dream of Terra Two
+  read: 2022/06/20
+  link: https://bookshop.org/books/do-you-dream-of-terra-two/9781534437401
+  thumbnail: https://images-us.bookshop.org/ingram/9781534437401.jpg?height=500&v=v2
+- name: Planetfall
+  read: 2022/06/12
+  link: https://bookshop.org/books/planetfall/9780425282397
+  thumbnail: https://images-us.bookshop.org/ingram/9780425282397.jpg?height=500&v=v2
+- name: Salvaged
+  read: 2022/06/02
+  link: https://bookshop.org/books/salvaged-9780451491831/9780451491831
+  thumbnail: https://images-us.bookshop.org/ingram/9780451491831.jpg?height=500&v=v2
 - name: Sea of Tranquility
   read: 2022/05/30
   link: https://bookshop.org/books/sea-of-tranquility-9780593552070/9780593321447
