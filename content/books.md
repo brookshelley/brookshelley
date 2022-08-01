@@ -6,6 +6,18 @@ type: books
 
 ## 2022 {#2022}
 
+**Amatka**
+
+A creepy, fun mix of Vandermeer and LeGuin. I loved this book.
+
+**Pro Cycling on $10 A Day**
+
+Definitely a bro book. I loved hearing all the weird stories about the pro/am US cycling scene but it reminded me how weird pro sports are and that cycling is rife with fatphobia and eating disorders. I laughed a lot and cringed at every flat and crash. It’s rad to see how one of my favorite KOM-chasers got his start. 
+
+**Ring Shout**
+
+This took me entirely too long to finish as it was written in dialect. Ever since I tried to read Redwall I’ve had trouble reading books written where I might need to say it out loud to understand what’s going on. This was otherwise super solid though—no points off for my own issues.
+
 **The Echo Wife**
 
 Way heavier than I expected, but an interesting look at trauma, nature vs. nurture, and the limits of tech and morality.

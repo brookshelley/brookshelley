@@ -164,7 +164,7 @@ Just let a lesbian have a good time, damn.
 
 **Dune**
 
-YESSSSSSS THE SOUND, the beauty of every shot! It was so good it made me like tommy chalet better.
+YESSSSSSSTHE SOUND, the beauty of every shot!It was so good it made me like tommy chalet better.
 
 **They Live**
 

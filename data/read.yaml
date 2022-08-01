@@ -1,4 +1,16 @@
 books:
+- name: Amatka
+  read: 2022/07/25
+  link: https://bookshop.org/books/amatka/9781101973950
+  thumbnail: https://images-us.bookshop.org/ingram/9781101973950.jpg?height=500&v=v2
+- name: Pro Cycling on $10 A Day
+  read: 2022/07/24
+  link: https://bookshop.org/books/pro-cycling-on-10-a-day-from-fat-kid-to-euro-pro/9781937715243
+  thumbnail: https://images-us.bookshop.org/ingram/9781937715243.jpg?height=500&v=v2
+- name: Ring Shout
+  read: 2022/07/14
+  link: https://bookshop.org/books/ring-shout/9781250767028
+  thumbnail: https://images-us.bookshop.org/ingram/9781250767028.jpg?height=500&v=v2
 - name: The Echo Wife
   read: 2022/06/28
   link: https://bookshop.org/books/the-echo-wife-9781432884130/9781250174666

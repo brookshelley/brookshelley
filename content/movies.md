@@ -6,6 +6,62 @@ type: media
 
 ## 2022 {#2022}
 
+**Chariot**
+
+This was weird but not good and Malkovich had red hair. 
+
+**Clear and Present Danger**
+
+This was a regular rewatch growing up, and it's still a banger. The weird duel to delete files was especially delightful.
+
+**Bit**
+
+There's no way LA is flakier than Portland, but there are definitely vampires in both cities. This was fun and silly. Still waiting for a nice cis lady vampire to turn me into a girl who can fly, but not if it means ever living in LA or being stuck with an underdeveloped frontal lobe. Eternal 18 sounds awful.
+
+**The Gray Man**
+
+You get to watch Ken and Captain America fight.
+
+**I'm Your Woman**
+
+A lot less crime and a lot more drama than I expected. I think I was hoping for a baby thriller.
+
+**On the Count of Three**
+
+Way funnier than I expected. Damn this was dark.
+
+**Jurassic Park: Dominion**
+
+I think this series is finally over. When dinosaurs are used for tension and horror they work, but as weird James Bond parkour villains and eco-terrorism maguffins they are just goofy. Major points off for the stupid tube too.
+
+**Bob’s Burgers**
+
+All I expected was a stretched-out episode and this was much more fun. I don’t know how long they can keep this show going but it’s up there with the best animated franchises. Simpsons could never.
+
+**Sonic 2**
+
+Either it was Jim Carey or the writing, but this was way less fun than the first one. Bits were solid, but the whole was just so long and overdone. Chili dog on a chili dog.
+
+**The Ward**
+
+Watched for Blank Check. I don't like mental hospital films.
+
+**Nude Tuesday** 
+
+The Julia Davis version was great, but I'd love to see the other to compare. This is the best art to include a nonsense language since Sigur Ros' album ( ). Weird as fuck, but ultimately a touching story about rediscovering a partner.
+
+**Drag Me to Hell**
+
+Sam Raimi makes a hell of a movie. Watched this for the Blank Check series, and it was all the over-the-top gore I hoped for, with  lots of weird gags.
+
+**In the Mouth of Madness**
+
+Sam Neil makes an Evil-Dead-esque weirdo horror worth rewatching.
+
+**Rubikon**
+
+A disappointing space morality tale.
+
 **Christine**
 
 "God I hate rock and roll". For a goofy movie about a killer car, this was a lot more interesting than I expected. Also I love that all the high-schoolers looked 35.
