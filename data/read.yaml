@@ -1,4 +1,10 @@
 books:
+- name: Bayern Agenda
+  read: 2022/08/24
+- name: Our Wives Under the Sea
+  read: 2022/08/18
+- name: Draft Animals
+  read: 2022/08/10
 - name: Amatka
   read: 2022/07/25
   link: https://bookshop.org/books/amatka/9781101973950

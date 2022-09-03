@@ -6,6 +6,18 @@ type: books
 
 ## 2022 {#2022}
 
+**The Bayern Agenda**
+
+A fun space spy thriller.
+
+**Our Wives Under the Sea**
+
+A haunting tale about love and loss mixed with a bit of deep-sea horror. Bits of this reminded me of the Area X trilogy.
+
+**Draft Animals**
+
+The sequel in many ways to Phil’s $10 a Day book, this covers his time off and on with Cannonade. It’s pretty fun to read so many weird stories about people I watch in races all the time, and a good reminder just how bro-y sports dudes are even in cycling. Fun and touching.
+
 **Amatka**
 
 A creepy, fun mix of Vandermeer and LeGuin. I loved this book.
