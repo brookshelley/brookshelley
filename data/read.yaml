@@ -1,10 +1,16 @@
 books:
 - name: Bayern Agenda
   read: 2022/08/24
+  link: https://bookshop.org/books/the-bayern-agenda-the-galactic-cold-war-book-i/9780857668196
+  thumbnail: https://images-us.bookshop.org/ingram/9780857668196.jpg?height=500&v=v2
 - name: Our Wives Under the Sea
   read: 2022/08/18
+  link: https://bookshop.org/books/our-wives-under-the-sea/9781250229892
+  thumbnail: https://images-us.bookshop.org/ingram/9781250229892.jpg?height=500&v=v2-da75cc94465e6961b4f0ea69d7d6a909
 - name: Draft Animals
   read: 2022/08/10
+  link: https://bookshop.org/books/draft-animals-living-the-pro-cycling-dream-once-in-a-while/9780143131243
+  thumbnail: https://images-us.bookshop.org/ingram/9780143131243.jpg?height=500&v=v2
 - name: Amatka
   read: 2022/07/25
   link: https://bookshop.org/books/amatka/9781101973950
