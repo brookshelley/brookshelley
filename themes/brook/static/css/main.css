@@ -34,6 +34,11 @@ max-width: 55rem;
 font-family:var(--font-body);
 }
 
+.thumb {		
+  width:80px;		
+  height:auto;		
+}		
+
 img {
   width:100%;
   height:auto
@@ -66,10 +71,7 @@ header {
   float:left;
   }
 
-/* -----------------------------------
-Type and Media
--------------------------------------- */
-  
+
 .baseline a {
   font-family:var(--font-head);
 }
