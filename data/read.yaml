@@ -1,4 +1,28 @@
 books:
+- name: The Sunny Nihilist
+  read: 2022/09/30
+  link: https://bookshop.org/books/the-sunny-nihilist-a-declaration-of-the-pleasure-of-pointlessness/9781797215808
+  thumbnail: https://images-us.bookshop.org/ingram/9781797215808.jpg?height=500&v=v2
+- name: The Answers
+  read: 2022/09/26
+  link: https://bookshop.org/books/the-answers-9781250183088/9781250183088
+  thumbnail: https://images-us.bookshop.org/ingram/9781250183088.jpg?height=500&v=v2
+- name: Nona the Ninth
+  read: 2022/09/20
+  link: https://bookshop.org/books/nona-the-ninth/9781250854117
+  thumbnail: https://images-us.bookshop.org/ingram/9781250854117.jpg?height=500&v=v2-94cf28e97c5bb2bf10aaa48ca4d6731c
+- name: Too Like Lightning
+  read: 2022/09/16
+  link: https://bookshop.org/books/too-like-the-lightning-book-one-of-terra-ignota/9780765378019
+  thumbnail: https://images-us.bookshop.org/ingram/9780765378019.jpg?height=500&v=v2
+- name: The World of Cycling According to G
+  read: 2022/09/14
+  link: https://bookshop.org/books/the-world-of-cycling-according-to-g/9781784296407
+  thumbnail: https://images-us.bookshop.org/ingram/9781784296407.jpg?height=500&v=v2
+- name: Unnatural Magic*
+  read: 2022/09/10
+  link: https://bookshop.org/books/unnatural-magic/9781984805843
+  thumbnail: https://images-us.bookshop.org/ingram/9781984805843.jpg?height=500&v=v2
 - name: Bayern Agenda
   read: 2022/08/24
   link: https://bookshop.org/books/the-bayern-agenda-the-galactic-cold-war-book-i/9780857668196
