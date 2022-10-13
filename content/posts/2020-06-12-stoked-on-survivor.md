@@ -11,8 +11,6 @@ After twenty years of this CBS reality show being on TV, I finally jumped on boa
 
 ## My survivor history
 
-{{< tweet 1271576075185737728 >}}
-
 Until the being stuck inside this year, I had only seen season 37, David vs Goliath. Growing up I thought Survivor and most reality tv show was garbage, and instead watched a lot of auteur film and highbrow dramas. I can’t say that Survivor is high-brow, but I’ve been pleasantly surprised at the strange subtleties of its comedy, and the joy of a weird cast of characters. My friend Drew, who bought me the Cameo above, was the person that finally tipped me over the edge into being a fan. He’s got great silly taste, and our near-daily chats about this show are a balm in this time. 
 
 When you watch Survivor, it turns out there’s a lot to get sucked into: constant politicking and a mix of grim and utterly bizarre challenges every episode. Too often folks end up very badly injured, and need to be sent home for their safety, which I could do without. I think they do a good job of having medical staff, but I still worry someone will eventually die on this show. However as an effort to convince the viewer that this competition is grueling, folks suffering in the rain and sun and other scenes of misery are effective to say the least. 
