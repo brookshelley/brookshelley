@@ -19,6 +19,6 @@ Occasionally I _do_ miss making stupid jokes that are somewhat ephemeral, but an
 
 I'm not ready to say that "public social media was a mistake" or something equally absurd, but I'm definitely happier without it. I likely miss out on the _main character_ of the week, but we're better off without them either, even if they do become our friends:
 
-{{< twitter 1398125259388227585 >}}
+{{< tweet 1398125259388227585 >}}
 
 Between [Instagram being the QVC for millennials](https://www.forbes.com/sites/annabelacton/2017/07/11/lookout-retail-why-instagam-is-the-next-qvc/?sh=6ceccc47c909), and Facebook continuing to radicalize middle-class Boomers and Gen Xers into anti-vaccing, Q insurgents, maybe it is just better to keep away from public social media after all. Regardless of if I stay off these sites indefinitely, my feeling after years away from Facebook's sites and months away from Twitter is a feeling of lightness and joy.
