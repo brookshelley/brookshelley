@@ -1,9 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@200;300;400&display=swap');
-
-/* -----------------------------------
-Variables
--------------------------------------- */
-
 :root {
   --font-body:'Inter',Georgia,Times,Times New Roman,serif;
   --font-head:'Inter',-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",sans-serif;
@@ -16,18 +11,12 @@ Variables
   --color-alt:#603ad0;
   --spacing-maxwidth-para: 34rem;
   }
-  
 @media (min-width: 1000px) {
   :root {
       --font-small: 15px;
       --font-large: 16px;
   }
 }
-
-/* -----------------------------------
-Base
--------------------------------------- */
-
 html {
   line-height: 1.4; 
   padding: calc(2px + 5vw);
@@ -36,10 +25,9 @@ html {
   font-size:16px;
   font-weight: 200;
 }
-  
 @media (min-width: 600px) { html { font-size: 17px; } }
-@media (min-width: 700px) { html { font-size: 18px; } }
-  
+@media (min-width: 700px) { html { font-size: 18px; } } 
+
 body {
 padding: 0;
 max-width: 55rem;
@@ -51,11 +39,6 @@ img {
   height:auto
 }
 
-.thumb {
-  width:80px;
-  height:auto;
-}
-
 code, pre {
   font-family:var(--font-mono);
   max-width: 55rem;
@@ -64,10 +47,6 @@ code, pre {
 p, article li {
   max-width: var(--spacing-maxwidth-para);
 }
-
-/* -----------------------------------
-Header
--------------------------------------- */
 
 .header nav {
   font-family:var(--font-head);
@@ -82,42 +61,10 @@ header {
   margin-right: 1rem;
 }
 
-header li img {
-  max-height: 20px;
-  max-width: 20px;
-  margin-right: 10px;
-  margin-top: 3px;
-}
-
 .logo {
   max-width:33px; 
   float:left;
   }
-
-/* -----------------------------------
-Footer
--------------------------------------- */
-
-footer {
-  font-family:var(--font-head);
-  font-size:.8em;
-  color:var(--color-default);
-  width:100%;
-  display: grid;
-  grid-template-columns: 2fr 2fr;
-  margin: 1rem 8px;
-}
-
-footer p {
-  font-family:var(--font-head);
-  font-size:12px;
-}
-
-footer img {
-  max-height: 20px;
-  max-width: 20px;
-  margin-right: 10px;
-}
 
 /* -----------------------------------
 Type and Media
@@ -259,11 +206,7 @@ li.archive {
     display: grid;
     grid-template-columns: 1fr 2fr;
   } 
-  footer {
-      padding: 2 0;
-      display: grid;
-      grid-template-columns: 1fr 2fr;
-  }
+ 
   div.title {
       font-size: 12px;
       line-height: 22px;
