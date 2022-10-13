@@ -6,6 +6,30 @@ type: books
 
 ## 2022 {#2022}
 
+**The Sunny Nihilist**
+
+Pretty light reading but this matched up nicely with a lot that I’ve been thinking for years.
+
+**The Answers**
+
+A weird send-up of heterosexual romance, male myopia, and capitalism.
+
+**Nona the Ninth**
+
+I’m still not sure what I read
+
+**Too Like Lightning**
+
+At times deeply frustrating, but it doled-out its pleasure at random intervals ensuring I kept reading.
+
+**The World of Cycling According to G**
+
+Fun stories and info, if a bit disjointed. Definitely came off as a series of anecdotes instead of something like Gaimon’s work.
+
+**Unnatural Magic**
+
+Not really my thing, but if you like awkward romance fic, this is probably up your alley.
+
 **The Bayern Agenda**
 
 A fun space spy thriller.
