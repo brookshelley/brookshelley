@@ -1,7 +1,7 @@
 --- 
 title: "seen" 
 draft: false 
-type: media 
+type: movies 
 ---
 
 ## 2022 {#2022}
