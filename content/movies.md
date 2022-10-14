@@ -18,7 +18,7 @@ I'll have to rewatch this and let it sink in a bit. Cool world and somewhat Cron
 
 Solid fight choreography, a silly plot, and a lot of weird humor. Overall it was fun!
 
-**Inside Lleweyn Davis**
+**Inside Llewyn Davis**
 
 Imagine if folk music had been big in the 90s instead of boy bands, and Timberlake was just a singer-songwriter. Also I hope Goodman got an Oscar for his whole thing, but especially his hair.
 
