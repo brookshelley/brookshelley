@@ -6,6 +6,18 @@ type: books
 
 ## 2022 {#2022}
 
+**‌The Water Cure**
+
+Strange and compelling.
+
+**An Actual Star**
+
+I either learned a lot about Mayans or was sufficiently fooled. A fun romp in triple.
+
+**The Golden Enclaves**
+
+A solid ending to a very rad magic system and series.
+
 **The Sunny Nihilist**
 
 Pretty light reading but this matched up nicely with a lot that I’ve been thinking for years.
