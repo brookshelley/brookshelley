@@ -2,14 +2,12 @@
 type: posts
 title: "2022 Mac software"
 date: 2022-11-12
-type: posts
 description: a few changes to my apps
 tags:
   - apple
   - tech
   - mac
 ---
-
 
 With my move primarily back to the Mac from the iPad thanks to the speed and battery life increases of M1 & M2 Macs, I've decided to revisit my [previous post on setting up a Mac](/2021-06-05-first-downloads-for-a-mac/) to update it with what I use lately.
 
