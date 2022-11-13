@@ -67,22 +67,10 @@ Not a lot has changed, but I seem to be simplifying many of my previous choices.
 ## CLI Utilities
 
 - **Brew**
-
-```
-/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
-```
 		
 - **Hyper**
-
-```	
-brew install hyper
-```
 		
 - **OhMyZsh**
-
-```
-sh -c "$(curl -fsSL https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
-```
 		
 These apps are are a backing service for installing and managing packages, my terminal of choice, and a good Zsh customization now that Zsh is the standard on a Mac.
 
