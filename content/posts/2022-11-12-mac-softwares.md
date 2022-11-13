@@ -10,7 +10,7 @@ tags:
 ---
 
 
-With my move primarily back to the Mac from the iPad thanks to the speed and battery life increases of M1 & M2 Macs, I've decided to revisit my previous post on setting up a Mac to update it with what I use lately.
+With my move primarily back to the Mac from the iPad thanks to the speed and battery life increases of M1 & M2 Macs, I've decided to revisit my [previous post on setting up a Mac](/2021-06-05-first-downloads-for-a-mac/) to update it with what I use lately.
 
 Not a lot has changed, but I seem to be simplifying many of my previous choices.
 
