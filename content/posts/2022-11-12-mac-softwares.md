@@ -2,6 +2,7 @@
 type: posts
 title: "2022 Mac software"
 date: 2022-11-12
+type: posts
 description: a few changes to my apps
 tags:
   - apple
