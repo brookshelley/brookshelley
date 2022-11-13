@@ -1,4 +1,12 @@
 books:
+- name: The Water Cure
+  read: 2022/10/28
+  link: https://bookshop.org/p/books/the-water-cure-sophie-mackintosh/7365423?ean=9780525562832
+  thumbnail: https://images-us.bookshop.org/ingram/9780525562832.jpg?height=500&v=v2
+- name: An Actual Star
+  read: 2022/10/20
+  link: https://bookshop.org/p/books/the-actual-star-monica-byrne/17059176?ean=9780063002890
+  thumbnail: https://images-us.bookshop.org/ingram/9780063002890.jpg?height=500&v=v2
 - name: The Sunny Nihilist
   read: 2022/09/30
   link: https://bookshop.org/books/the-sunny-nihilist-a-declaration-of-the-pleasure-of-pointlessness/9781797215808
