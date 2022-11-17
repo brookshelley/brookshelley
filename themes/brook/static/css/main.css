@@ -33,6 +33,11 @@ max-width: 55rem;
 font-family:var(--font-body);
 }
 
+.thumb {		
+  width:60px;		
+  height:auto;		
+}
+
 img {
   width:100%;
   height:auto
