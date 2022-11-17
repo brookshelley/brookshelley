@@ -52,8 +52,7 @@ id1333542190?mt=12)**
 **[Fantastical](https://apps.apple.com/us/app/fantastical-calendar-tasks/
 id975937182?mt=12)**
 
-    My personal calendar app is somewhat useless now that I can't load my work
-    calendar onto my phone. I may revert back to iOS Calendar due to this.
+My personal calendar app is somewhat useless now that I can't load my work calendar onto my phone. I may revert back to iOS Calendar due to this.
 
 - **[iA Writer](https://apps.apple.com/us/app/ia-writer/id775737590?mt=12)**
 
