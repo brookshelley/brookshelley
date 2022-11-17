@@ -24,8 +24,7 @@ Not a lot has changed, but I seem to be simplifying many of my previous choices.
     is the app I always wanted Alfred or Spotlight to be. It's easy to develop
     extensions for this app, and tons exist in the extension library.
 
-- **[1Pass](https://apps.apple.com/us/app/1password-7-password-manager/
-id1333542190?mt=12)**
+- **[1Pass](https://apps.apple.com/us/app/1password-7-password-manager/id1333542190?mt=12)**
 
     One password to rule them all, and in darkness, to bind them. This app saved
     me from years spent trying to remember various bizarre passwords, or
@@ -47,8 +46,7 @@ id1333542190?mt=12)**
     unless Arc exists on iPad and iPhone there's no chance it's taking the place
     of Safari for me—especially with Chromium's poor memory and resource usage.
 
-- **[Fantastical](https://apps.apple.com/us/app/fantastical-calendar-tasks/
-id975937182?mt=12)**
+- **[Fantastical](https://apps.apple.com/us/app/fantastical-calendar-tasks/id975937182?mt=12)**
 
     My personal calendar app is somewhat useless now that I can't load my work calendar onto my phone. I may revert back to iOS Calendar due to this.
 
@@ -67,8 +65,7 @@ id975937182?mt=12)**
     from round the world, and also if you ever use public wifi. I get this by
     paying for Proton mail and it does the little I need a VPN for.
 
-- **[Parcel](https://apps.apple.com/us/app/parcel-delivery-tracking/id639968404?mt
-=12)**
+- **[Parcel](https://apps.apple.com/us/app/parcel-delivery-tracking/id639968404?mt=12)**
 
     With Deliveries dying a sad death by losing its ability to track UPS and
     Fedex packages, I moved to its competitor.
