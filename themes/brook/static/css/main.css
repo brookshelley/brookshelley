@@ -33,19 +33,9 @@ max-width: 55rem;
 font-family:var(--font-body);
 }
 
-.thumb {		
-  width:60px;		
-  height:auto;		
-}		
-
 img {
   width:100%;
   height:auto
-}
-
-code, pre {
-  font-family:var(--font-mono);
-  max-width: 55rem;
 }
 
 p, article li {
@@ -68,8 +58,7 @@ header {
 .logo {
   max-width:33px; 
   float:left;
-  }
-
+}
 
 .baseline a {
   font-family:var(--font-head);
@@ -93,20 +82,13 @@ p a:hover, li a:hover, .active {
   color: var(--color-alt);
 }
 
-::-moz-selection {
-color:#8f75de
-}
-
-::selection {
+::-moz-selection, ::selection {
 color:#8f75de
 }
 
 b,strong {
 font-weight:400
-}
-
-i {
-font-weight:300
+  font-family: var(--font-head);
 }
 
 .site-title {
@@ -264,9 +246,6 @@ article h1 {
   margin: 2px 0 1.5rem;
 }
 
-strong {
-  font-family: var(--font-head);
-}
 
 em {
   margin: 0 2px;
