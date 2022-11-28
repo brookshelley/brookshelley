@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "dill & fennel"
 theme = "brook"
 
-copyright = "© Brook Shelley 2021"
+copyright = "© Brook Shelley 2022"
 
 # Enable syntax highlighting.
 pygmentsstyle = "monokai"
