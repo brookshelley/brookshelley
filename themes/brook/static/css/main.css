@@ -12,8 +12,8 @@
   }
 @media (min-width: 1000px) {
   :root {
-      --font-small: 16px;
-      --font-large: 18px;
+      --font-small: 15px;
+      --font-large: 17px;
   }
 }
 html {
@@ -92,8 +92,8 @@ color:#8f75de
 }
 
 b,strong {
-font-weight:400
-  font-family: var(--font-head);
+  font-weight:400;
+  font-family:var(--font-head);
   font-weight: bold;
 }
 
