@@ -1,7 +1,7 @@
 ---
 draft: false
 type: posts
-title: "A year of serious cycling 2"
+title: "A Second Year of Serious Cycling"
 date: 2022-12-06
 description: lots of cycling lately
 tags:
