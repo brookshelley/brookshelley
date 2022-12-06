@@ -16,15 +16,15 @@ After 50 times up Tunnel road, I'm not over the sunset or the views I get from t
 
 ## The stats
 
-Distance: 8510.6km / 5288.2mi
-Time: 477h 47m 
-Elev gain	: 91164m / 299,094ft
-Flat tires: 2 (Tubeless life)
-Bikes purchased: 1 Litespeed T1SL, 1 Squid Gravtron, 1 Canyon Endurace
-Major climb: Mount Diablo
-Races: CX, Gravel, & Diablo hill climb
-Bike camping: 1
-FTP: 291 (Last year was 276)
+- Distance: 8510.6km / 5288.2mi
+- Time: 477h 47m 
+- Elev gain	: 91164m / 299,094ft
+- Flat tires: 2 (Tubeless life)
+- Bikes purchased: 1 Litespeed T1SL, 1 Squid Gravtron, 1 Canyon Endurace
+- Major climb: Mount Diablo
+- Races: CX, Gravel, & Diablo hill climb
+- Bike camping: 1
+- FTP: 291 (Last year was 276)
 
 ## Gear
 
