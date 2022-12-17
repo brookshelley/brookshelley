@@ -15,7 +15,7 @@ I spent *four hours* on the phone today with Chase bank trying to move my flight
 
 You’re probably not here to read about my Japanese vacation travails though, so without further ado, here’s the links:
 
-https://mobile.twitter.com/davdchristmas/status/1239196410857340933
+{{< tweet user="davdchristmas" id=1239196410857340933" >}}
 
 - You might know that I’m a racing fan, and especially love Formula 1 racing, but currently all the races this season are cancelled. Bummer. To get my high-octane thrill, I’ve resorted to watching [matchbox cars](https://www.youtube.com/watch?v=W3hEfwmzgDI) thanks to my friend Stephan, and even [sim racing with actual F1 drivers](https://www.youtube.com/watch?v=DG1cFm3dsaU). YouTube is often a shitshow of terrible videos, but this week it’s a true savior with all of its odd niches. Maybe you’ll find a cool substitute for something you miss on there as well.
 - A few weeks ago, when we could still _gather_, I saw Kyle Chayka and Robin Sloan discuss Kyle’s new book. It was pretty fun, albeit sparsely attended. If you haven’t read *Longing for Less*, perhaps this will [convince you to pick up a a copy](https://www.newyorker.com/magazine/2020/02/03/the-pitfalls-and-the-potential-of-the-new-minimalism) from an independent bookstore. Robin even recommends a few other books in [his latest newsletter](https://www.robinsloan.com/newsletter/march-2020/).

@@ -39,11 +39,6 @@ ignoreErrors = ["error-remote-getjson"]
 	url = "https://www.letterboxd.com/brookshelley"
 
 	[[params.social]]
-	name = "Twitter"
-	icon = "twitter"
-	url = "https://twitter.com/brookshelley"
-
-	[[params.social]]
   name = "newsletter"
   icon = "mail"
   url = "/tags/newsletter"
