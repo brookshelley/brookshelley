@@ -13,37 +13,37 @@ tags:
 
 - **Our Wives Under the Sea**
 
-I gave a copy of this book to a friend, and I think she read most of it in the bath, texting me as it got stranger. I loved this book. I didn't know I needed a WInterson/Vandermeer combo story, but it worked.
+	I gave a copy of this book to a friend, and I think she read most of it in the bath, texting me as it got stranger. I loved this book. I didn't know I needed a WInterson/Vandermeer combo story, but it worked.
 
 - **Amatka**
 
-On a similar theme to my other favorite this year, Amatka tells a strange tale reminiscent of the best spooky sci-fi I've read.
+	On a similar theme to my other favorite this year, Amatka tells a strange tale reminiscent of the best spooky sci-fi I've read.
 
 ## Movies
 
 - **Triangle of Sadness**
 
-Seeing this right before a flight could've been a disaster, but fortunately my stomach is strong. I've seen this positively compared to the Menu, and I agree it's far more biting and hilarious. I don't think biting portrayals of the wealthy will change the world, but I still want more of them.
+	Seeing this right before a flight could've been a disaster, but fortunately my stomach is strong. I've seen this positively compared to the Menu, and I agree it's far more biting and hilarious. I don't think biting portrayals of the wealthy will change the world, but I still want more of them.
 
 - **Barbarian**
 
-Fantastic, spooky, and surprising.
+	Fantastic, spooky, and surprising.
 
 - **Decision to Leave**
 
-The build of tension and repeating themes of desire and memory were outstanding.
+	The build of tension and repeating themes of desire and memory were outstanding.
 
 - **Nope**
 
-Much more sci-fi and speculative than I expected, and as funny was it was strange.
+	Much more sci-fi and speculative than I expected, and as funny was it was strange.
 
 - **Men**
 
-Captured some of the strangeness of trying to return to the world as it decided COVID was over.
+	Captured some of the strangeness of trying to return to the world as it decided COVID was over.
 
 - **Speak No Evil**
 
-I told a lot of folks to go see this cultural misunderstanding horror film. 
+	I told a lot of folks to go see this cultural misunderstanding horror film. 
 
 ## Music 
 
