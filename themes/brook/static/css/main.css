@@ -65,12 +65,9 @@ header {
   float:left;
 }
 
-.baseline a {
+.baseline a, a {
   font-family:var(--font-head);
-}
-
-a {
- color: var(--color-accent); 
+  color: var(--color-accent); 
 }
 
 p a, li a, a, li {
