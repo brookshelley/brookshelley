@@ -7,7 +7,7 @@ description: Another trip to the land of yakitori
 tags:
   - japan
   - travel
-  - backpack
+  - backpacks
 ---
 
 ## Before
