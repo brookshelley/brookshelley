@@ -6,6 +6,14 @@ type: books
 
 ## 2022 {#2022}
 
+**Road to Nowhere**
+
+A fantastic survey of the history of tech and transport, and how the US especially led the way in fucking the world up for people.
+
+**Pattern Recognition**
+
+A reread—this is a classic and I love it every time.
+
 **‌The Water Cure**
 
 Strange and compelling.
