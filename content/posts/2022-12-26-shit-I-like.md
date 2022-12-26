@@ -1,7 +1,7 @@
 ---
 type: posts
 title: "Shit I Like"
-date: 2022-12-06
+date: 2022-12-26
 description: An up-to-date list of stuff
 tags:
   - bikes 
