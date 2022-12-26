@@ -16,9 +16,9 @@ After 50 times up Tunnel road, I'm not over the sunset or the views I get from t
 
 ## The stats
 
-- Distance: 8510.6km / 5288.2mi
-- Time: 477h 47m 
-- Elev gain	: 91164m / 299,094ft
+- Distance: 8746.9km / 5,435mi
+- Time: 489h 51m 
+- Elev gain	: 93,605m / 307,103ft
 - Flat tires: 2 (Tubeless life)
 - Bikes purchased: 1 Litespeed T1SL, 1 Squid Gravtron, 1 Canyon Endurace
 - Major climb: Mount Diablo
