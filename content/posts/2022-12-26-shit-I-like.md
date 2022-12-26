@@ -63,13 +63,13 @@ As the year ends and folks are buying gifts for each other, I figured I would po
 
 ## Electronics
 
-- iPad mini
+- **iPad mini**
 
-- iPhone 14
+- **iPhone 14**
 
-- M2 MacBook Air
+- **M2 MacBook Air**
 
-- Kindle Oasis
+- **Kindle Oasis**
 
 ## Bags
 
@@ -93,9 +93,9 @@ As the year ends and folks are buying gifts for each other, I figured I would po
 
 ## Coffee
 
-- Fellow Ode grinder
-- Fellow Stag kettle
-- Hario V60 
+- **Fellow Ode grinder**
+- **Fellow Stag kettle**
+- **Hario V60**
 
 ## Toiletries
 
