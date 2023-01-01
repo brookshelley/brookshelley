@@ -6,6 +6,18 @@ type: books
 
 ## 2022 {#2022}
 
+**How to Blow Up a Pipeline**
+
+A compelling argument for direct action against the engines of the state and corporate powers destroying the planet.
+
+**The Red**
+
+Decent very military action sci-fi, but the deeper ideas explored are chilling. The thought that god is a rogue marketing AI is great.
+
+**Last Ones Left Alive**
+
+A nice zombie book—someone else described it as The Road x 28 Days Later and that’s pretty accurate.
+
 **Road to Nowhere**
 
 A fantastic survey of the history of tech and transport, and how the US especially led the way in fucking the world up for people.
@@ -135,5 +147,5 @@ This is Herbert at his perverse peak. You can sense the awkward sexual desperati
 
 Riveting and surprisingly upbeat. Despite outlining the incredibly apocalyptic circumstances of our present, Hickels built a case for optimism if we’re able to understand the interdependence we have with the planet. I liked how there was a call for more Animism too.
 
-
+## [microblog list](https://micro.brookshelley.com/2023/01/01/bookgoals.html)
 ## [book archive](/bookarchive)
