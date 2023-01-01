@@ -6,7 +6,7 @@ type: oldbooks
 
 _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020) [2021](#2021)[2022](#2022)_
 
-## 2022 {#2022}
+## 2022: 35 books {#2022}
 
 **How to Blow Up a Pipeline**
 
@@ -120,7 +120,6 @@ Magic at a University more mundane than the Magicians, but every bit as seedy. I
 
 A very strange collections from an interesting lady. I’ve got a few other of Tiptree’s books and I’m curious if they’re all so horny.
 
-
 **The Haunting of Tram Car 015**
 
 A fun introduction to a magical alt-Cairo. I’ve had a harder time finishing Clark’s Ring Shout and perhaps prefer his short fiction.
@@ -149,8 +148,7 @@ This is Herbert at his perverse peak. You can sense the awkward sexual desperati
 
 Riveting and surprisingly upbeat. Despite outlining the incredibly apocalyptic circumstances of our present, Hickels built a case for optimism if we’re able to understand the interdependence we have with the planet. I liked how there was a call for more Animism too.
 
-
-## 2021 {#2021}
+## 2021: 40 books {#2021} 
 
 **The Last Watch**
 
@@ -330,7 +328,6 @@ climate disaster sci-fi was written 15 years ago, and I really enjoyed the AI
 component and the idea that the US had completely blown itself up before the
 books begin.
 
-
 **The Dragon Republic** -- R. F Kuang
 
 After the whiplash of the first book in the trilogy from school-based fantasy to
@@ -351,7 +348,6 @@ This was a wild book. Written as diary entries, it follows the quick dissolution
 of a middle-class life in New York with the backdrop of the US falling apart
 completely. I'm not a huge fan of books that affect a dialect, but eventually it
 was easier to follow. A very depressing speculative fiction.
-
 
 **The Quantum Thief** -- Hannu Rajaniemi
 
