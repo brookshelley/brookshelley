@@ -1,10 +1,8 @@
 --- 
-title: "seen" 
+title: "2023" 
 draft: false 
 type: movies 
 ---
-
-## 2023 {#2023}
 
 **Safe**
 

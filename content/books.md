@@ -1,10 +1,8 @@
 --- 
-title: "read" 
+title: "2023" 
 draft: false 
 type: books 
 ---
-
-## 2023
 
 **Neuromancer**
 
