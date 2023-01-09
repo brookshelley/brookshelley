@@ -1,4 +1,120 @@
 books:
+- name: The Water Cure
+  read: 2022/10/28
+  link: https://bookshop.org/p/books/the-water-cure-sophie-mackintosh/7365423?ean=9780525562832
+  thumbnail: https://images-us.bookshop.org/ingram/9780525562832.jpg?height=500&v=v2
+- name: An Actual Star
+  read: 2022/10/20
+  link: https://bookshop.org/p/books/the-actual-star-monica-byrne/17059176?ean=9780063002890
+  thumbnail: https://images-us.bookshop.org/ingram/9780063002890.jpg?height=500&v=v2
+- name: The Sunny Nihilist
+  read: 2022/09/30
+  link: https://bookshop.org/books/the-sunny-nihilist-a-declaration-of-the-pleasure-of-pointlessness/9781797215808
+  thumbnail: https://images-us.bookshop.org/ingram/9781797215808.jpg?height=500&v=v2
+- name: The Answers
+  read: 2022/09/26
+  link: https://bookshop.org/books/the-answers-9781250183088/9781250183088
+  thumbnail: https://images-us.bookshop.org/ingram/9781250183088.jpg?height=500&v=v2
+- name: Nona the Ninth
+  read: 2022/09/20
+  link: https://bookshop.org/books/nona-the-ninth/9781250854117
+  thumbnail: https://images-us.bookshop.org/ingram/9781250854117.jpg?height=500&v=v2-94cf28e97c5bb2bf10aaa48ca4d6731c
+- name: Too Like Lightning
+  read: 2022/09/16
+  link: https://bookshop.org/books/too-like-the-lightning-book-one-of-terra-ignota/9780765378019
+  thumbnail: https://images-us.bookshop.org/ingram/9780765378019.jpg?height=500&v=v2
+- name: The World of Cycling According to G
+  read: 2022/09/14
+  link: https://bookshop.org/books/the-world-of-cycling-according-to-g/9781784296407
+  thumbnail: https://images-us.bookshop.org/ingram/9781784296407.jpg?height=500&v=v2
+- name: Unnatural Magic*
+  read: 2022/09/10
+  link: https://bookshop.org/books/unnatural-magic/9781984805843
+  thumbnail: https://images-us.bookshop.org/ingram/9781984805843.jpg?height=500&v=v2
+- name: Bayern Agenda
+  read: 2022/08/24
+  link: https://bookshop.org/books/the-bayern-agenda-the-galactic-cold-war-book-i/9780857668196
+  thumbnail: https://images-us.bookshop.org/ingram/9780857668196.jpg?height=500&v=v2
+- name: Our Wives Under the Sea
+  read: 2022/08/18
+  link: https://bookshop.org/books/our-wives-under-the-sea/9781250229892
+  thumbnail: https://images-us.bookshop.org/ingram/9781250229892.jpg?height=500&v=v2-da75cc94465e6961b4f0ea69d7d6a909
+- name: Draft Animals
+  read: 2022/08/10
+  link: https://bookshop.org/books/draft-animals-living-the-pro-cycling-dream-once-in-a-while/9780143131243
+  thumbnail: https://images-us.bookshop.org/ingram/9780143131243.jpg?height=500&v=v2
+- name: Amatka
+  read: 2022/07/25
+  link: https://bookshop.org/books/amatka/9781101973950
+  thumbnail: https://images-us.bookshop.org/ingram/9781101973950.jpg?height=500&v=v2
+- name: Pro Cycling on $10 A Day
+  read: 2022/07/24
+  link: https://bookshop.org/books/pro-cycling-on-10-a-day-from-fat-kid-to-euro-pro/9781937715243
+  thumbnail: https://images-us.bookshop.org/ingram/9781937715243.jpg?height=500&v=v2
+- name: Ring Shout
+  read: 2022/07/14
+  link: https://bookshop.org/books/ring-shout/9781250767028
+  thumbnail: https://images-us.bookshop.org/ingram/9781250767028.jpg?height=500&v=v2
+- name: The Echo Wife
+  read: 2022/06/28
+  link: https://bookshop.org/books/the-echo-wife-9781432884130/9781250174666
+  thumbnail: https://images-us.bookshop.org/ingram/9781250174666.jpg?height=500&v=v2
+- name: Do You Dream of Terra Two
+  read: 2022/06/20
+  link: https://bookshop.org/books/do-you-dream-of-terra-two/9781534437401
+  thumbnail: https://images-us.bookshop.org/ingram/9781534437401.jpg?height=500&v=v2
+- name: Planetfall
+  read: 2022/06/12
+  link: https://bookshop.org/books/planetfall/9780425282397
+  thumbnail: https://images-us.bookshop.org/ingram/9780425282397.jpg?height=500&v=v2
+- name: Salvaged
+  read: 2022/06/02
+  link: https://bookshop.org/books/salvaged-9780451491831/9780451491831
+  thumbnail: https://images-us.bookshop.org/ingram/9780451491831.jpg?height=500&v=v2
+- name: Sea of Tranquility
+  read: 2022/05/30
+  link: https://bookshop.org/books/sea-of-tranquility-9780593552070/9780593321447
+  thumbnail: https://images-us.bookshop.org/ingram/9780593321447.jpg?height=500&v=v2
+- name: The Body Keeps the Score
+  read: 2022/05/30
+  link: https://bookshop.org/books/the-body-keeps-the-score-brain-mind-and-body-in-the-healing-of-trauma/9780143127741
+  thumbnail: https://images-us.bookshop.org/ingram/9780143127741.jpg?height=500&v=v2
+- name: Ninth House
+  read: 2022/05/28
+  link: https://bookshop.org/books/ninth-house/9781250751362
+  thumbnail: https://images-us.bookshop.org/ingram/9781250751362.jpg?height=500&v=v2
+- name: Warm Worlds and Otherwise
+  read: 2022/05/20
+  link: https://www.amazon.com/Worlds-Otherwise-Penguin-Science-Fiction/dp/0241509750/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=
+  thumbnail: https://images-na.ssl-images-amazon.com/images/I/41BUz1fWVuL._SX305_BO1,204,203,200_.jpg
+- name: The Haunting of Tram Car 015
+  read: 2022/04/25
+  link: https://bookshop.org/books/the-haunting-of-tram-car-015/9781250294807
+  thumbnail: https://images-us.bookshop.org/ingram/9781250294807.jpg?height=500&v=v2
+- name: The Caledonia Gambit
+  read: 2022/04/10
+  link: https://bookshop.org/books/the-caledonian-gambit/9781940456843
+  thumbnail: https://images-us.bookshop.org/ingram/9781940456843.jpg?height=500&v=v2-e5bcaa53dc05f36df335aa1a15088ba2
+- name: The Goblin Emperor
+  read: 2022/03/22
+  link: https://bookshop.org/books/the-goblin-emperor/9780765365682
+  thumbnail: https://images-us.bookshop.org/ingram/9780765365682.jpg?height=500&v=v2  
+- name: The Exiled Fleet
+  read: 2022/02/27
+  link: https://bookshop.org/books/the-exiled-fleet/9781250236364
+  thumbnail: https://images-us.bookshop.org/ingram/9781250236364.jpg?height=500&v=v2
+- name: The Bone Shard Daughter
+  read: 2022/02/15
+  link: https://bookshop.org/books/the-bone-shard-daughter/9780316541435
+  thumbnail: https://images-us.bookshop.org/ingram/9780316541435.jpg?height=500&v=v2
+- name: Heretics of Dune 
+  read: 2022/01/25
+  link: https://bookshop.org/books/heretics-of-dune/9780593098264
+  thumbnail: https://images-us.bookshop.org/ingram/9780593098264.jpg?height=500&v=v2
+- name: Less is More
+  read: 2022/01/15
+  link: https://bookshop.org/books/less-is-more-how-degrowth-will-save-the-world/9781786091215
+  thumbnail: https://images-us.bookshop.org/ingram/9781786091215.jpg?height=500&v=v2-1d1b3f439e8a7c105e08db7b3015c868
 - name: Queen of Coin and Whispers
   read: 2021/11/28
   link: https://bookshop.org/books/queen-of-coin-and-whispers-a-kingdom-of-secrets-and-a-game-of-lies-9781867507215/9781788491181
