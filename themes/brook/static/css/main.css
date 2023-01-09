@@ -90,8 +90,7 @@ color:#8f75de
 
 b,strong {
   font-weight:400;
-  font-family:var(--font-head);
-  font-weight: bold;
+  font-family:var(--font-body);
 }
 
 .site-title {
