@@ -1,6 +1,6 @@
 ---
 type: posts
-date: '2020-07-16T08:01:36.143Z'
+date: 2020-07-16
 title: Microposting
 tags:
   - tech
