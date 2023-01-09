@@ -1,1 +1,5 @@
 books:
+- name: Neuromancer
+  read: 2023/01
+  link: https://bookshop.org/p/books/neuromancer-william-gibson/7503287?ean=9780143111603
+  thumbnail: https://images-us.bookshop.org/ingram/9780143111603.jpg?height=500&v=v2
