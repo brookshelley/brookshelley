@@ -11,7 +11,7 @@ type: posts
 
 I hate slide tools.
 
-I've used presentation tools since high school, from my first days using PowerPoint to later dalliances with Keynote and a corporate settling for Google Slides. 
+I've used them  since high school, from my first days using PowerPoint to later dalliances with Keynote and a corporate settling for Google Slides. 
 
 I’m a writer, and write my presentations in prose. With other tools this meant writing in iA Writer and pasting into the prompter section without a clear idea of how it will work when present, and cobbling together highlights ad-hoc as the actual slides. It sucked. In meetings or at a conferences I would panic as my notes disappeared.
 
