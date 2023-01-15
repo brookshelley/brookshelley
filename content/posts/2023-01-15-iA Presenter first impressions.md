@@ -1,5 +1,5 @@
 ---
-title: iA Presenter App
+title: iA Presenter review
 date: 2023-01-15
 description: a new way to present
 tags: 
