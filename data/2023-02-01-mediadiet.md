@@ -1,12 +1,11 @@
 ---
 title: january 23
 date: 2023-02-01
-description: tv, games, and covid
+description: tv games and covid
 tags: 
     - mediadiet
 type: posts
 ---
-
 
 A rainy month with the back half consisting of a work trip and a few weeks with COVID meant a lot of watching Lost, The Traitors, and other tv. I also played the entirety of Last of Us Part 1, which was a little too linear for my taste.
 
