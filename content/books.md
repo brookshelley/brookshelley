@@ -4,6 +4,14 @@ draft: false
 type: books 
 ---
 
+**‌Something New Under the Sun**
+
+A friend asked if this was Solarpunk, and I'm not sure, but I said yes.
+
+**Winter Tide**
+
+A nice take it and turn it of Lovecraft.
+
 **Neuromancer**
 
 Re-reading for a Discord group. Not my favorite of his trilogies, but still fun.
