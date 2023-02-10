@@ -11,7 +11,7 @@ type: posts
 
 For a year my finger has hovered over the "buy" button on the ZSA Planck keyboard. I've used the ZSA Moonlander for most of the pandemic, and the ortholinear layout, plus moving to Colemak has made my near constant wrist and hand pain a thing of the past. As a reward for this development, I've decided to further torture my hands with only 40% non-split layout. Buying a third mechanical keyboard means I'm fully cursed by the keyboard demon.
 
-![Planck and Moonlander](https://micro.brookshelley.com/uploads/2023/4cbef1d951.jpg)
+![Planck and Moonlander](https://micro.brookshelley.com/uploads/2023/407f164a7e.jpg)
 
 It's hard to illustrate just how small this thing is: 9" x 3" with only 47 keys. The keyboard on a MacBook Air has 82 and measures at a *gargantuan* (lol) 10" x 5". The tiny nature of the Planck belies a ton of function, but makes it super portable. 
 
