@@ -1,9 +1,11 @@
 ---
 title: "a review of the Planck EZ keyboard"
 date: 2023-02-09
-description: tv games and covid
+description: tiny mechanical joy
 tags: 
-    - mediadiet
+    - keyboard
+    - review
+    - tech
 type: posts
 ---
 
