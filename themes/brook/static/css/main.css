@@ -22,7 +22,7 @@ html {
   color:var(--color-default);
   background-color:var(--color-bg);
   font-size:15px;
-  font-weight: 200;
+  font-weight: 300;
 }
 @media (min-width: 600px) { html { font-size: 16px; } }
 @media (min-width: 700px) { html { font-size: 18px; } } 
