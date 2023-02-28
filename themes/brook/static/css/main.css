@@ -22,7 +22,7 @@ html {
   color:var(--color-default);
   background-color:var(--color-bg);
   font-size:15px;
-  font-weight: 300;
+  font-weight: 200;
 }
 @media (min-width: 600px) { html { font-size: 16px; } }
 @media (min-width: 700px) { html { font-size: 18px; } } 
@@ -31,6 +31,7 @@ body {
 padding: 0;
 max-width: 55rem;
 font-family:var(--font-body);
+font-weight: 300;
 }
 
 .thumb {		
