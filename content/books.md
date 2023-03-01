@@ -4,6 +4,18 @@ draft: false
 type: books 
 ---
 
+**An Unkindness of Magicians**
+
+Similar thematically and story-wise to a lot of fantasy I read these days, but compelling characters and hilariously brutal and brief spell battles mark it out.
+
+**The Employees**
+
+The objects are good.
+
+**Chilling Effect**
+
+Fun but a little too silly.
+
 **‌Something New Under the Sun**
 
 A friend asked if this was Solarpunk, and I'm not sure, but I said yes.
