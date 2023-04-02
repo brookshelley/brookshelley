@@ -1139,386 +1139,388 @@ Still a fun and weird film but in the years since I first watched this, most of 
 
 This is like the most grim John Wick. Well shot, but damn, it was grim.
 
-Palm Springs
+### Palm Springs
 
 Unbelievably charming. My accidental JK Simmons fest continues with a far more fun character of his, and a solid Connor O’Malley. The best thing I can say about this is that it made me want to fall in love.
 
-Whiplash
+### Whiplash
 
 If the goal was to make every character absolutely insufferable, then this was a great success. The way the film obsessed over the sweat and blood conjured by JK Simmons being one of the most abusive characters on screen was fascinating. Not a fun movie. Because I’m a "such jazz head" I did enjoy the musical interludes.
 
-Heat
+### Heat
 
 Absolutely rad except for Kilmer’s ponytail. The dna of this film is in so many heist films for the past 20 years. Al Pacino talking about butts blew my mind.
 
-Old
+### Old
 
 If you drink every time someone says older or younger you will die.
 
-Prisoners of the Ghostland
+### Prisoners of the Ghostland
 
 Checkov’s ball bomb. This was silly, but ultimately didn’t live up to Sono’s other work. If this was his first film we could say "oh, that guy makes ok schlock," but I had pretty high hopes.
 
-It Comes at Night
+### It Comes at Night
 
 Not a great movie to watch during a pandemic, but definitely a tense one.
 
-Escape from New York
+### Escape from New York
 
 Rewatched to listen to Blank Check. It’s hilarious to me that Kurt Russell is a libertarian.
 
-Annette
+### Annette
 
 Adam Driver is the worst joker yet. I don’t like musicals but this was so bizarre I enjoyed it.
 
-Wrath of Man
+### Wrath of Man
 
 Much more interesting than I first imagined. A wild ride of a revenge film.
 
-Kate
+### Kate
 
 A solid film. MEW should be in more action movies--imo she should take over Mission Impossible or something. Stylish and fast.
 
-Malignant
+### Malignant
 
 Schlocky in a very 80s horror way. Not really scary at all, but just a bit silly and gory.
 
-Naked Singularity
+### Naked Singularity
 
 Fun and slightly surreal take on a heist and an underdog lawyer story. 
 
-The Colony
+### The Colony
 
 An interesting post-apocolyptic tale with bits of Waterworld and NK Jemison’s Emergency Skin. I would’ve loved to know more about how the Earth stayed habitable, but that likely would be the long TV version of this story.
 
-Ex Machina
+### Ex Machina
 
 Such an amazing film. The claustrophobic nature of the whole thing really enhances the haunting performances.
 
-We Need to Do Something
+### We Need to Do Something
 
 I like what it was trying for but it didn’t capture my attention or really deliver.
 
-Antiporno
+### Antiporno
 
 I haven’t watched a Sono film in a while but man, it’s still a wild ride. I think Suicide Club is still the absolute best, but the absurdly surreal structure of this one was delightful.
 
-Sisters with Transistors
+### Sisters with Transistors
+
 Wow I knew very little about the history of women who pioneered electronic music. This was cool and full f amazing music.
 
-The Forever Purge
+### The Forever Purge
 
 Definitely the best of the purge films. A lot of action, and some solid, if not well-fleshed-out characters.
 
-Halloween
+### Halloween
 
 A rewatch of a classic.
 
-The Fog
+### The Fog
 
 Sometimes slow older movies just don’t hit.
 
-Basic Instinct
+### Basic Instinct
 
 Verhoeven’s idea of butch is pretty in line with my preferred presentation. We all need a friend who says "goddamn you dumb sonnafabitch you fucked her".
 
-Tropic Thunder
+### Tropic Thunder
 
 It’s wild this got made.
 
-The House That Jack Built
+### The House That Jack Built
 
 It’s still really confusing that some of y’all think Matt Dillon is hot.
 
-Demonic
+### Demonic
 
 Meh.
 
-Pig
+### Pig
 
 Completely unexpected, and excellent.
 
-Assault on Precinct 13 (2005)
+### Assault on Precinct 13 (2005)
 
 A pretty good remake that concerned itself with being a fun movie over being true to the source material. Hawke and Fishburne delivered a solid action performance.
 
-Total Recall (2012)
+### Total Recall (2012)
 
 Way less memorable and funny than the original. This was a serviceable action film that reminded me of when Hollywood really wanted Colin Firth to be the new Tom Cruise.
 
-Total Recall
+### Total Recall
 
 Verhoeven is a master of cinema and this is up there with his best. Every Arnold scene is using him to his best, and between the makeup and plain silly puppets, it’s a blast.
 
-Assault on Precinct 13
+### Assault on Precinct 13
 
 Watched so I could listen to more Blank Check. The premise is super absurd but the action was fun, and there were some very entertaining bits and camera shots.
 
-Titanic
+### Titanic
 
 When this came out I remember taking a date to see The Wedding Singer instead and I don’t regret that choice. It was a neat disaster film once it got to that point, and Kathy Bates did a great job, but the romance bit didn’t do much for me. I mean, we’ve all made stupid choices in love, but don’t dive off a lifeboat for a boy you just met!
 
-What Lies Beneath
+### What Lies Beneath
 
 A little spooky, but mostly rad because Harrison Ford is playing against expectations.
 
-Castaway
+### Castaway
 
 So brutal and good. This is just hit after hit and makes you sad about a volleyball.
 
-A Quiet Place Part 2
+### A Quiet Place Part 2
 
 Spooky and a lot less "why?!" than the first film. I prefer Cillian Murphy to Krasinski.
 
-Beckett
+### Beckett
 
 A competent but ultimately substanceless thriller. It was fun to watch JDW just run around and do wild shit.
 
-The Abyss
+### The Abyss
 
 James Cameron invented SMS. A real spooky, tense, wet time.
 
-Evangelion 2.0 - 3.0 + 1.0
+### Evangelion 2.0 - 3.0 + 1.0
 
 Much more compelling than the original series, with a solid ending.
 
-Riddick
+### Riddick
 
 He almost lost his house over this.
 
-A Cure for Wellness
+### A Cure for Wellness
 
 Spooky fun, if a little too long.
 
-The Hunt
+### The Hunt
 
 Oof.
 
-The Retreat
+### The Retreat
 
 Revenge horror where a lesbian couple has to survive trip to the country. I recommend this to anyone who wonders why I don’t take more road trips.
 
-Mad Max: Fury Road
+### Mad Max: Fury Road
 
 Rewatched and if’s still delightful.
 
-Strange Days
+### Strange Days
 
 This is cyberpunk gold. I can’t believe it didn’t do well, that it used mini discs as a major plot point, or that it’s not available basically anywhere.
 
-Showgirls
+### Showgirls
 
 Transcendent. This was my first time seeing it after avoiding it because I’d made the mistake of thinking it was just schlock. I was wrong. There’s so much weird depth and fantastic camera work in this.
 
-The Suicide Squad
+### The Suicide Squad
 
 Perfectly silly and fun. No pretension of being more clever than it needed to be. This is what super hero movies should be.
 
-Starship Troopers
+### Starship Troopers
 
 Such a brilliant satire of our country’s endless thirst for war. Verhoeven is a master.
 
-Chronicles of Riddick
+### Chronicles of Riddick
 
 Just as over the top as I remembered, but I always forget Helen Mirren was in it. This is the start of their love affair. (Drew later told me this was actually Dench)
 
-The Town
+### The Town
 
 Saw this heist thriller when it first came out, and it held up.
 
-Martyrs
+### Martyrs
 
 Yow. That was a bizarre and brutal film.
 
-Scanners
+### Scanners
 
 Somehow I hadn’t ever seen this absolute banger of a movie about telepathy and telekinesis. It’s delightfully Canadian and I’m sure inspired many an anime.
 
-After Midnight
+### After Midnight
 
 A way more interesting and charming film than I expected. A monster film cover for a movie about relationships and growing together.
 
-Jolt
+### Jolt
 
 A goofy, but fun-enough action film. 
 
-The Master
+### The Master
 
 Why did we need the Joker when we already had this? A true weird PTA classic.
 
-Drug War
+### Drug War
 
 A brutal, non-stop cop procedural. Guns akimbo? Yup. Betrayal and tons of Buicks? You bet.
 
-High Tension
+### High Tension
 
 I forgot how fucked-up this is, and that they used Muse songs for the soundtrack.
 
-Blackhat
+### Blackhat
 
 This is my second viewing with my first on opening night. They should’ve called this movie "Himbo Hacker". This is the only movie I can think of with a dramatic scene where someone types ‘ls’ and also ‘cat’ in a terminal. As hokey as the whole thing is, the action slaps, and it’s a fun action romp.
 
-Midnight Special
+### Midnight Special
 
 What a cool movie! What’s left unshown and unsaid kept this taunt and fun. Shannon spoke volumes with his eyes, and even the kid managed gravitas without falling into the haley joel trap. I don’t remember hearing about this movie at the time, but I think it deserves more hype.
 
-Gunpowder Milkshake
+### Gunpowder Milkshake
 
 On it’s face, this was made for me, but sadly it was a substanceless and somehow joyless exercise.
 
-Censor
+### Censor
 
 I had very little idea what was going on towards the end of this. Generally, I dug the vibe though.
 
-No Sudden Move
+### No Sudden Move
 
 A really outstanding cast made this a delight from start to finish. Full of fun twists and a brisk-moving story.
 
-Synchronic
+### Synchronic
 
 A cool time travel film about using drugs to wander around in the past and how that's not a great plan because of racism. Very interesting and though it's not quite the same wild as Primer or Los Cronoscriminos, it's up there.
 
-Insidious
+### Insidious
 
 A spooky, but not very good horror film.
 
-The Tomorrow War
+### The Tomorrow War
 
 I like the version of the world where enough people watch soccer worldwide that folks use the World Cup to announce vital information. I don’t like a world where a few heroes save the world after the governing bodies don’t help. Climate change is a collective problem and needs collective solutions. Also this is a fun movie so whatever.
 
-Fast 7
+### Fast 7
 
 A big ‘ol sob of an ending and a really fun movie.
 
-Werewolves Within
+### Werewolves Within
 
 A pretty perfect horror comedy. Sam Richardson is seriously talented, and if you haven’t seen Detroiters, get on that. The beats were great, everyone was doing a lot, and I laughed throughout.
 
-Come to Daddy
+### Come to Daddy
 
 Elijah Wood seems to only take fun projects in a post-LOTR world, and I love it.
 His 2017 film I Don't Feel at Home in This World Again, Wilfred, voice-acting in
 Miyazaki films, and now this short bowl cut and hooded-cape weirdo film are such
 a nice career pivot.
 
-Demon Slayer: Mugen Train
+### Demon Slayer: Mugen Train
 
 More like a few episodes than a cohesive film, this got me stoked for season 2.
 
-Resident Evil: The Final Chapter
+### Resident Evil: The Final Chapter
 
 I’ve seen this one the most besides the first because I got to see it in Japan
 before it came out in the states. That was a strange experience so it’ll always
 stick with me.
 
-Resident Evil 2-5
+### Resident Evil 2-5
 
 Hokey but fun.
 
-Resident Evil
+### Resident Evil
 
 Classic.
 
-Red Dawn
+### Red Dawn
 
 The original was a classic schlocky action film, and this one was an alright
 action remake. I don't know if Chris Pine can live up to Kurt Russell generally,
 but if you want to see him try, this is a film for it.
 
-Conjuring: The Devil Made Me Do It
+### Conjuring: The Devil Made Me Do It
 
 I’m a sucker for this very silly series. I love how much they malign and hate on
 the spectre of "satanists". Walter Bishop from Fringr is in this and that was a
 nice surprise.
 
-Saw 3
+### Saw 3
 
 The first three films in this series are in the perfect uncanny valley of bad
 fashion. I should listen to the Why Are Dads episode now that I’ve made it
 through because John is an absolutely insufferable dad.
 
-Saw 2
+### Saw 2
 
 I forgot the kid from Continuum was in this. Overall, this sequel was a lot
 schlockier now that we know what the whole Saw deal is like. The nü-metal at the
 end dates this more than anything else could.
 
-Saw 2
+### Saw
 
 I think I watched this shortly after it came out, but it’s still wild to see Ben
 from Lost, Danny Glover, and the man in the mask from Princess Bride. This is a
 classic absurd horror thriller, and this rewatch begins my staycation of Saw.
 
-Chappie
+### Chappie
 
 Despite being very silly at times, this was a fun movie that explored
 consciousness and the ideas of a learning AI. I think folks were disappointed
 because it wasn’t serious at all times, but this played out like a cool sci-fi
 short story.
 
-Together, Together
+### Together, Together
 
 Hilarious and deeply touching. I love this look at an unlikely friendship and
 the complexity of pregnancy. Plus, Patti Harrison fucking owns.
 
-Free Fire
+### Free Fire
 
 Just a wild ride from start to finish. Watching everything go to shit, then get
 worse was a delight.
 
-Chaos Walking
+### Chaos Walking
 
 This felt like the first few episodes of a longer show, and not really a whole
 films. I enjoy Mads just doing weird shit though. When I first saw stills for
 this I thought it was that Hideo Kojima game.
 
-Riders of Justice
+### Riders of Justice
 
 A fantastic black comedy one part John wick, and one part Planes, Trains, and
 Automobiles. A truly weird and fun film. More Mads please.
 
-Army of the Dead
+### Army of the Dead
 
 I’m not a Snyder fan, but he’s made two good zombie films and this is one of
 them. Silly, fun, and full of excitement.
 
-Pacific Rim: Uprising Fun and silly, like what a Transformers move could’ve been
-if they weren’t such hot trash.
+### Pacific Rim: Uprising
 
-Dead Man Down
+Fun and silly, like what a Transformers move could’ve been if they weren’t such hot trash.
+
+### Dead Man Down
 
 Meh
 
-Set It Off
+### Set It Off
 
 Queen Latifah should’ve gotten a massage and romance scene. This is a classic
 heist movie, and after hearing EPM talk about it I couldn’t believe I hadn’t
 seen it before.
 
-Oxygen
+### Oxygen
 
 A movie set in tight quarters reminiscent of when Green Lantern got buried in
 that one movie with just a lighter.
 
-Green Zone
+### Green Zone
 
 I still find it abhorrent we destroyed a country for no real reason. Matt Damon
 plays a hapless but passionate action man well.
 
-Patriot Games
+### Patriot Games
 
 Ah, the good old days of bad guy Sean Bean. This continues my tour of Harrison
 Ford classics, and I’d forgotten all the talent in this film. A good spy
 thriller and Ford makes a much better Ryan than Jim from the office.
 
-Without Remorse
+### Without Remorse
 
 I’ve been on a Harrison Ford kick lately and looking forward to reexploring his
 foray into the dad fiction of Tom Clancy, so it’s lovely seeing Michael B.
 Jordan so thoroughly take on the mantle of spyman John Clark. Action trash
 delight.
 
-Relic
+### Relic
 
 A real House of Leaves-esque situation. Is this perhaps a prequel to Under the
 Skin?
@@ -1526,98 +1528,102 @@ Skin?
 Really though this was a deeply scary, haunting film about aging and our
 responsibility to our loved ones.
 
-In the Earth
+### In the Earth
 
 A wild film that somehow manages to combine pandemic fear with supernatural
 mushroom horror. Excellent. Two fun tastes that taste great together.
 
-Searching
+### Searching
 
 An interesting way to tell a story but I think the reliance on computer footage
 hindered the overall story, despite strong performances by Cho.
 
-Training Day
+### Training Day
 
 A classic Denzel/Fuqua film that starts wild and gets so much wilder. The way
 Denzel delivers every line and just delivers looks is a delight every time.
 Ethan Hawke is fine in this but I don’t think he has the charisma to counter
 Denzel. Fun and disturbing, this is like a short-form The Wire, but in LA.
 
-Unstoppable
+### Unstoppable
 
 Denzel Washington is too old for this shit, but not too old to stop a runaway
 train. This movie rules.
 
-Sexy Beast
+### Sexy Beast
 
 Realized halfway through this is a rewatch, but Winstone and Kingsley are wildly
 compelling regardless.
 
-I Care a Lot I love an anti-hero, and pretty much every person in this film
+### I Care a Lot
+
+I love an anti-hero, and pretty much every person in this film
 is either horrible or an idiot, or all of the above. I also love a lesbian lead.
 This managed to be twisted and funny, and I really dug it.
 
-Transsiberian
+### Transsiberian
 
 Look I love a train mystery. I remembered halfway through this I’ve seen it
 before.
 
-The Mosquito Coast
+### The Mosquito Coast
 
 What if dads but too much? This movie reminded me of some of the worst bits of
 my childhood. At least my dad never made us move to the jungle. They’re remaking
 this soon with Justin Theroux and I’m super excited to see how he channels the
 deranged dad energy. ICE IS CIVILIZATION.
 
-Courier
+### Courier
 
 Wow who knew the real story behind the font was this intense!
 
-Nobody
+### Nobody
 
 A blast from start to finish. This is the best action comedy since True Lies.
 
-Gone Girl
+### Gone Girl
 
 Imagine if Tyler Perry had played Madea in this movie but with the same
 character and level of seriousness. I think at a fundamental level a movie that
 imagines "what if a woman fakes domestic abuse" is dangerous, but otherwise as a
 film this was solid. Rosamund Pike was great as a nightmarish villain though.
 
-Sorcerer
+### Sorcerer
 
 You’ve seen the Fast & Furious, but what about the Slow & Simmering? For a movie
 largely about trucks driving below 10mph, this was a thrill ride. I should
 rewatch Seaquest.
 
-Under the Skin
+### Under the Skin
 
 Haven’t seen this since it came out, but the moody slow build and austere
 soundtrack are haunting.
 
-Bad Trip
+### Bad Trip
 
 Planes, Trains, and incredibly wild scenes. The restaurant scene was a standout,
 but so many bits of this movie were amazing.
 
-Godzilla vs. Kong Explosions, huge monster fights, and a surprisingly great
+### Godzilla vs. Kong 
+
+Explosions, huge monster fights, and a surprisingly great
 cast having a good time. Ideal summer entertainment. I guess I’ve seen every
 film in the "monsterverse" now, and this was maybe the most fun? Long live
 Godzilla, the KoM.
 
-Wet Hot American Summer
+### Wet Hot American Summer
 
 A delightful rewatch. I forgot how many amazing actors were in this at the start
 of their career, with absurdist performances from Michael Ian Black, Bradley
 Cooper, and David Hyde Pierce. All the little bits, and the kids’ reactions to
 them are hilarious. A classic. _smashing pottery sounds_
 
-Safe House
+### Safe House
 
 Old spy/young spy. Not quite a Bourne or a Le Carré, but it was a fun thriller
 even though I can’t quite take Ryan Reynolds seriously.
 
-Dante’s Peak
+### Dante’s Peak
 
 This is a more focused predecessor to one of my all-time favorite movies, 2012.
 James Bond does a science, while Sarah Conner slings espresso and does mayor
@@ -1625,81 +1631,81 @@ stuff. This move made me afraid of volcanos and hot springs and also children
 driving. If there’s a genre called "my boss didn’t beleive me until it was too
 late" this is firmly part of it.
 
-The Last Black Man in San Francisco
+### The Last Black Man in San Francisco
 
 The colors and light in this film are unbeleivable. Utterly gorgeous. Jimmie
 Fails and Jonathan Major had incredible screen chemistry, with their
 performances tied together with long pans. I can’t wait to see more Jimmie Falls
 in films.
 
-Oblivion
+### Oblivion
 
 Somehow I hadn’t seen this until tonight. A delightful Tom Cruise sci-fi with a
 pretty predicitable twist, and really goofy goggles. A+
 
-Sentinelle
+### Sentinelle
 
 A nice and tight action film. The fights were well-coreographed, and there just
 wasn’t much fat to trim. Fast, fun, and chill.
 
-Shadow in the Cloud
+### Shadow in the Cloud
 
 A hat on a gremlin on a hat. This movie was initially kind of interesting, and
 seemed like it would be a straight-up tale of misogyny in the sky, but then the
 gremlin showed-up, and the zeros, and it just kept going.
 
-The Fugitive
+### The Fugitive
 
 I hadn’t seen this since the 90s, and it really holds up. Ford and Jones amp up
 the tension and make every scene worth watching. Classic.
 
-Space Sweepers
+### Space Sweepers
 
 I’d heard this described as a life action Cowboy Bebop, but sadly it has much
 less style and substance. Parts of the world building were cool, but why did
 they have to add a farting child?
 
-Barb and Starr Go to Vista Del Mar
+### Barb and Starr Go to Vista Del Mar
 
 My friend texted me to say he was _cackling_ watching this--it was ok funny, but
 I didn’t know it would be a "silly" musical. I don’t really know what this kind
 of comedy is called, but it’s not my thing. It’s like Ace Ventura meets
 Marshall’s with some real Paul Blart 2 vibes.
 
-The Little Things
+### The Little Things
 
 I don't know if I can ever take the sheriff from True Blood seriously, or even
 Rami Malek. Denzel, as usual, is an imposing figure who oozes charm while
 methodically saving a crime.
 
-The Thing
+### The Thing
 
 The remake isn’t the same level of incredible that the original was, but it’s
 still a pretty great alien film. I loved seeing a bunch of folks who went on to
 be in lots of TV shows and other things I hasn’t seen when I originally saw this
 film.
 
-Monster Hunter
+### Monster Hunter
 
 I don’t know what I expected from a movie based on a game with no plot. The
 three stars are solely bc I love jovanovich and also every action scene was
 absurd and delightful.
 
-Minari
+### Minari
 
 A gorgeous, sad, and brutal portrait of trying to make family and a dream work
 out. The cinematography and soundtrack were a perfect pairing to one of the
 cutest kids in cinema, and an outstanding performance by Yuen and Youn Yuh-jung.
 This movie was so good it conquered my Texan's dislike of Oklahoma.
 
-The Dig
+### The Dig
 
 A rather interesting film about excavating a ship from a mound in rural
 Suffolk.Theres a wild WW2 backdrop, and a lot of Fiennes looking pensive as all
 getout. Everyone is in love with someone they shouldn’t be, and I kept hoping
 the kid was actually from the future.
 
-Insomnia
+### Insomnia
 
 Robin Williams is so good in this. I haven’t seen Insomnia since opening
 weekend, and also forgot it was a Nolan. I still need to watch the original.
@@ -1707,14 +1713,14 @@ This is a great view of Pacino slowly losing his mind. I had this a little
 confused with One Hour Photo so I kept expceted a scene to take place at a CVS
 or something.
 
-The Prestige
+### The Prestige
 
 The one time Wolverine and Batman worked together with David Bowie to make
 powerful magicks. I honestly forgot this was a Nolan film, but I’ve loved it
 every time I’ve watched it. Just so fun and clever. I wonder how Golem’s cats
 are doing?
 
-Never Rarely Sometimes Always
+### Never Rarely Sometimes Always
 
 Easily the best movie I’ve seen in a long time. The level of kindness and
 empathy for the challenge of being a young woman in the world is outstanding.
@@ -1722,13 +1728,13 @@ Really incredible performances from Flanagan and Ryder with a candid view of how
 amazing Planned Parenthood is to top it off. The focus on women caring for each
 other was spot-on.
 
-The Bourne Supremacy
+### The Bourne Supremacy
 
 In the world there is only one good supremacy: the Bourne kind. Brian Cox rules
 in this, but I wish Julia Stylse and Franka Potente had more to do. I’m
 rewatching this series and it’s mostly holding-up.
 
-Our Little Sister
+### Our Little Sister
 
 I love Koreeda movies because they so beautifully humanize a great deal of pain.
 From his slow pans, to the way he shot the room to make you feel part of the
@@ -1804,71 +1810,71 @@ far, but I loved the yellow-tinged madness.
 A fun 50s-set sci-fi. The weird TV framing didn’t really go anywhere, but other
 than that the film was a tightly-shot and enticing story.
 
-The Snowman
+### The Snowman
 
 I’d heard how horrible this was before I dove in, but I’ve also read the book,
 so I found it not very confusing at all. There’s like, two twists? I don’t know.
 This weemed like a pretty straightforward nordic noir.
 
-The Circle
+### The Circle
 
 Entirely too heavy-handed, and kind of a waste of both Tom Hanks, Jon Boyega,
 and Karen Gillan. I wish more folks thought that tech was this evil though. By
 trying to make a more mass-market Black Mirror, it got a bit overwrought.
 
-Another Round
+### Another Round
 
 Is it a good idea to be low-key drunk all day every day? This movie aims to
 answer that eternal question. Perhaps the answer is getting drunk sometimes, but
 not enough to wreck your life? Mads dances really well.
 
-Suspiria
+### Suspiria
 
 I love modern dance a lot more when it’s a satanic ritual. The original Suspira
 is a masterpiece, but I really liked this strange _homage_. The music was
 excellent, and Dakota Johnson was haunting. I wonder if Tilda had it in her
 contract she would only do the film if she could Albert Nobbs it up.
 
-Fantastic Fungi
+### Fantastic Fungi
 
 I love the mushroom internet. Also this movie made me want to ingest a certain
 drugge mushroom. Every mycologist and enthusiastic mushroom person was a delight
 in this documentary. Neat.
 
-Doctor Sleep
+### Doctor Sleep
 
 I’m still not sure that the Shining needed a sequel, but this was pretty fun
 Stephen King fare.
 
-The Invisible Man
+### The Invisible Man
 
 Absolutely thrilling, and utterly terrifying. The gaslighting in this film felt
 incredibly real. I loved that it took a typical horror trope and turned it into
 a character study of a woman desparate to be believed. Excellent film.
 
-WW84
+### WW84
 
 A friend on Twitter suggested this was basically a Doctor Who Christmas special,
 and yep! It was also the story of a single dad learning that nothing is free
 inside capitalism. Kristen Wiig was good.
 
-You’re Next
+### You’re Next
 
 This was fine? I dunno. I kinda zoned-out a lot but there was a lot of murder
 and an Australian lead actor lady.
 
-Peppermint
+### Peppermint
 
 A holiday revenge film that never answers the question: "how did this mom become
 special ops trained in five years?"
 
-The Midnight Sky
+### The Midnight Sky
 
 This was alright. I’m a bit disappointed Sunu bc so many of the actors are
 usually outstanding. I can’t tell if they filmed this during COVID, but that
 would make sense for it since there were like 6 people total.
 
-Greenland
+### Greenland
 
 The diabetic son was a hat on a hat, but I guess they needed a plot reason
 besides perimeter breaches and explosions to make the back half of this movie
@@ -1877,25 +1883,25 @@ favorite nightmare: 2012. "Small molten debris" was a highlight. I will say that
 the utter disorganization and nightmarish bureaucracy of the whole thing really
 tracks with the USA I know though.
 
-Leave No Trace
+### Leave No Trace
 
 Started hiking more often recently, and so I figured it was finally time to
 revisit the majestic Forest Park in cinematic form. This was a pretty sad film.
 
-Inception
+### Inception
 
 Another rewatch in my Nolan-spree. This was also excellent, and I’d forgotten
 how cool the set-pieces were, especially the Bond-esque snow mountain. I wonder
 if Nolan wanted to make a bond and someone told him no? I’m glad they did,
 because I like the weird shit he makes instead.
 
-Dunkirk
+### Dunkirk
 
 For a Nolan film this was surprisingly straightforward. I wasn’t familiar with
 this battle until watching Dunkirk, but it was definitely different to see a
 film that depicts a retreat. Brutal, and hopeful.
 
-Interstellar
+### Interstellar
 
 Rewatched this gorgeous film for the umpteenth time. There are so many
 heartbreaking moments about fatherhood and trust that it always hits me pretty
@@ -1903,20 +1909,20 @@ hard. For a movie that’s almost three hours, it’s a tribute to how great it 
 that I always want to rewatch. Because of the practical effects I feel like it
 will likely look fresh for decades to come.
 
-Tenet
+### Tenet
 
 Definitely not worth getting sick over, but at home? With my own whiskey? With
 Snorri? Yea, this was fucking sick. Since ignorance is ammunition all I will say
 is I enjoyed this film greatly and immediately started it again.
 
-Sea Fever
+### Sea Fever
 
 A tightly plotted, claustrophobic film about slowing losing your shit on a boat.
 Someone else described it as "X-Files before Mulder and Scully arrived" and that
 seems pretty apt. There’s a little bit of The Thing in here too. A lot of
 creeping dread.
 
-Queer Japan
+### Queer Japan
 
 As a foreigner who spends a month or so in Japan every year, and as a queer
 woman, I really enjoyed this documentary. I loved that they chatted with trans
@@ -1927,32 +1933,32 @@ Japan fighting against nationalism. This documentary was a delight. It also made
 me miss hanging with my queer friends in Osaka quite a bit, or singing karaoke
 with a bunch of cool weirdos in Ni-Chome.
 
-Tinker, Tailor, Soldier, Spy
+### Tinker, Tailor, Soldier, Spy
 
 The atmospheric style of this movie is incredible. I love the slow build and
 tension, with its tight plotting. Oldham makes an excellent Smiley, and
 generally everyone is just a delight. RIP Le Carre. Also the soundtrack of this
 film is excellent.
 
-Black Bear
+### Black Bear
 
 Aubrey Plaza is a singular emotional rollercoaster in this twisty film. I still
 don’t know how I feel about it, but it’s definitely something I’ll sit with for
 a while. It’s at turns incredibly painful to watch, and hilarious.
 
-The Taking of Pelham 123
+### The Taking of Pelham 123
 
 Ah, I love a Walter Matthau movie. There’s certainly a lot of language/behavior
 that doesn’t hold up, but this is a real classic heist movie.
 
-The Bourne Identity
+### The Bourne Identity
 
 What if Jason was just gaslighting everyone for the whole film, and he only
 pretended to have amnesia bc he hated his job? Great action, great car chase,
 and a really good haircut given to Franka Potente. I love a good spy thriller.
 The closing Moby track still slaps.
 
-Black Christmas
+### Black Christmas
 
 Ah, I love Imogen Poots. She’s great in everything she’s in, but I’m definitely
 glad she’s not her character from Green Room in this. A horror film that tackles
@@ -1960,14 +1966,14 @@ the terrible world of reporting and holding men accountable for rape and the
 challenge of female solidarity in the patriarchy. College is the worst; never
 pledge.
 
-The Good Shepherd
+### The Good Shepherd
 
 I forgot i’d seen this in theaters back in 2006. Matt Damon is very serious, and
 Eddie Redmayne is yet to make his finest film: Jupiter Ascending. His lips still
 worry me greatly. I think Angelina Jolie tried to look dowdy but it’s not
 possible. Spies always have cool glasses. There should’ve been more Lee Pace.
 
-Lucy in the Sky
+### Lucy in the Sky
 
 I had no idea what to expect with this film, but it was certainly surprising.
 The last thing I expected was for it to be way closer to that astronaut lady who
@@ -1975,13 +1981,13 @@ wore adult diapers and drove across the country to get revenege. Googling just
 now, apparently that story was the inspiration for this movie. Wild. Since this
 movie has Legion in it, I guess it’s also part of the marvel universe.
 
-Happiest Season
+### Happiest Season
 
 This was disappointing. A more astute lesbian friend suggested this movie
 should’ve leaned inrto quirky indie-ness or fully into Meet the Parents schlock.
 It did neither. The ignored sister would’ve been much better as a butch woman.
 
-Centigrade
+### Centigrade
 
 After a very cold night camping, I decided to watch this movie about slowly
 freezing to death in your car in Norway. I’m super glad I get to watch this with
@@ -1989,65 +1995,65 @@ some wine and a wool blanket. Being super cold sucks! For a movie completely set
 inside a car, this is pretty well-shot and compelling. It was based on true
 events, I guess, but the whole baby thing was a hat on a hat.
 
-Paul Blart Mall Cop 2
+### Paul Blart Mall Cop 2
 
 I watched this because of Til Death Do Us Blart after listening to the cursed
 podcast for a few years now. Somehow it was both different and worse than I had
 imagined based on the podcast. Long live the shadow man.
 
-#alive
+### #alive
 
 Ah, a simple zombie film updated for a world with social media. This was fun.
 
-Objectified
+### Objectified
 
 It’s interesting watching this again 11 years after it came out. I’m once again
 using A MacBook Air, and I understand the Muji designer way better. I wonder how
 many CAD designers are still using 24" square displays?
 
-Night Moves
+### Night Moves
 
 The movie where Zuck gets really into direct action. "Killing all the salmon so
 you can run your fucking iPod whenever you want". It’s really a shame he went
 back to running his nightmarish company after this. There’s a delightful Griffin
 Newman role near the end too.
 
-All About Lily Chou-Chou
+### All About Lily Chou-Chou
 
 This is one of my all-time favorite films, but I hadn’t watched it in probably
 10 years. Fortunately, it more than holds up as a sad and beautiful tale of
 shitty teen life. It’s a brutal film because kids can be cruel.
 
-Johnny Mnemonic
+### Johnny Mnemonic
 
 Ah, a 90s cyber classic. Somehow I’d never seen this before today! Ice T with
 upside-down paintball goggles! Beat Takeshi! Udo Kier’s trans body guard! A
 military internet dolphin!! I would love to see this screenplay get remade.
 
-The Wolf of Snow Hollow
+### The Wolf of Snow Hollow
 
 Ostensibly a horror film, but mostly about a man’s alcoholism and what it’s done
 to his family and his life. Interesting take on the genre.
 
-Mortal Engines
+### Mortal Engines
 
 A fun YA-turned film. I don’t usually like Hugo Weaving but his big character
 acting worked for this. I didn’t expect much, so I had a good time.
 
-Tokyo-Ga
+### Tokyo-Ga
 
 It’s wild to see how little Tōkyō has changed since the 80s--or rather the bits
 of Shōwa that still peek through. This was a gorgeous look at both the Tōkyō
 that once was, and the echo of 50s and 60s Americana that lived in the youths of
 the time. I also learned quite a bit about Ozu, and how he filmed. Loved it.
 
-Columbus
+### Columbus
 
 Gorgeous and sad. Two people meeting while their lives are paused for their
 parents and sharing a love of architecture without building a romance. The pace
 was pretty slow, but I like this kind of slice of life film.
 
-The New Mutants
+### The New Mutants
 
 As a fan of the comic series and a few of these characters, I like that they
 tried to give them a horror story beginning, but ultimately it felt constrained.
@@ -2055,25 +2061,25 @@ I’m disappointed that this won’t be part of the MCU or integrated with the
 X-Men. The comics are having a heyday, but for some reason the movies are still
 just not there.
 
-アキラ
+### アキラ
 
 子供の時に私はアキラが一番好きので、十回の見た。特に今はそのちょっと変な映画、で
 も大好きの。昭和の有名映画と最高アニメと思う I watched this a bunch as a kid.
 It’s super weird but it really holds up. A true classic.
 
-The Wolf of Wall Street
+### The Wolf of Wall Street
 
 After the painfully sad movie about the hundreds of thousands who lost their
 lives in tsunamis, I dove deep into this three hour epic of utterly nightmarish
 depravity. DiCaprio plays what a friend calls Catch Me If You Can 2 very well:
 
-The Impossible
+### The Impossible
 
 The real lesson of this movie is that in 2004 kids were satisfied with only
 getting a red ball for Christmas. This is also a Spider-Man origin story. Brutal
 movie generally though.
 
-Possessor
+### Possessor
 
 For context, I’ve loved the concept of assassins since I was a little girl, as
 odd as that might sound. A movie wherein an assassin mind-syncs with a random
@@ -2082,46 +2088,46 @@ and the challenge of doing your job basically in a coma with all of the gore and
 wildness that entails was thrilling. I love the obvious skill growth since
 Antiviral as well.
 
-Election
+### Election
 
 Not sure how I hadn’t seen this yet. A delight. I love the successful lesbian
 sideplot, and how Broderick’s character fully self-destructs out of hate of a
 precocious child. Fantastic.
 
-Proxima
+### Proxima
 
 It’s hard to be a divorced mom while you’re an astronaut. Luckily, Eva Green is
 still super cool. At this point I’m curious if it’s a contractual thing to show
 her breasts once every 20 minutes? Instead of a movie about space, this was more
 of a movie about space-prep.
 
-The Dark Knight
+### The Dark Knight
 
 Ah, Heath Ledger. When this was made no one thought the joker was a hero, and
 yet, he became a bummer symbol for folks years later. It’s still weird to me
 that they switched actresses suddenly, but Queen Latifah is hard to resist, so I
 get it.
 
-Enola Holmes
+### Enola Holmes
 
 A fun movie to watch while waiting for these damnable election results. Millie
 Bobby Brown plays a great younger Holmes, while Cavill is an oddly fit Sherlock.
 The action moved briskly, and the little asides and jokes were charming. I’m
 here for a low-stakes adventure anytime.
 
-Batman Begins
+### Batman Begins
 
 This is probably the fourth or fifth time I’ve seen this movie and it’s still
 such a blast. I wish it were easier to hear anything Batman says, but otherwise
 a delight.
 
-She Dies Tomorrow
+### She Dies Tomorrow
 
 I wasn’t sure what to expect, but this is a very _art_ film vibe with a slow
 horror built-in. It definitely didn’t fit my mood tonight, but I’m not sure if
 that’s the film’s fault. Perhaps I should’ve stuck with schlock.
 
-Earthquake Bird
+### Earthquake Bird
 
 The vibe of 80s Japan is a whole thing. So much hip Japanese literature I’ve
 read is firmly grounded in Showa-era Japan, so this felt a bit like watching a
@@ -2129,38 +2135,38 @@ multi-cultural Murakami story. It’s rare to see a movie or show in both Japane
 and English (Giri/Haji) comes to mind. I wish they’d worked with Vikander a bit
 more on her Japanese though.
 
-Last Holiday
+### Last Holiday
 
 Heard about this from an Election Profit Makers bonus episode and honestly, I
 loved it. Sometimes you need something funny, kind, and hopeful. Thanks, last
 holiday, for soothing my nerves.
 
-Zodiac
+### Zodiac
 
 This was my 3rd of 4th rewatch. I’m a sucker for a slow burn Fincher film. I was
 still low-key mad that the other movie I watched today wasn’t a crime film, so I
 had to dive into one. Everything about this movie is so wild and well-executed.
 
-Sinister
+### Sinister
 
 Fellow-Austin native Ethan Hawk slowly loses his mind while trying to write
 true-crime. If only he’d known you could just do a podcast instead! The worst
 ever character from the Wire is also in this. Overall, not very spooky but it
 leans a _lot_ on goofy jump scares. Nice use of Boards of Canada though.
 
-The Phantom Menace
+### The Phantom Menace
 
 Dammit Blank Check why did I do this to myself in order to listen to your
 commentary track. Seriously though, the 10 episodes about the only entry in Star
 Wars that was ever made were excellent. Thank you for the bonkers good time.
 
-Train to Busan Presents: Peninsula
+### Train to Busan Presents: Peninsula
 
 There’s no train in this one, despite the title that I think was used to make
 sure us goofy Americans realize it’ related to the previous film. I loved the
 taxi lady. This film had more of a Mad Max vibe than the original which was fun.
 
-Train to Busan
+### Train to Busan
 
 Continuing the zombie movie rewatches, I threw this on in order to remind myself
 what it was like before watching the sequel that just came out. It’s just as
@@ -2168,14 +2174,14 @@ good as I remember it, though I fundamentally don’t like "fast" zombies. Zombi
 should shamble. The wild melee of this film is a very different kind of fear
 than the slow horror of inexorable zombie overrunning of your position.
 
-World War Z
+### World War Z
 
 A more intense pandemic movie. I’ve watched this three or four times, and it
 still manages to be one of the more interesting and compelling zombie action
 films. By throwing out the creeping dread for a much more agoraphobic zombie
 fear, this movie makes me glad I stay inside.
 
-Blackhat
+### Blackhat
 
 This movie dares to ask the bold question: "can a himbo code?" I don’t
 understand why most of the terrible coding examples are windows INF or registry
@@ -2183,31 +2189,31 @@ files, but hey, it’s fun and stupid. I think this was also the first film I sa
 where it was obvious that US action films are now mostly funded by Chinese
 financiers.
 
-Collateral
+### Collateral
 
 I think I’ve seen this before, but didn’t remember much. I love the extremely
 tight shots inside the cab, and the real LA traffic vibe. This is the same LA
 time period as the L Word.
 
-Borat Subsequent
+### Borat Subsequent
 
 A hoot. This wasn’t nearly as salacious as the build-up implied, but there were
 some big laughs, and a surprisingly endearing lock-in with some Q Anon weirdos.
 I wish they’d gotten more Pence action.
 
-Save Yourselves!
+### Save Yourselves!
 
 The initial cast was a reprise of the friends from Search Party, so one could
 almost imagine this was an alternate reality retelling. Fortunately, this movie
 morphs into a cute and weird duo alien invasion story pretty quick instead.
 
-The Trip to Italy
+### The Trip to Italy
 
 Unlike the first Trip film I’ve never seen this one before. I like how Coogan’s
 character has changed it up a bit, and generally this film felt friendlier. I’m
 excited for the next two.
 
-Jennifer’s body
+### Jennifer’s body
 
 The entire movie I just kept thinking, "what! They’re in this too?!" I missed
 this movie back in the day and I think it was largely maligned, but it’s a near
@@ -2216,53 +2222,53 @@ then it goes off the rails in the most weird ways. Even JK Simmons was in this!
 Amy Sedaris! The lesson here is: don’t trust scene kids, just stick with your
 best friend. The men in this film are the real monsters, obviously.
 
-Vampires vs The Bronx
+### Vampires vs The Bronx
 
 A fun horror film about gentrification with a great cameos from folks like Zoe
 Saladaña and The Kid Mero. Truly a great time.
 
-The Assistant
+### The Assistant
 
 I didn’t know much about this going in, only that it was well-regarded. Julia
 Garner is outstanding in an incredibly brutal film about a sexually abusive and
 horrible movie producer that definitely *wink wink* isn’t based on anyone who is
 currently serving 23 years in prison.
 
-Evangelion 1.11 & 2.22
+### Evangelion 1.11 & 2.22
 
 A friend watched Evangelion for the first time recently, and I was reminded I
 never got around to watching these remakes/retellings. Really, really weird, but
 in a new ways. I kind of like that they cut out many of the extraneous
 slice-of-life stuff.
 
-Ava
+### Ava
 
 I love an assassin film, but this one managed to make everything feel a bit
 smaller and more banal. Pretty forgettable with the stakes of a lifetime drama
 but the fight scenes of an action film.
 
-Wall E
+### Wall E
 
 Super cute and dystopic. I love this movie so much.
 
-Mr. Jones
+### Mr. Jones
 
 This was nothing like that Counting Crows song, but it was excellent. I didn’t
 know this story before watching the film, but fuck. I wish Vanessa Kirby had
 more to do, but I suppose that’s the issue with historical fiction.
 
-The Long Dumb Road
+### The Long Dumb Road
 
 A great buddy road movie. Planes, Trains, and Automobiles is one of my all-time
 favorite movies and this channels the delightful failures and wonderful moments
 of the genre perfectly. I should’ve watched this a while ago.
 
-Blade Runner: 2046
+### Blade Runner: 2046
 
 This held up though I wanted more McKenzie Davis scenes. Also! I forgot Ana de
 Armas was in this. Neat.
 
-Mission Impossible 6
+### Mission Impossible 6
 
 Outstanding! After a little bit of a slump in 5, six was back to the wild
 heights of 4. The HALO jump was nuts, especially after looking into how they
@@ -2270,28 +2276,28 @@ filmed it. I can’t stand Alec Baldwin, but everyone else in this is dope. A+
 helicopter scenes as well. There’s car, and motorcycle chases, and even some
 outstanding Tom Cruise runs.
 
-The Da Vinci Code
+### The Da Vinci Code
 
 A real stinker, but silly enough to watch over a phone call with a pal. Ian
 McKellan was the best part of this film, with a close second being Bettany’s
 ability to look tortured and have sexual tension with literally everyone in
 every scene.
 
-Mission Impossible 5
+### Mission Impossible 5
 
 A fifth movie and a fifth director. Renne is back, which I’d forgotten, and also
 this movie brings some truly wild times. This is the first time the IMF goes up
 against the Syndicate, and has a kinda fun Opera battle. There’s no huge
 building this time, but there was a big swimming scene.
 
-Mission Impossible 4
+### Mission Impossible 4
 
 Benji, you fucking did it--you’re out in the field. I’m pretty glad Simon Pegg
 became a series regular, and especially glad that barely anyone else from
 earlier in the series didn’t. I do wish Keri Russell would come back though, bc
 she’s cool. Also this one has Stellar Skateboard.
 
-Mission Impossible 3
+### Mission Impossible 3
 
 Aw, yea... JJ Abrams is here with Felicity and that guy that’s in everything he
 makes! This was a really fun time at the movies. So many printable face masks!
@@ -2300,19 +2306,19 @@ can forget the ridiculous [Nokia
 phones](https://www.firstpost.com/tech/news-analysis/mission-impossible-3-on-
 nokia-n93-3549677.html) they used in this.
 
-Mission Impossible 2
+### Mission Impossible 2
 
 Definitely not as good as the first. John Woo is great, but some of his
 signature shots and slo-no effects just come off kinda silly in this.
 
-Mission Impossible
+### Mission Impossible
 
 What a blast from the past. The special effects were largely practical, which
 means they aged well, but the computer interfaces are delightfully 90s. I can’t
 believe how much this series has upped itself every incarnation, but this first
 one is still just a nice small-scale spy film.
 
-The Trip
+### The Trip
 
 I’ve enjoyed Coogan since the Day Today sketches he did with Chris Morris, so
 it’s fascinating to see him age and keep doing odd versions of himself on film.
@@ -2321,7 +2327,7 @@ of Gavin & Stacey. If you want to see two middle-aged men making very stupid
 (but funny) jokes and impressions while sampling haute cuisine in the north of
 England, this is your chance.
 
-Class Action Park
+### Class Action Park
 
 I don’t know how I survived the 80s and 90s. I did a lot of really, really
 stupid and dangerous shit, even if I never got to go to Action Park. We had
@@ -2329,7 +2335,7 @@ Schiltterbahn where I grew up, which was way less wild, but still pretty
 dangerous at times. This film does a good job of showing the teen thrills of
 incredibly shady theme parks.
 
-Boys State
+### Boys State
 
 I can’t stand the little conservative assholes. Steven Garcia was chill though.
 Also, it’s surreal to see how far right everyone went out of an assumption that
@@ -2337,81 +2343,80 @@ other kids would be conservative, despite that being somewhat untrue. I went to
 UT as well, and it was pretty nostalgic to see Clark Field and other spots I
 spent a lot of time on film.
 
-Jack Reacher
+### Jack Reacher
 
 Not the best of the Tom Cruise action franchises, but fun enough. Light on
 action till the end.
 
-Genocidal Organ
+### Genocidal Organ
 
 I watched this a while ago before I read the book. It’s kind of a fascinating,
 if quite gory, look into what we do for "security" and how our definitions of
 other are constructed.
 
-Nightcrawler
+### Nightcrawler
 
 Despite a lack of blue skin or a tail, Gyllenhaal embodied a character just as
 bizarre and rigidly pursuant of his beliefs. Deeply strange film.
 
-
-Violent Cop
+### Violent Cop
 
 This is a rewatch, but I think it’s been at least 15 years since this first time
 I saw it. Beat Takeshi is a treasure. This movie is delightfully filmed. I kinda
 love the 80s Japanese film look, which is more reminiscent of TV than film. A
 classic
 
-An Evening with Beverly Luff Linn
+### An Evening with Beverly Luff Linn
 
 I hope folks had fun making this movie... it felt like everyone was trying a
 little to hard. This felt like an extended Tim & Eric skit. Everything was just
 off.
 
-Sputnik
+### Sputnik
 
 I thought this would take place in space, but it’s mostly a fairly tight alien
 captive story. Enjoyable but not too wild or original.
 
-The Rental
+### The Rental
 
 Ok, I’m glad I don’t have to stay in any Airbnbs soon after seeing this creepy
 movie. Whether it’s spycams, or the slow dawning realization that someone is
 watching, the way the vacation unfolds in this film is super scary.
 
-Alien: Covenant
+### Alien: Covenant
 
 Ah, I love this ridiculous sequel to Prometheus. I think it captures the
 creeping horror of Alien and Aliens quite well, and is chock full of cool
 actors. I hope Scott keeps making solid Alien films for a while to come.
 
-Contact
+### Contact
 
 Still liked this movie, but the weird romance plot was uncomfortable AF. Also
 the way religion tied into it was hamfisted.
 
-2:22
+### 2:22
 
 Watched this so I can enjoy this week’s How Did This Get Made. It wasn’t great,
 and tried a little too hard to be clever without actually being entertaining.
 
-John Wick 1-3
+### John Wick 1-3
 
 Rewatched all the John Wick movies out of a desire for action and style, and
 they delivered. This series isn’t super substantive, but it’s an action movie
 smorgasbord.
 
-Prometheus
+### Prometheus
 
 A deeply satisfying addition to the Alien canon. I’ve watched this move a number
 of times, and it continues to thrill me.
 
-Barista
+### Barista
 
 I don’t watch a lot of documentaries, but this was pretty fun if a little
 telegraphed. The only downside to this film is now I want coffee, but it’s
 1130pm.
 
-Ride Your Wave
+### Ride Your Wave
 
 The creator of Devilman Crybaby and The Tatami Galaxy made a really delightful
 anime about adulthood and love. It was gorgeous and pretty touching, even if it
@@ -2419,7 +2424,7 @@ made me really wish I could fly somewhere again. There’s also a weird parallel
 between this show and every season of Terrace House: namely there’s surfing, and
 firefighters.
 
-Money Plane
+### Money Plane
 
 A true piece of crap. Everyone in this film seemed like they mostly work on
 Cinemax soft core films.
