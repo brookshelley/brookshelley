@@ -1,7 +1,13 @@
 movies:
 - name: Women Talking
+  link: https://letterboxd.com/film/women-talking/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/6/9/6/3/1/0/696310-women-talking-0-500-0-750-crop.jpg
 - name: Knock at the Cabin
+  link: https://letterboxd.com/film/knock-at-the-cabin/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/5/5/8/0/5/6/558056-knock-at-the-cabin-0-500-0-750-crop.jpg
 - name: London Has Fallen
+  link: https://letterboxd.com/film/london-has-fallen/
+  thumbnail: https://a.ltrbxd.com/resized/sm/upload/j7/ds/1s/pm/9j2AmDhZvdwMyYKpqe4CtBkN1Tw-0-500-0-750-crop.jpg
 - name: Take Out
 - name: Infinity Pool
 - name: Olympus Has Fallen
