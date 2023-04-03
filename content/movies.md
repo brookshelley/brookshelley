@@ -4,171 +4,171 @@ draft: false
 type: movies 
 ---
 
-**Women Talking**
+### Women Talking
 
 I've read some Toews so I have a passing familiarity with Mennonite worlds, but damn this was both gorgeous and sad. One of the best soundtracks I've heard in a long time too.
 
-**Knock at the Cabin**
+### Knock at the Cabin
 
 A really strange twist to the Looking story.
 
-**London Has Fallen**
+### London Has Fallen
 
 This president can’t catch a break!
 
-**Take Out**
+### Take Out
 
 A good reminder of how far digital cinema has come. Watching this in 2023 felt much more voyueristic than I think was intended—like, now this could be shot on an iPhone with no issue. The silence of the protagonist made this almost feel like a restaurant RPG.
 
-**Infinity Pool**
+### Infinity Pool
 
 The only movie that has ever captured the feeling of staying at a resort hotel.
 
-**Olympus Has Fallen**
+### Olympus Has Fallen
 
 I love that this was a competitor for another movie about a White House attack.
 
-**Yellow Sea**
+### Yellow Sea
 
 The less glamorous side of contract killing.
 
-**Fire of Love**
+### Fire of Love
 
 Dang.
 
-**The Nice Guys**
+### The Nice Guys
 
 Took a minute to tune-into the vibe of this film, but eventually it hit.
 
-**Skinamarink**
+### Skinamarink
 
 Not a movie barely a screensaver.
 
-**Plane**
+### Plane
 
 _Yelling_ PLANE!
 
-**Bone Collector**
+### Bone Collector
 
 Tonights theme was collecting bone.
 
-**Magic Mike XXL**
+### Magic Mike XXL
 
 A silly good time.
 
-**Underwater**
+### Underwater
 
 Rewatching an awesome underwater thriller.
 
-**M3GAN**
+### M3GAN
 
 Hell yea.
 
-**Magic Mike**
+### Magic Mike
 
 This was my Titanic of the 2000s insofar as everyone talking about how good it was made me never want to see it. I got over myself and it was fun.
 
-**Sully**
+### Sully
 
 Tom Hanks playing a guy who's great at planes, and the guy from GUTs making him climb an agrocrag of red tape.
 
-**Deja Vu**
+### Deja Vu
 
 Denzel laughing at physics.
 
-**Roman J. Israel, Esq.**
+### Roman J. Israel, Esq.
 
 Colin Farrell was playing the Penguin in this, right?
 
-**Fallen**
+### Fallen
 
 Denzel should’ve played Constantine.
 
-**Moonfall**
+### Moonfall
 
 Great.
 
-**Penguin Highway**
+### Penguin Highway
 
 Cute
 
-**Toy Story 4**
+### Toy Story 4
 
 I thought I'd seen this, but couldn't remember who "Forky" was. Repeated jokes on Blank Check made me watch and I'm glad I did—cute AF.
 
-**Duplicity**
+### Duplicity
 
 _very Giamatti voice_ Show me the cream!
 
-**Slumberparty Massacre**
+### Slumberparty Massacre
 
 When I saw “Rita Mae Brown” I yelled.
 
-**I Want You Back**
+### I Want You Back
 
 Love a good classic romcom.
 
-**Big Short**
+### Big Short
 
 Still hits. Fuck banks.
 
-**Weekend**
+### Weekend
 
 My guy, take a typing class.
 
-**Certain Women**
+### Certain Women
 
 Certain vibes.
 
-**Aftersun**
+### Aftersun
 
-Dad movies. Fuck. 
+Dad movies. Fuck.
 
-**The Post**
+### The Post
 
 The pre-chum box days when reporters still got paid well.
 
-**Vampyr**
+### Vampyr
 
 I dug the framing in this—angles for days.
 
-**Pearl**
+### Pearl
 
 I liked X better, but this was occasionally fun.
 
-**Four Women**
+### Four Women
 
 Shorts on my Criterion list feel like cheating usually but I hate interpretive dance.
 
-**Cold Lasagna I Hate Myself**
+### Cold Lasagna I Hate Myself
 
 Very funny.
 
-**Safe**
+### Safe
 
 Haynes captures another side to the creepiness of suburban life and loneliness of illness like the campy cousin to Lynch.
 
-**From Dusk Til Dawn**
+### From Dusk Til Dawn
 
 Clooney should always have neck tattoos.
 
-**Bergman Island**
+### Bergman Island
 
 I don't think I've seen a single Bergman film, which means a lot of this was likely lost on me. An interesting story regardless. "In Sweden we are very serious about recycling".
 
-**Spook Sport**
+### Spook Sport
 
 The Rude Tales theme!
 
-**Koyaanisqatsi**
+### Koyaanisqatsi
 
 First time I've seen this movie without being high, and it holds up.
 
-**Rogue Agent**
+### Rogue Agent
 
 He's never really a spy, ladies. Julian Barrett is aging well
 
-**Wendell & Wild**
+### Wendell & Wild
 
 Excited to hear the Blank Check on this movie. Stop motion is always so cool.
 
