@@ -232,6 +232,10 @@ time {
   margin-left: 0;
 }
 
+.thumbs {
+  margin-right: 5px;
+}
+
 main {
   margin-top: 3rem;
 }

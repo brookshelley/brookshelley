@@ -6,7 +6,7 @@
 		{{ partial "header.html" . }}
 <main>
 	<article class="baseline">
-	<div>
+	<div id="thumbs">
 		{{range .Site.Data.seen.movies}}
 		<a href="{{ .link }}"><img class=thumb src={{ .thumbnail }} /></a>
 		{{ end }}
