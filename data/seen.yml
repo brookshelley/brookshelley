@@ -9,13 +9,29 @@ movies:
   link: https://letterboxd.com/film/london-has-fallen/
   thumbnail: https://a.ltrbxd.com/resized/sm/upload/j7/ds/1s/pm/9j2AmDhZvdwMyYKpqe4CtBkN1Tw-0-500-0-750-crop.jpg
 - name: Take Out
+  link: https://letterboxd.com/film/take-out-2004/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/2/6/7/6/9/26769-take-out-0-500-0-750-crop.jpg?v=2beac8944f
 - name: Infinity Pool
+  link: https://letterboxd.com/film/infinity-pool/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/5/9/1/9/3/1/591931-infinity-pool-0-500-0-750-crop.jpg?v=1fdb8549ff
 - name: Olympus Has Fallen
+  link:
+  thumbnail:
 - name: Yellow Sea
+  link:
+  thumbnail:
 - name: Fire of Love
+  link:
+  thumbnail:
 - name: The Nice Guys
+  link:
+  thumbnail:
 - name: Skinamarink
+  link:
+  thumbnail:
 - name: Plane
+  link:
+  thumbnail:
 - name: Moloch
   link: https://letterboxd.com/film/moloch-2022/
   thumbnail: https://a.ltrbxd.com/resized/film-poster/8/6/3/3/3/3/863333-moloch-0-500-0-750-crop.jpg?v=c9aa65854c
