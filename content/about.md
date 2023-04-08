@@ -9,21 +9,21 @@ you can reach her [here](mailto:about@brookshelley.com) or view her weekly [news
 
 ## essays
 
-### Ninth Letter: [Trans New Wave](http://www.ninthletter.com/trans-new-wave)
+### [Ninth Letter: Trans New Wave](http://www.ninthletter.com/trans-new-wave)
 
-### Oregon Humanities: [Also Fire](http://oregonhumanities.org/rll/beyond-the-margins/also-fire/)
+### [Oregon Humanities: Also Fire](http://oregonhumanities.org/rll/beyond-the-margins/also-fire/)
 
-### The Toast: [Queer Spaces](http://the-toast.net/2016/04/18/everyone-but-cis-men-creating-better-safe-spaces-for-lgbt-people/)
+### [The Toast: Queer Spaces](http://the-toast.net/2016/04/18/everyone-but-cis-men-creating-better-safe-spaces-for-lgbt-people/)
 
-### The Toast: [Dating as a Trans Woman](http://the-toast.net/2014/09/08/dating-women-trans-woman-suggestions/)
+### [The Toast: Dating as a Trans Woman](http://the-toast.net/2014/09/08/dating-women-trans-woman-suggestions/)
 
-### The Toast: [Trans in Tech](http://the-toast.net/2014/02/07/trans-tech-industry/)
+### [The Toast: Trans in Tech](http://the-toast.net/2014/02/07/trans-tech-industry/)
 
 ### [Uses This Interview](https://usesthis.com/interviews/brook.shelley/)
 
 ### [Medium archive](https://medium.com/@brookshelley/)
 
-### Little Red Tarot: [**Tarot as Agency**](http://littleredtarot.com/tarot-as-agency-how-reading-tarot-is-a-radical-break-with-my-past/)
+### [Little Red Tarot: Tarot as Agency](http://littleredtarot.com/tarot-as-agency-how-reading-tarot-is-a-radical-break-with-my-past/)
 
 ## books
 
