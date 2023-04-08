@@ -4,7 +4,7 @@ draft: false
 type: media
 ---
 
-## Essays 
+## Essays
 
 ### Ninth Letter: [Trans New Wave](http://www.ninthletter.com/trans-new-wave)
 
