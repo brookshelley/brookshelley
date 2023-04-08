@@ -1,6 +1,6 @@
 ---
 type: posts
-title: December
+title: december
 date: 2018-12-20
 description: media diet
 tags:

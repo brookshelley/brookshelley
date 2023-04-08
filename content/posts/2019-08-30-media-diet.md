@@ -1,7 +1,7 @@
 ---
 type: posts
 date: 2019-08-30
-title: August
+title: august
 description: media diet
 tags:
   - mediadiet

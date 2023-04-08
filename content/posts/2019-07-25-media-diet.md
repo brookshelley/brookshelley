@@ -1,6 +1,6 @@
 ---
 type: posts
-title: July
+title: july
 date: 2019-07-25
 description: media diet
 tags:

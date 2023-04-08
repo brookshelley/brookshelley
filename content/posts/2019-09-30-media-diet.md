@@ -1,6 +1,6 @@
 ---
 type: posts
-title: September
+title: eptember
 date: 2019-09-30
 description: media diet
 tags:

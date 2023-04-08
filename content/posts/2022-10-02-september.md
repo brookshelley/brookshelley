@@ -1,7 +1,7 @@
 ---
 draft: false
 type: posts
-title: "September 22"
+title: "september"
 date: 2022-10-02
 description: no nah 
 tags:

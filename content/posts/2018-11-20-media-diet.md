@@ -1,6 +1,6 @@
 ---
 type: posts
-title: November
+title: november
 date: 2018-11-20
 description: media diet
 tags:

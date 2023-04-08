@@ -1,7 +1,7 @@
 ---
 type: posts
 date: '2020-10-01T23:30:16.265Z'
-title: September
+title: september
 tags:
   - mediadiet
 description: smoked-out and reading

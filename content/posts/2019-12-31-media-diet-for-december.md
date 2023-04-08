@@ -1,6 +1,6 @@
 ---
 type: posts
-title: "December"
+title: "december"
 date: 2019-12-31
 tags:
   - mediadiet

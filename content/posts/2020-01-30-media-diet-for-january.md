@@ -1,6 +1,6 @@
 ---
 type: mediadiet
-title: "January"
+title: "january"
 date: 2020-01-30
 tags:
   - mediadiet
