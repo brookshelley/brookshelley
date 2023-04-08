@@ -67,7 +67,6 @@ header {
 }
 
 .baseline a, a {
-  font-family:var(--font-head);
   color: var(--color-accent); 
 }
 
@@ -251,7 +250,6 @@ article b {
 article h1 {
   margin: 2px 0 1.5rem;
 }
-
 
 em {
   margin: 0 2px;
