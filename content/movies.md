@@ -4,6 +4,74 @@ draft: false
 type: movies 
 ---
 
+### Hypnotic
+
+You can tell someone had a psychic influence concept and then kinda skipped world building and didn't nail the landing.
+
+### Reality
+
+The past 22 years are such a massive clusterfuck it's going to be wild to read about them in 30 more.
+
+### Double Jeopardy
+
+Inexplicably I remember my parents going to see this in the theater. Lots of this had me guffawing. A solid, if not erotic, thriller. Gish rules.
+
+### Tour de Pharmacy
+
+Lol what a weird hoot.
+
+### Evil Dead Rise
+
+Different vibe than the other Evil Deads but a fun horror film still.
+
+### Sisu
+
+The man just wants his gold and casually destroys a bunch of nazis. Great time. 
+
+### Con Air
+
+DVD pile at the grocery store led to a post-race hotel movie night.
+
+### How to Blow Up a Pipeline
+
+...unless
+
+### Scream VI
+
+The logic of these movies never really works, but they're still fun.
+
+### Return to Seoul
+
+A gorgeous film. Lots of therapy fuel in this one about identity, family, and acceptance.
+
+### Beau is Afraid
+
+And for good reason.
+
+### Tetris
+
+Way more entertaining than I expected. Honestly this was a thrilling hoot.
+
+### Knives Out: Glass Onion
+
+Rewatch.
+
+### Ant Man: Quantumania
+
+This was a bizarre jumble. I don't really understand what it was going for, but I guess it's fine?
+
+### Project Wolf Hunting
+
+Con Air on a boat?! Nah, it's a much sillier gore-fest.
+
+### Three Thousand Years of Longing
+
+A fun, fantastical love story.
+
+### 65
+
+This would've been better with the girl played by Annette.
+
 ### Women Talking
 
 I've read some Toews so I have a passing familiarity with Mennonite worlds, but damn this was both gorgeous and sad. One of the best soundtracks I've heard in a long time too.

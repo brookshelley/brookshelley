@@ -4,6 +4,18 @@ draft: false
 type: books 
 ---
 
+### Wool
+
+Fun to read while watching the show.
+
+### Birnam Wood
+
+A lot different than I expected but a fun thriller throughout.
+
+### Loki's Ring
+
+After two of Lecht's books, I think her style is a little too on the nose for me, but I broadly enjoy it. When you're including an interesting set of genders and sexualities it's a delicate dance that in this case feels a little too box-check-y. 
+
 ### The End We Start From ###
 
 A poignant story about motherhood and survival. Kind of a one-two punch with the last book.
