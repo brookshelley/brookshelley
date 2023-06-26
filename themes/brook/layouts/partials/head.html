@@ -25,10 +25,6 @@
 	{{ with .OutputFormats.Get "rss" -}}
 	{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 	{{ end -}}
-	<noscript>
-		<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300&family=Merriweather:wght@300&display=swap" />
-	</noscript>
-	<link rel="preconnect" href="https://fonts.googleapis.com" /> 
 	<link rel="preload" as="style"href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300&family=Merriweather:wght@300&display=swap" onload="this.onload=null;this.rel='stylesheet'" />
 	<link rel="stylesheet" type="text/css" media="screen" href="{{ .Site.BaseURL }}css/main.css" />
 </head>
