@@ -10,7 +10,7 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-paginate = 10
+paginate = 6
 summaryLength = 20
 ignoreErrors = ["error-remote-getjson"]
 
