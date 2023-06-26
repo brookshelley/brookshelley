@@ -25,6 +25,24 @@
 	{{ with .OutputFormats.Get "rss" -}}
 	{{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
 	{{ end -}}
+	<style type="text/css">html {
+		line-height: 1.4; 
+		padding: calc(2px + 5vw);
+		color:var(--color-default);
+		background-color:var(--color-bg);
+		font-size:var(--font-small);
+		font-weight: 200;
+	  }
+	  @media (min-width: 600px) { html { font-size: 16px; } }
+	  @media (min-width: 700px) { html { font-size: 18px; } } 
+	  
+	  body {
+	  padding: 0;
+	  max-width: 55rem;
+	  font-family:var(--font-body);
+	  font-weight: 300;
+	  }
+	</style>
 	<link rel="preconnect"
       href="https://fonts.gstatic.com"
       crossorigin />
@@ -32,5 +50,7 @@
       as="style"
       href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300&family=Merriweather:wght@300&display=swap" />
 	<link rel="preload" as="style"href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300&family=Merriweather:wght@300&display=swap" onload="this.onload=null;this.rel='stylesheet'" />
+	<link rel="preload" href="{{ .Site.BaseURL }}css/main.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
+	<noscript><link rel="stylesheet" href="{{ .Site.BaseURL }}css/main.css"></noscript>
 	<link rel="stylesheet" type="text/css" media="screen" href="{{ .Site.BaseURL }}css/main.css" />
 </head>
