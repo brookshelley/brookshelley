@@ -4,6 +4,10 @@ draft: false
 type: books 
 ---
 
+### Rubicon
+
+Pretty cool way of tackling eternal life, mixed with the dread of Edge of Tomorrow.
+
 ### Wool
 
 Fun to read while watching the show.

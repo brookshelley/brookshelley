@@ -4,6 +4,54 @@ draft: false
 type: movies 
 ---
 
+### Sanctuary
+
+Qualley plays mean well.
+
+### Extraction 2
+
+The action and plot of Call of Duty Warzone.
+
+### Before We Vanish
+
+An interesting counterpoint to Invasion of the Body Snatchers, with a lot more silliness and a slower pace.
+
+### Showing Up
+
+The number of voicemails and phone calls in this was stressful. I wish she'd paid more attention to her cat.
+
+### Invasion of the Body Snatchers
+
+We need more protagonists that are food inspectors. A movie telling the truth about flowers (bad) for once.
+
+### Fast X
+
+Lol.
+
+### Solaris
+
+Clooney is great in space. I've never seen the original. This made me want to rewatch Interstellar.
+
+### Swiss Army Man
+
+I think this is what men talk about in therapy.
+
+### Children of Men
+
+Still hits.
+
+### Fool’s Gold
+
+A bit of Buster Keaton, excellent cameos, and a lot of heart.
+
+### Blackberry
+
+Outstanding. Riveting with some outstanding acting. I never had a Blackberry, so I was pretty unfamiliar with the story, but damn.
+
+### Spiderman: Across the Spiderverse
+
+Fun but way too long.
+
 ### Hypnotic
 
 You can tell someone had a psychic influence concept and then kinda skipped world building and didn't nail the landing.
