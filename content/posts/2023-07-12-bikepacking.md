@@ -12,6 +12,14 @@ type: posts
 
 After a few years of bikepacking I've seen all sorts of setups, from the fancy to the DIY both on my own trips and during races like the Tour Divide. Much like backpacking, I've learned through trial and error the balance of cost, weight, and comfort I prefer. If you're new to the hobby, I recommend borrowing gear and testing a few things out, but if you want or need to start buying, here's a short guide of recommendations.
 
+## Extra gear I like
+
+- $58, 10L, and packable in any pocket [Albion musette](https://www.albioncycling.com/products/burner-musette-black)
+- [Backpacking gear](https://www.brookshelley.com/posts/2020-08-30-2020-backpacking-gear/)
+- $180 [Albion Cargo Bibs](https://www.albioncycling.com/products/all-road-womens-abr1-pocket-bib-shorts-black)
+- $180 [Ornot Cargo Bibs](https://www.ornotbike.com/collections/womens-bibs/products/womens-cargo-bib-short-black?variant=39278787559489)
+- $80 [Enve Merino longsleeve](https://www.enve.com/product/womens-merino-longsleeve-tee/)
+
 ## Low cost + light
 
 - Total weight: 3.14kg (6.9 lb)
