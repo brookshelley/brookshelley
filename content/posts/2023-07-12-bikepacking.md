@@ -25,7 +25,7 @@ After a few years of bikepacking I've seen all sorts of setups, from the fancy t
 ## Low cost + light
 
 - Total weight: 3.14kg (6.9 lb)
-- Total storage: 24L
+- Total storage: 24L->More with fork dry bags
 - Total cost: $412
 
 ### Dry Bags
@@ -35,8 +35,6 @@ After a few years of bikepacking I've seen all sorts of setups, from the fancy t
 - $160 [Six Moon Designs Scout Tent](https://www.garagegrowngear.com/collections/shelters/products/skyscape-scout-by-six-moon-designs) 1.14kg
 - $99 [Insulated Static V Sleeping Pad by Klymit](https://www.garagegrowngear.com/collections/sleeping-pads-pillows/products/static-v-insulated-sleeping-pad-by-klymit) 680.39 g
 - $7 [Voile straps](https://www.voilestraps.com/voile-straps-20-inch-nylon-buckle.html) 
-
----
 
 ## Medium cost + heavy
 
@@ -52,13 +50,11 @@ After a few years of bikepacking I've seen all sorts of setups, from the fancy t
 - $150 [Big Agnes sleeping pad](https://www.outdoorgearlab.com/reviews/camping-and-hiking/sleeping-pad/big-agnes-rapide-sl-insulated) 595.34g
 - $160 [Six Moon Designs Scout Tent](https://www.garagegrowngear.com/collections/shelters/products/skyscape-scout-by-six-moon-designs) 1.14kg
 
----
-
 ## Medium cost + light
 
-- Total weight: 2.6kg (5.8lbs)
-- Total storage: 25.5L
-- Total Cost: $670
+- Total weight: 2.9kg (6.39lbs)
+- Total storage: 33.5L
+- Total Cost: $830
 
 ### Seat Bag + Harness
 
@@ -70,13 +66,12 @@ After a few years of bikepacking I've seen all sorts of setups, from the fancy t
 - $150 [Big Agnes sleeping pad](https://www.outdoorgearlab.com/reviews/camping-and-hiking/sleeping-pad/big-agnes-rapide-sl-insulated) 595.3395g
 - $375 [Gossamer Gear Two Tent](https://www.garagegrowngear.com/collections/shelters/products/the-two-by-gossamer-gear) 666.21g
 - $38 [Poles](https://www.gossamergear.com/collections/shelters-sleeping-pads/products/the-one-pole-sets)162g
-
----
+- $160 [Oveja Negra fork bags](https://www.ovejanegrabikepacking.com/products/bootlegger-fork-bag)
 
 ## Fancy + light
-
-- Total storage: 23.5L
-- Total weight: 2.5kg (5.5lbs)
+ 
+- Total storage: 31.5L
+- Total weight: 2.8kg (6.1lbs)
 - Total cost: $1,867
 
 ### Tailfin setup
@@ -88,6 +83,7 @@ After a few years of bikepacking I've seen all sorts of setups, from the fancy t
 - $199 [NeoAir NXT Pad](https://www.garagegrowngear.com/collections/sleeping-pads-pillows/products/neoair-xlite-sleeping-pad-by-thermarest) 368.5435 g
 - $719 [Tarptent Stratospire Li](https://www.outdoorgearlab.com/reviews/camping-and-hiking/ultralight-tent/tarptent-stratospire-li) 735kg
 - $25 [Carbon poles](https://www.tarptent.com/product/carbon-poly-pole/#tab-id-2) 111g
+- $160 [Oveja Negra fork bags](https://www.ovejanegrabikepacking.com/products/bootlegger-fork-bag)
 
 ---
 
