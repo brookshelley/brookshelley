@@ -74,7 +74,7 @@ Different vibe than the other Evil Deads but a fun horror film still.
 
 ### Sisu
 
-The man just wants his gold and casually destroys a bunch of nazis. Great time. 
+The man just wants his gold and casually destroys a bunch of nazis. Great time.
 
 ### Con Air
 
@@ -192,7 +192,7 @@ Tom Hanks playing a guy who's great at planes, and the guy from GUTs making him 
 
 Denzel laughing at physics.
 
-### Roman J. Israel, Esq.
+### Roman J. Israel, Esq
 
 Colin Farrell was playing the Penguin in this, right?
 
