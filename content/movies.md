@@ -4,6 +4,86 @@ draft: false
 type: movies 
 ---
 
+### Castle in the Sky
+
+A Miyazaki film I’d never seen. After listening to the corresponding Blank Check episode I got stoked for this one and even though it didn’t hit as hard as Spirited Away the planes and tech stuff were fun. Please Ghibli take the ToTK engine and make this into a game.
+
+### War of the Worlds
+
+Cloverfield was a much better way to tell this kind of story, especially because it had zero screaming children.
+
+### The Program
+
+Dr. Ferrari's portrayal is amazing. Fuck Lance. Lee Pace still rules.
+
+### All For One
+
+Didn't know much about Mitchelton Scott/Jayco Alula/Orica Greenedge beyond what I'd picked-up from Life in the Peloton, but this was a fun look at a team's ups and downs.
+
+### Hatching
+
+This is what I imagine a kenku looks like.
+
+### The Birdcage
+
+Still amazed this was on of my dad’s favorite movies. A classic.
+
+### Interstellar
+
+All the dad feelings wrapped in a sci-fi package.
+
+### Moneyball
+
+Listening to Blank Check on a bike ride made me finally watch this. I don’t care about baseball but Pitt really carried this thing.
+
+### Tenet
+
+Love this a little more every time.
+
+### The Mechanic
+
+Is every auto-erotic death an assassination?
+
+### Blackening
+
+Damn funny in bits but not super cohesive. Glad Tim Story got to stop making Fantastic Four movies though.
+
+### Hunt
+
+A taut spy-thriller with great action.
+
+### Alone
+
+I don't like that "woman terrorized by a guy" is a horror genre now, but the PNW was a solid backdrop to a so-so movie.
+
+### Sympathy for Mr. Vengeance
+
+Brutal! Most of the beats were familiar, but I forgot just how intense it gets in the back half.
+
+### JSA
+
+A great rewatch. I still love how the story comes together and the emotions everyone are displaying as they make friendships and try to bridge cultures. The Swiss folks... not so great.
+
+### Asteroid City
+
+Something about the last three Anderson movies has left me feeling a little checked-out and disengaged and I can't put my finger on what.
+
+### Ocean's Eleven
+
+I think I saw this in theaters originally, and it's still a hoot. Other movies have since done heists better, but this was a real paradigm shift up there with MI.
+
+### Mission Impossible: Dead Reckoning 1
+
+This movie posits Ethan Hunt is the living messiah and honestly, why not.
+
+### Guardians of the Galaxy: Part 3
+
+A refreshing and fun marvel. Raccoons are super cute, and himbo Adam Warlock worked.
+
+### Khandahar
+
+Another goofy G Butler movie where he slips in and out of being Scottish. Good bits by that guy from Valhalla and The Shadow King.
+
 ### Sanctuary
 
 Qualley plays mean well.

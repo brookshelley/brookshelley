@@ -4,6 +4,14 @@ draft: false
 type: books 
 ---
 
+### A Half Built Garden
+
+Luckily I talked to a friend partway through about this and found she also thought it was annoying.
+
+### Drought
+
+Feels like the precursor to so much post-apocalyptic fiction, but with a wry grin.
+
 ### Rubicon
 
 Pretty cool way of tackling eternal life, mixed with the dread of Edge of Tomorrow.
