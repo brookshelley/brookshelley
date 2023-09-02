@@ -4,13 +4,13 @@ draft: false
 type: books 
 ---
 
-### A Half Built Garden
+### Just Like Home
 
-Luckily I talked to a friend partway through about this and found she also thought it was annoying.
+Dovetailed nicely with my re-watching of Stoker. This grabbed onto my eyes and wouldn't let go.
 
-### Drought
+### Tatami Galaxy
 
-Feels like the precursor to so much post-apocalyptic fiction, but with a wry grin.
+Fun to read the inspiration for the series.
 
 ### A Half Built Garden
 
