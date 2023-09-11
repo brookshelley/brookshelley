@@ -1,6 +1,6 @@
 ---
 title: "about"
-type: media
+type: about
 ---
 
 ## essays
