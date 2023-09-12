@@ -3,6 +3,9 @@ publish = "public"
 command = "hugo --gc --minify"
 ignoreErrors = ["error-remote-getjson"]
 
+[build.processing]
+  skip_processing = true
+
 [[headers]]
   for = "/img/*"
   [headers.values]
