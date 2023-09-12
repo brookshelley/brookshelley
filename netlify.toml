@@ -9,6 +9,9 @@ ignoreErrors = ["error-remote-getjson"]
 [[plugins]]
   package = "@netlify/plugin-lighthouse"
   
+  [plugins.inputs]
+  run_on_success = "true"
+  
   # Set minimum thresholds for each report area
   [plugins.inputs.thresholds]
     performance = 0.9
