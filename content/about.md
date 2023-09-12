@@ -1,11 +1,7 @@
 ---
 title: "about"
-type: media
+type: about
 ---
-
-brook is a noted sapphist who lives in the forest with her cat snorri
-
-you can reach her [here](mailto:about@brookshelley.com) or view her weekly [newsletter](/tags/newsletter/) and [subscribe](https://buttondown.email/brookshelley)
 
 ## essays
 

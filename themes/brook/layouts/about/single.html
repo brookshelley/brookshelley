@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+{{ partialCached "head.html" . }}
+
+<body>
+		{{ partialCached "header.html" . }}
+		<main>
+			<article class="baseline">
+			<div>
+				<time>
+				brook is a noted sapphist who lives in the forest with her cat snorri
+
+you can reach her <a href="mailto:about@brookshelley.com">here</a> or view her weekly <a href="/tags/newsletter/">newsletter</a> and <a href="https://buttondown.email/brookshelley">subscribe</a>
+				</time>
+			<ul class="taglist">
+				{{ range .Params.tags }}
+				<li><a href="{{ "/tags/" | relLangURL }}{{ . | urlize }}">{{ . }}</a></li>
+				{{ end }}
+			</ul>
+			</div>
+			<div class=post>
+				<h1>{{ .Title }}</h1>
+				{{ .Content }}
+			</div>
+		</article>
+	</main>
+</body>
+
+</html>
