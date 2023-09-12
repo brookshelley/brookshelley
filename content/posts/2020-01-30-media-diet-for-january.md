@@ -4,7 +4,6 @@ title: "january"
 date: 2020-01-30
 tags:
   - mediadiet
-category: mediadiet
 ---
 
 2020 began in earnest, and despite it being winter, in the Bay Area it’s delightfully sunny. I spent the first week largely sitting by the window of my apartment, reading and studying Japanese. So far, I really enjoy the slower pace of this decade.
