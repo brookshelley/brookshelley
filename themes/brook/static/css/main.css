@@ -230,6 +230,7 @@ time {
   font-size: 1rem;
   font-weight: 400;
   margin-left: 0;
+  text-transform: lowercase;
 }
 
 #thumbs {
