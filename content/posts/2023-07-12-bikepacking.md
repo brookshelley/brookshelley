@@ -1,7 +1,7 @@
 ---
-title: Bikepacking Setups
+title: bikepacking setups
 date: 2023-07-12
-description: Packing for bikepacking
+description: packing for bikepacking
 tags: 
     - review
     - backpack
