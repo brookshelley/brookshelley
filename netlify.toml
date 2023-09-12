@@ -10,7 +10,7 @@ ignoreErrors = ["error-remote-getjson"]
   package = "@netlify/plugin-lighthouse"
   
   [[plugins.inputs.audits]]
-  path = "/index.html"
+  path = "index.html"
   
   # you can optionally specify an output_path per audit, relative to the path, where HTML report output will be saved
   output_path = "reports/route1.html"
