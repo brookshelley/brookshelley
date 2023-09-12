@@ -15,7 +15,7 @@ ignoreErrors = ["error-remote-getjson"]
   
   # to audit a specific absolute url
   [[plugins.inputs.audits]]
-    url = "https://www.brookshelley.com"
+    url = "https://brookshelley.com"
   
     # you can specify thresholds per audit
     [plugins.inputs.audits.thresholds]
