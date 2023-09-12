@@ -1,4 +1,4 @@
-baseURL = "https://www.brookshelley.com/"
+baseURL = "https://brookshelley.com/"
 languageCode = "en-us"
 title = "dill & fennel"
 theme = "brook"
