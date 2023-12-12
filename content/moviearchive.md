@@ -6,6 +6,609 @@ type: media
 
 _years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020) [2021](#2021)[2022](#2022)_
 
+## 2023 {#2023}
+
+### Monster
+
+Fucked me up real good on the plane. Every layer a new arrow in my heart.
+
+### Please Don’t Destroy
+
+Better than the other recent SNL movie but still very much an SNL movie.
+
+### Foe
+
+Plodding but interesting.
+
+### Out of the Furnace
+
+What if John Wick was a steelworker?
+
+### The Marvels
+
+A fun Marvel movie again!
+
+### The Fablemans
+
+Gonna re-listen to the Blank Check episode on this now. A real hard look at what making art is like, and also what it’s like to have a mom with mental illness. The latter was tough.
+
+### Dark Water
+
+Bill Pullman playing a simple country lawyer was a well-needed counter to the extremely grim subject matter. There’s no punishment strong enough to balance the damage imperial capitalism and greed have caused the world.
+
+### Guy Ritchie’s The Covenant
+
+Solid music and a surprisingly well-told story. 
+
+### Anatomy of a Fall
+
+So much of the movie mirrored the bit at the end “there’s no reward, it’s just over”. Probably too French for me.
+
+### The Killer
+
+Amazing. Hilarious at times and wonderful crafted jaunt. 
+
+### Greenland
+
+The diabetes thing is still a hat on a hat.
+
+### 28 Days Later
+
+I still can’t believe Doctor Who did the Scarecrow so dirty.
+
+### Royal Hotel
+
+Elrond really let himself go when he moved from New Zealand to Australia. That was extremely stressful.
+
+### The Burbs
+
+A fun rewatch—saw this when I was a kid.
+
+### Pigeon Tunnel
+
+Loved this.
+“…he’d have betrayed the cat, somehow”
+
+### Nun 2
+
+For half of the movie I thought it took place in multiple time periods.
+
+### Ginger Snaps
+
+I saw bits of this at I <3 Video in Austin twenty plus years ago but somehow didn’t see the whole thing until now. Fun. 
+
+### Konferensen
+
+A Swedish Severance with fun twists.
+
+### Midway
+
+Other than some of the pretty "USA USA" stuff in this, the battles were wild. I wanted to watch this because my grandpa was on a carrier in WW2 that got kamikaze'd a few times.
+
+### Killers of the Flower Moon
+
+Damn. It was long but riveting. I also audibly said “wow” at a few cameos.
+
+### Saw X
+
+Scam bad.
+
+### Haunting in Venice
+
+The camera was wacky, but the film was a fun little mystery.
+
+### It Follows
+
+If I flew to Tokyo I could maybe avoid the thing for over two months.
+
+### Monsters
+
+Ahh so good.
+
+### Totally Killer
+
+Nick at night scream.
+
+### Spy Game
+
+Always a fun rewatch.
+
+### Insidious: Chapter 3
+
+As hokey as these are there is something kinda charming here.
+
+### The Pope's Exorcist
+
+The best part was Crowe riding a little vespa
+
+### Benjamin Button
+
+A temporal pincer.
+
+### Rosemary’s Baby
+
+Hail satan
+
+### The Outwaters
+
+Conceptually cool but I can’t vibe with this kinda camera.
+
+### The Creator
+
+Cool world-building but the 3rd act was too rushed. Also my buddy’s character died too soon.
+
+### Fight Club
+
+This held up much better than I thought considering I’d watched it dozens of times in my teens and early twenties.
+
+### Stars at Noon
+
+I've definitely known this character. This was a different film to what I initially imagined it would be, but still solid.
+
+### Broker
+
+I'm never emotionally ready for any of Koreeda's films. Everyone in this is looking for a family, even if they don't know it.
+
+### No One Will Save You
+
+Almost devoid of dialogue, it built tension with foley and music. The overhead camera and some of the chase work is outstanding. It was a little hard for me to connect with it in silence though.
+
+### HUMP 2023
+
+Another great collection of amateur and pro adult film. I love that this festival always vacillates between hot and hilarious.
+
+### Bottoms
+
+Excellent comedy about fucked-up young dykes. 
+
+### Suzume
+
+Was super tired so I saw the first ten minutes and the last ten because I feel asleep then rewound and watched the rest.
+
+### The Elephant 6 Documentary
+
+A fun and nostalgic look at a set of bands that meant a lot to me while going to shows in Austin.
+
+### The Constant Gardener
+
+He took breaks from gardening to solve a murder.
+
+### Theater Camp
+
+Damn. So fucking funny, and reminiscent of all my childhood musical and theater classes and productions. 
+
+### Teenage Mutant Turtles: Mutant Mayhem
+
+Great animation, and a fun plot that gets what makes TMNT fun. This is the best turtle action since "Turtle turtle, power."
+
+### The Game
+
+My generation's Christmas Carol.
+
+### Alien Vs. Predator
+
+Not nearly as cool as I thought it was when I first saw it, but also I'm a sucker for W.S Anderson.
+
+### Se7en
+
+Hadn’t seen this for 10 or more years and hrs still a bleak triumph.
+
+### Hellraiser 2
+
+Googled how many bands are called the lament configuration during the movie.
+
+### The Meg 2
+
+Some decent action set pieces, but it's hard to outdo the first giant shark movie. Long live Fun Island.
+
+### Bogeyman
+
+Meh. I had some hopes but this was just so-so.
+
+### All Jacked Up and Full of Worms
+
+Music was solid, but I think it was too full of ideas without a real anchor.
+
+### Stoker
+
+Saw this in the theater and was surprised by it. Rewatching for Blank Check and, yea, still rips in a bizarre way.
+
+### Thirst
+
+Park Chan Wook with one of the best vampire movies.
+
+### Zodiac
+
+Love this.
+
+### Oppenheimer
+
+More of a nerdy political movie than a physics one but I’m a sucker for pop political and proceedings stuff. Nolan, ya dunnit again.
+
+### Erin Brockovich
+
+I love a good law procedural.
+
+### No Hard Feelings
+
+Adorable and surprisingly wholesome.
+
+### Insidious
+
+Forgot I'd watched this, which says a lot about it.
+
+### The Martian
+
+Another comfort rewatch. Just a chill time.
+
+### World War Z
+
+A comfort rewatch of a kinda silly but exciting zombie film.
+
+### Castle in the Sky
+
+A Miyazaki film I’d never seen. After listening to the corresponding Blank Check episode I got stoked for this one and even though it didn’t hit as hard as Spirited Away the planes and tech stuff were fun. Please Ghibli take the ToTK engine and make this into a game.
+
+### War of the Worlds
+
+Cloverfield was a much better way to tell this kind of story, especially because it had zero screaming children.
+
+### The Program
+
+Dr. Ferrari's portrayal is amazing. Fuck Lance. Lee Pace still rules.
+
+### All For One
+
+Didn't know much about Mitchelton Scott/Jayco Alula/Orica Greenedge beyond what I'd picked-up from Life in the Peloton, but this was a fun look at a team's ups and downs.
+
+### Hatching
+
+This is what I imagine a kenku looks like.
+
+### The Birdcage
+
+Still amazed this was on of my dad’s favorite movies. A classic.
+
+### Interstellar
+
+All the dad feelings wrapped in a sci-fi package.
+
+### Moneyball
+
+Listening to Blank Check on a bike ride made me finally watch this. I don’t care about baseball but Pitt really carried this thing.
+
+### Tenet
+
+Love this a little more every time.
+
+### The Mechanic
+
+Is every auto-erotic death an assassination?
+
+### Blackening
+
+Damn funny in bits but not super cohesive. Glad Tim Story got to stop making Fantastic Four movies though.
+
+### Hunt
+
+A taut spy-thriller with great action.
+
+### Alone
+
+I don't like that "woman terrorized by a guy" is a horror genre now, but the PNW was a solid backdrop to a so-so movie.
+
+### Sympathy for Mr. Vengeance
+
+Brutal! Most of the beats were familiar, but I forgot just how intense it gets in the back half.
+
+### JSA
+
+A great rewatch. I still love how the story comes together and the emotions everyone are displaying as they make friendships and try to bridge cultures. The Swiss folks... not so great.
+
+### Asteroid City
+
+Something about the last three Anderson movies has left me feeling a little checked-out and disengaged and I can't put my finger on what.
+
+### Ocean's Eleven
+
+I think I saw this in theaters originally, and it's still a hoot. Other movies have since done heists better, but this was a real paradigm shift up there with MI.
+
+### Mission Impossible: Dead Reckoning 1
+
+This movie posits Ethan Hunt is the living messiah and honestly, why not.
+
+### Guardians of the Galaxy: Part 3
+
+A refreshing and fun marvel. Raccoons are super cute, and himbo Adam Warlock worked.
+
+### Khandahar
+
+Another goofy G Butler movie where he slips in and out of being Scottish. Good bits by that guy from Valhalla and The Shadow King.
+
+### Sanctuary
+
+Qualley plays mean well.
+
+### Extraction 2
+
+The action and plot of Call of Duty Warzone.
+
+### Before We Vanish
+
+An interesting counterpoint to Invasion of the Body Snatchers, with a lot more silliness and a slower pace.
+
+### Showing Up
+
+The number of voicemails and phone calls in this was stressful. I wish she'd paid more attention to her cat.
+
+### Invasion of the Body Snatchers
+
+We need more protagonists that are food inspectors. A movie telling the truth about flowers (bad) for once.
+
+### Fast X
+
+Lol.
+
+### Solaris
+
+Clooney is great in space. I've never seen the original. This made me want to rewatch Interstellar.
+
+### Swiss Army Man
+
+I think this is what men talk about in therapy.
+
+### Children of Men
+
+Still hits.
+
+### Fool’s Gold
+
+A bit of Buster Keaton, excellent cameos, and a lot of heart.
+
+### Blackberry
+
+Outstanding. Riveting with some outstanding acting. I never had a Blackberry, so I was pretty unfamiliar with the story, but damn.
+
+### Spiderman: Across the Spiderverse
+
+Fun but way too long.
+
+### Hypnotic
+
+You can tell someone had a psychic influence concept and then kinda skipped world building and didn't nail the landing.
+
+### Reality
+
+The past 22 years are such a massive clusterfuck it's going to be wild to read about them in 30 more.
+
+### Double Jeopardy
+
+Inexplicably I remember my parents going to see this in the theater. Lots of this had me guffawing. A solid, if not erotic, thriller. Gish rules.
+
+### Tour de Pharmacy
+
+Lol what a weird hoot.
+
+### Evil Dead Rise
+
+Different vibe than the other Evil Deads but a fun horror film still.
+
+### Sisu
+
+The man just wants his gold and casually destroys a bunch of nazis. Great time.
+
+### Con Air
+
+DVD pile at the grocery store led to a post-race hotel movie night.
+
+### How to Blow Up a Pipeline
+
+...unless
+
+### Scream VI
+
+The logic of these movies never really works, but they're still fun.
+
+### Return to Seoul
+
+A gorgeous film. Lots of therapy fuel in this one about identity, family, and acceptance.
+
+### Beau is Afraid
+
+And for good reason.
+
+### Tetris
+
+Way more entertaining than I expected. Honestly this was a thrilling hoot.
+
+### Knives Out: Glass Onion
+
+Rewatch.
+
+### Ant Man: Quantumania
+
+This was a bizarre jumble. I don't really understand what it was going for, but I guess it's fine?
+
+### Project Wolf Hunting
+
+Con Air on a boat?! Nah, it's a much sillier gore-fest.
+
+### Three Thousand Years of Longing
+
+A fun, fantastical love story.
+
+### 65
+
+This would've been better with the girl played by Annette.
+
+### Women Talking
+
+I've read some Toews so I have a passing familiarity with Mennonite worlds, but damn this was both gorgeous and sad. One of the best soundtracks I've heard in a long time too.
+
+### Knock at the Cabin
+
+A really strange twist to the Looking story.
+
+### London Has Fallen
+
+This president can’t catch a break!
+
+### Take Out
+
+A good reminder of how far digital cinema has come. Watching this in 2023 felt much more voyueristic than I think was intended—like, now this could be shot on an iPhone with no issue. The silence of the protagonist made this almost feel like a restaurant RPG.
+
+### Infinity Pool
+
+The only movie that has ever captured the feeling of staying at a resort hotel.
+
+### Olympus Has Fallen
+
+I love that this was a competitor for another movie about a White House attack.
+
+### Yellow Sea
+
+The less glamorous side of contract killing.
+
+### Fire of Love
+
+Dang.
+
+### The Nice Guys
+
+Took a minute to tune-into the vibe of this film, but eventually it hit.
+
+### Skinamarink
+
+Not a movie barely a screensaver.
+
+### Plane
+
+_Yelling_ PLANE!
+
+### Bone Collector
+
+Tonights theme was collecting bone.
+
+### Magic Mike XXL
+
+A silly good time.
+
+### Underwater
+
+Rewatching an awesome underwater thriller.
+
+### M3GAN
+
+Hell yea.
+
+### Magic Mike
+
+This was my Titanic of the 2000s insofar as everyone talking about how good it was made me never want to see it. I got over myself and it was fun.
+
+### Sully
+
+Tom Hanks playing a guy who's great at planes, and the guy from GUTs making him climb an agrocrag of red tape.
+
+### Deja Vu
+
+Denzel laughing at physics.
+
+### Roman J. Israel, Esq
+
+Colin Farrell was playing the Penguin in this, right?
+
+### Fallen
+
+Denzel should’ve played Constantine.
+
+### Moonfall
+
+Great.
+
+### Penguin Highway
+
+Cute
+
+### Toy Story 4
+
+I thought I'd seen this, but couldn't remember who "Forky" was. Repeated jokes on Blank Check made me watch and I'm glad I did—cute AF.
+
+### Duplicity
+
+_very Giamatti voice_ Show me the cream!
+
+### Slumberparty Massacre
+
+When I saw “Rita Mae Brown” I yelled.
+
+### I Want You Back
+
+Love a good classic romcom.
+
+### Big Short
+
+Still hits. Fuck banks.
+
+### Weekend
+
+My guy, take a typing class.
+
+### Certain Women
+
+Certain vibes.
+
+### Aftersun
+
+Dad movies. Fuck.
+
+### The Post
+
+The pre-chum box days when reporters still got paid well.
+
+### Vampyr
+
+I dug the framing in this—angles for days.
+
+### Pearl
+
+I liked X better, but this was occasionally fun.
+
+### Four Women
+
+Shorts on my Criterion list feel like cheating usually but I hate interpretive dance.
+
+### Cold Lasagna I Hate Myself
+
+Very funny.
+
+### Safe
+
+Haynes captures another side to the creepiness of suburban life and loneliness of illness like the campy cousin to Lynch.
+
+### From Dusk Til Dawn
+
+Clooney should always have neck tattoos.
+
+### Bergman Island
+
+I don't think I've seen a single Bergman film, which means a lot of this was likely lost on me. An interesting story regardless. "In Sweden we are very serious about recycling".
+
+### Spook Sport
+
+The Rude Tales theme!
+
+### Koyaanisqatsi
+
+First time I've seen this movie without being high, and it holds up.
+
+### Rogue Agent
+
+He's never really a spy, ladies. Julian Barrett is aging well
+
+### Wendell & Wild
+
+Excited to hear the Blank Check on this movie. Stop motion is always so cool.
+
 ## 2022 {#2022}
 
 ### Margin Call
