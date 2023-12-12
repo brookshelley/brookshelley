@@ -4,6 +4,199 @@ draft: false
 type: movies 
 ---
 
+### Monster
+
+Fucked me up real good on the plane. Every layer a new arrow in my heart.
+
+### Please Don’t Destroy
+
+Better than the other recent SNL movie but still very much an SNL movie.
+
+### Foe
+
+Plodding but interesting.
+
+### Out of the Furnace
+
+What if John Wick was a steelworker?
+
+### The Marvels
+
+A fun Marvel movie again!
+
+### The Fablemans
+
+Gonna re-listen to the Blank Check episode on this now. A real hard look at what making art is like, and also what it’s like to have a mom with mental illness. The latter was tough.
+
+### Dark Water
+
+Bill Pullman playing a simple country lawyer was a well-needed counter to the extremely grim subject matter. There’s no punishment strong enough to balance the damage imperial capitalism and greed have caused the world.
+
+### Guy Ritchie’s The Covenant
+
+Solid music and a surprisingly well-told story. 
+
+### Anatomy of a Fall
+
+So much of the movie mirrored the bit at the end “there’s no reward, it’s just over”. Probably too French for me.
+
+### The Killer
+
+Amazing. Hilarious at times and wonderful crafted jaunt. 
+
+### Greenland
+
+The diabetes thing is still a hat on a hat.
+
+### 28 Days Later
+
+I still can’t believe Doctor Who did the Scarecrow so dirty.
+
+### Royal Hotel
+
+Elrond really let himself go when he moved from New Zealand to Australia. That was extremely stressful.
+
+### The Burbs
+
+A fun rewatch—saw this when I was a kid.
+
+### Pigeon Tunnel
+
+Loved this.
+“…he’d have betrayed the cat, somehow”
+
+### Nun 2
+
+For half of the movie I thought it took place in multiple time periods.
+
+### Ginger Snaps
+
+I saw bits of this at I <3 Video in Austin twenty plus years ago but somehow didn’t see the whole thing until now. Fun. 
+
+### Konferensen
+
+A Swedish Severance with fun twists.
+
+### Midway
+
+Other than some of the pretty "USA USA" stuff in this, the battles were wild. I wanted to watch this because my grandpa was on a carrier in WW2 that got kamikaze'd a few times.
+
+### Killers of the Flower Moon
+
+Damn. It was long but riveting. I also audibly said “wow” at a few cameos.
+
+### Saw X
+
+Scam bad.
+
+### Haunting in Venice
+
+The camera was wacky, but the film was a fun little mystery.
+
+### It Follows
+
+If I flew to Tokyo I could maybe avoid the thing for over two months.
+
+### Monsters
+
+Ahh so good.
+
+### Totally Killer
+
+Nick at night scream.
+
+### Spy Game
+
+Always a fun rewatch.
+
+### Insidious: Chapter 3
+
+As hokey as these are there is something kinda charming here.
+
+### The Pope's Exorcist
+
+The best part was Crowe riding a little vespa
+
+### Benjamin Button
+
+A temporal pincer.
+
+### Rosemary’s Baby
+
+Hail satan
+
+### The Outwaters
+
+Conceptually cool but I can’t vibe with this kinda camera.
+
+### The Creator
+
+Cool world-building but the 3rd act was too rushed. Also my buddy’s character died too soon.
+
+### Fight Club
+
+This held up much better than I thought considering I’d watched it dozens of times in my teens and early twenties.
+
+### Stars at Noon
+
+I've definitely known this character. This was a different film to what I initially imagined it would be, but still solid.
+
+### Broker
+
+I'm never emotionally ready for any of Koreeda's films. Everyone in this is looking for a family, even if they don't know it.
+
+### No One Will Save You
+
+Almost devoid of dialogue, it built tension with foley and music. The overhead camera and some of the chase work is outstanding. It was a little hard for me to connect with it in silence though.
+
+### HUMP 2023
+
+Another great collection of amateur and pro adult film. I love that this festival always vacillates between hot and hilarious.
+
+### Bottoms
+
+Excellent comedy about fucked-up young dykes. 
+
+### Suzume
+
+Was super tired so I saw the first ten minutes and the last ten because I feel asleep then rewound and watched the rest.
+
+### The Elephant 6 Documentary
+
+A fun and nostalgic look at a set of bands that meant a lot to me while going to shows in Austin.
+
+### The Constant Gardener
+
+He took breaks from gardening to solve a murder.
+
+### Theater Camp
+
+Damn. So fucking funny, and reminiscent of all my childhood musical and theater classes and productions. 
+
+### Teenage Mutant Turtles: Mutant Mayhem
+
+Great animation, and a fun plot that gets what makes TMNT fun. This is the best turtle action since "Turtle turtle, power."
+
+### The Game
+
+My generation's Christmas Carol.
+
+### Alien Vs. Predator
+
+Not nearly as cool as I thought it was when I first saw it, but also I'm a sucker for W.S Anderson.
+
+### Se7en
+
+Hadn’t seen this for 10 or more years and hrs still a bleak triumph.
+
+### Hellraiser 2
+
+Googled how many bands are called the lament configuration during the movie.
+
+### The Meg 2
+
+Some decent action set pieces, but it's hard to outdo the first giant shark movie. Long live Fun Island.
+
 ### Bogeyman
 
 Meh. I had some hopes but this was just so-so.
