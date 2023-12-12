@@ -4,6 +4,14 @@ draft: false
 type: books 
 ---
 
+### Chosen Ones
+
+A fun book about the hero myth.
+
+### Terraformers
+
+Interesting multi-generational story of planetary terraforming and personhood.
+
 ### Just Like Home
 
 Dovetailed nicely with my re-watching of Stoker. This grabbed onto my eyes and wouldn't let go.
