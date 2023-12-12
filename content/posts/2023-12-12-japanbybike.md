@@ -1,6 +1,6 @@
 ---
 title: Tokyo to Osaka by bike
-date: 2023-07-12
+date: 2023-12-12
 description: trip report
 tags: 
  - travel
