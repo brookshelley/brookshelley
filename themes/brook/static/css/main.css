@@ -2,18 +2,18 @@
   --font-body: 'Merriweather',Georgia,Times,Times New Roman,serif;
   --font-head:'Inter',-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",sans-serif;
   --font-mono:11px;
-  --font-small:1.1rem;
-  --font-large:1.3rem;
+  --font-small:0.9rem;
+  --font-large:1.1rem;
   --color-bg:#000;
   --color-default:#F3F2F3;
   --color-accent:#8f75de;
   --color-alt:#603ad0;
-  --spacing-maxwidth-para: 34rem;
+  --spacing-maxwidth-para:34rem;
   }
 @media (min-width: 1000px) {
   :root {
-      --font-small: 16px;
-      --font-large: 19px;
+      --font-small:16px;
+      --font-large:18px;
   }
 }
 html {
@@ -22,16 +22,16 @@ html {
   color:var(--color-default);
   background-color:var(--color-bg);
   font-size:var(--font-small);
-  font-weight: 200;
+  font-weight:200;
 }
-@media (min-width: 600px) { html { font-size: 16px; } }
-@media (min-width: 700px) { html { font-size: 18px; } } 
+@media (min-width: 600px) { html { font-size:16px; } }
+@media (min-width: 700px) { html { font-size:18px; } } 
 
 body {
-padding: 0;
-max-width: 55rem;
+padding:0;
+max-width:55rem;
 font-family:var(--font-body);
-font-weight: 300;
+font-weight:300;
 }
 
 .thumb {		
@@ -57,8 +57,8 @@ header {
   font-size:var(--font-large);
   display: grid;
   grid-template-columns: 1fr 1fr;
-  margin-left: 1rem;
-  margin-right: 1rem;
+  margin-left:1rem;
+  margin-right:1rem;
 }
 
 .logo {
