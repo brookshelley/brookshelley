@@ -1,4 +1,21 @@
 books:
+- name: An Unkindness of Magicians
+  thumbnail: https://images-us.bookshop.org/ingram/9781481451208.jpg?height=500&v=v2
+  link: https://bookshop.org/p/books/an-unkindness-of-magicians-volume-1-kat-howard/10316993?ean=9781481451208
+- name: The Employees
+  thumbnail: https://images-us.bookshop.org/ingram/9780811234825.jpg?height=500&v=v2-fae871a4ade7f7e073a7405f8ff4d397
+  link: https://bookshop.org/p/books/the-employees-a-workplace-novel-of-the-22nd-century-olga-ravn/18589764?ean=9780811234825
+- name: Chilling Effect
+  thumbnail: https://images-us.bookshop.org/ingram/9780062877239.jpg?height=500&v=v2
+  link: https://bookshop.org/p/books/chilling-effect-valerie-valdes/7999841?ean=9780062877239
+- name: Something New Under the Sun
+  thumbnail: https://cdn.micro.blog/photos/300x/https%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dl1tqEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D5%26source%3Dgbs_api
+- name: Winter Tide
+  thumbnail: https://cdn.micro.blog/photos/300x/https%3A%2F%2Fimages.isbndb.com%2Fcovers%2F09%2F05%2F9780765390905.jpg
+- name: Neuromancer
+  read: 2023/01
+  link: https://bookshop.org/p/books/neuromancer-william-gibson/7503287?ean=9780143111603
+  thumbnail: https://images-us.bookshop.org/ingram/9780143111603.jpg?height=500&v=v2
 - name: The Water Cure
   read: 2022/10/28
   link: https://bookshop.org/p/books/the-water-cure-sophie-mackintosh/7365423?ean=9780525562832

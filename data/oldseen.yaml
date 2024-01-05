@@ -1,4 +1,127 @@
 movies:
+- name: Women Talking
+  link: https://letterboxd.com/film/women-talking/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/6/9/6/3/1/0/696310-women-talking-0-500-0-750-crop.jpg
+- name: Knock at the Cabin
+  link: https://letterboxd.com/film/knock-at-the-cabin/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/5/5/8/0/5/6/558056-knock-at-the-cabin-0-500-0-750-crop.jpg
+- name: London Has Fallen
+  link: https://letterboxd.com/film/london-has-fallen/
+  thumbnail: https://a.ltrbxd.com/resized/sm/upload/j7/ds/1s/pm/9j2AmDhZvdwMyYKpqe4CtBkN1Tw-0-500-0-750-crop.jpg
+- name: Take Out
+  link: https://letterboxd.com/film/take-out-2004/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/2/6/7/6/9/26769-take-out-0-500-0-750-crop.jpg?v=2beac8944f
+- name: Infinity Pool
+  link: https://letterboxd.com/film/infinity-pool/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/5/9/1/9/3/1/591931-infinity-pool-0-500-0-750-crop.jpg?v=1fdb8549ff
+- name: Olympus Has Fallen
+  link: https://letterboxd.com/film/olympus-has-fallen/
+  thumbnail: https://a.ltrbxd.com/resized/sm/upload/ma/6v/mk/gk/l542hLtKhsmOWEBFoC7Aajk0nKt-0-500-0-750-crop.jpg?v=f8984368ce
+- name: Yellow Sea
+  link: https://letterboxd.com/film/the-yellow-sea/
+  thumbnail: https://a.ltrbxd.com/resized/sm/upload/nn/jm/hm/yq/1iRDS0kIHLjByd0RuktOMc8ekga-0-500-0-750-crop.jpg?v=7197eb9647
+- name: Fire of Love
+  link: https://letterboxd.com/film/fire-of-love-2022/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/8/1/9/8/6/3/819863-fire-of-love-0-230-0-345-crop.jpg?v=d79f69426b
+- name: The Nice Guys
+  link: https://letterboxd.com/film/the-nice-guys/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/2/1/6/3/0/1/216301-the-nice-guys-0-500-0-750-crop.jpg?v=40616daa2c
+- name: Skinamarink
+  link: https://letterboxd.com/film/skinamarink/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/8/9/5/1/3/0/895130-skinamarink-0-1000-0-1500-crop.jpg?v=fa79a136c6
+- name: Plane
+  link: https://letterboxd.com/film/plane-2023/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/5/7/2/1/2/0/572120-plane-0-500-0-750-crop.jpg?v=a9f5dd4c81
+- name: Moloch
+  link: https://letterboxd.com/film/moloch-2022/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/8/6/3/3/3/3/863333-moloch-0-500-0-750-crop.jpg?v=c9aa65854c
+- name: Underwater
+  link: https://letterboxd.com/film/underwater-2020/
+  thumbnail: https://a.ltrbxd.com/resized/sm/upload/ns/i3/5q/m6/C67E536B-E8A3-4AD1-A9B8-4443EA9695D9-0-500-0-750-crop.jpg?v=7034493b01
+- name: M3GAN
+  link: https://letterboxd.com/film/m3gan/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/4/6/5/6/4/9/465649-m3gan-0-500-0-750-crop.jpg?v=7b22fdec79
+- name: Magic Mike
+  link: https://letterboxd.com/film/magic-mike/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/6/4/3/9/3/64393-magic-mike-0-500-0-750-crop.jpg?v=6cffe5ef07
+- name: Sully
+  link: https://letterboxd.com/film/sully/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/3/0/1/0/4/0/301040-sully-0-500-0-750-crop.jpg?v=d60925feaa
+- name: Deja Vu
+  link: https://letterboxd.com/film/deja-vu/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/4/7/9/8/7/47987-deja-vu-0-500-0-750-crop.jpg?v=7e52a254f6
+- name: Roman J. Israel, Esq.
+  link: https://letterboxd.com/film/roman-j-israel-esq/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/3/4/7/4/4/3/347443-roman-j-israel-esq--0-500-0-750-crop.jpg?v=2c5e2c9fee
+- name: Fallen
+  link: https://letterboxd.com/film/fallen-1998/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/6/0/1/4/4/60144-fallen-0-500-0-750-crop.jpg?v=6965dbc819
+- name: Moonfall
+  link: https://letterboxd.com/film/moonfall/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/3/4/1/1/6/6/341166-moonfall-0-500-0-750-crop.jpg?v=4114dff389
+- name: Penguin Highway
+  link: https://letterboxd.com/film/penguin-highway/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/4/3/8/0/9/5/438095-penguin-highway-0-500-0-750-crop.jpg?v=d843b087f2
+- name: Toy Story 4
+  link: https://letterboxd.com/film/toy-story-4/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/2/2/8/6/2/8/228628-toy-story-4-0-500-0-750-crop.jpg?v=e5bf22ba02
+- name: Duplicity
+  link: https://letterboxd.com/film/duplicity/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/4/1/4/9/9/41499-duplicity-0-500-0-750-crop.jpg?v=025797a93a
+- name: Slumberparty Massacre
+  link: https://letterboxd.com/film/the-slumber-party-massacre/
+  thumbnail: https://a.ltrbxd.com/resized/sm/upload/wh/z8/pq/ce/GhezpGRfFKpQHLJfOpKM2IAEoz-0-500-0-750-crop.jpg?v=5b7ac36eb6
+- name: I Want You Back
+  link: https://letterboxd.com/film/i-want-you-back/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/6/0/5/2/6/2/605262-i-want-you-back-0-500-0-750-crop.jpg?v=a80ad7f02b
+- name: Big Short
+  link: https://letterboxd.com/film/the-big-short/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/2/4/6/0/1/3/246013-the-big-short-0-500-0-750-crop.jpg?v=53fc881989
+- name: Weekend
+  link: https://letterboxd.com/film/weekend-2011/
+  thumbnail: https://a.ltrbxd.com/resized/sm/upload/dc/9z/uc/56/tcMFeS4ur1CIZo6BSmsjKPSOxMk-0-500-0-750-crop.jpg?v=3087a1673a
+- name: Certain Women
+  link: https://letterboxd.com/film/certain-women/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/2/6/9/8/9/8/269898-certain-women-0-500-0-750-crop.jpg?v=85708ca3a8
+- name: Aftersun
+  link: https://letterboxd.com/film/aftersun/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/8/6/8/5/5/8/868558-aftersun-0-500-0-750-crop.jpg?v=5ce2118fca
+- name: The Post
+  link: https://letterboxd.com/film/the-post-2017/
+  thumbnail: https://a.ltrbxd.com/resized/sm/upload/3w/bp/ll/7n/qyRwj5VvuTRdJ76o2grP93grNxt-0-500-0-750-crop.jpg?v=62a9bdd004
+- name: Vampyr
+  link: https://letterboxd.com/film/vampyr/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/5/1/3/7/3/51373-vampyr-0-500-0-750-crop.jpg?v=602e205fc7
+- name: Pearl
+  link: https://letterboxd.com/film/pearl-2022/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/8/5/3/8/2/2/853822-pearl-0-500-0-750-crop.jpg?v=471dfc4a24
+- name: Four Women
+  link: https://letterboxd.com/film/four-women-1975/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/2/6/3/3/5/8/263358-four-women-0-500-0-750-crop.jpg?v=b4c7b332fb
+- name: Cold Lasagna I Hate Myself
+  link: https://letterboxd.com/film/james-acaster-cold-lasagne-hate-myself-1999/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/6/8/3/4/8/6/683486-james-acaster-cold-lasagne-hate-myself-1999-0-500-0-750-crop.jpg?v=a0f3492c3f
+- name: Safe
+  link: https://letterboxd.com/film/safe/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/3/0/2/7/4/30274-safe-0-500-0-750-crop.jpg?v=ab04349ed6
+- name: From Dusk Til Dawn
+  link: https://letterboxd.com/film/from-dusk-till-dawn/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/5/1/3/9/7/51397-from-dusk-till-dawn-0-500-0-750-crop.jpg?v=8cdce617f0
+- name: Bergman Island
+  link: https://letterboxd.com/film/bergman-island-2021/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/4/0/8/2/7/4/408274-bergman-island-0-500-0-750-crop.jpg?v=399860dcf9
+- name: Spook Sport
+  link: https://letterboxd.com/film/spook-sport/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/1/5/2/7/1/8/152718-spook-sport-0-500-0-750-crop.jpg?v=75cd323963
+- name: Koyaanisqatsi
+  link: https://letterboxd.com/film/koyaanisqatsi/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/4/5/4/1/9/45419-koyaanisqatsi-0-500-0-750-crop.jpg?v=86db24b95a
+- name: Rogue Agent
+  link: https://letterboxd.com/film/rogue-agent/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/7/6/1/3/7/7/761377-rogue-agent-0-500-0-750-crop.jpg?v=e5de54dc72
+- name: Wendell & Wild  
+  link: https://letterboxd.com/film/wendell-wild/
+  thumbnail: https://a.ltrbxd.com/resized/film-poster/4/4/1/4/7/4/441474-wendell-wild-0-500-0-750-crop.jpg?v=b2a137b707
 - name: Irma Vep
   link: https://letterboxd.com/brookshelley/film/irma-vep/
   thumbnail: https://a.ltrbxd.com/resized/sm/upload/fo/wl/s1/2t/uFGubvhFdNS4cJdFHsCGuTpM9ZP-0-1000-0-1500-crop.jpg?v=af3c29d041
