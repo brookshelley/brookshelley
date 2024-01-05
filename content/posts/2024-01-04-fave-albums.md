@@ -1,6 +1,6 @@
 ---
 title: "my favorite albums of 2023"
-date: 2023-12-31
+date: 2024-01-04
 description: favorite music
 tags:
   - mediadiet
