@@ -71,6 +71,8 @@ More dance dance.
 
 ### Sit Down for Dinner - Blonde Redhead
 
+One of the best albums from Blonde Redhead in years. It reminded me why I love them.
+
 ### Desolation’s Flower - Ragana
 
 Ragana is still up there among my favorite metal bands, and this record captures the raw intensity of the duo well.
