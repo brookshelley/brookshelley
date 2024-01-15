@@ -1,6 +1,6 @@
 ---
 title: "a record player at last"
-date: 2024-01-04
+date: 2024-01-15
 description: vinyl
 tags:
   - music
