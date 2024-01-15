@@ -1,4 +1,12 @@
-# A record player at last
+---
+title: "a record player at last"
+date: 2024-01-04
+description: vinyl
+tags:
+  - music
+  - records
+type: posts
+---
 
 Years of resistance gave out as I started my 39th year and decided to build a record collection. I'd avoided buying physical media for cost and clutter reasons, but in an effort to get back into listening to music instead of podcasts at home, I decided to keep making my little home jazz bar a thing. I added soft lighting during COVID, and amassed a collection of whiskey and novels, so this is the final step.
 
