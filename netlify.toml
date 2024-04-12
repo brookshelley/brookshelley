@@ -1,7 +1,7 @@
 [build]
 publish = "public"
-command = "hugo --gc --minify"
-ignoreErrors = ["error-remote-getjson"]
+command = "hugo --gc"
+ignoreErrors = ["error-remote-getjson", 'shortcode-twitter-getremote']
 
 [[headers]]
   for = "/img/*"
