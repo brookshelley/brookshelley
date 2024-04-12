@@ -91,4 +91,4 @@ ignoreErrors = ['error-remote-getjson', 'shortcode-twitter-getremote']
     weight = 3
 
 [outputs]
-	home = ['html', 'rss', 'json']
+	home = ['html', 'rss']
