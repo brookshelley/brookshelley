@@ -5,6 +5,7 @@
 			<a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>
 		</div>
 	</div>
+	<nav>
 	{{ $current := . }}
 		<ul class="flat">
 			{{ range .Site.Menus.main }}
@@ -17,5 +18,5 @@
 			</li>
 			{{ end }}	
 		</ul>
-	</div>
+	</nav>
 </header>
