@@ -8,7 +8,6 @@
 	{{- if isset .Site.Params "favicon" -}}
 	<link rel="icon" type="image/png" href={{ .Site.Params.favicon }} />
 	{{- end -}}
-
 	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
 	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
 	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
@@ -21,13 +20,13 @@
 	<link rel="micropub" href="https://brook-micropub.herokuapp.com/micropub/main" />
 	<link rel="me" href="https://xoxo.zone/@brook" />
 
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	{{ with .OutputFormats.Get "rss" -}}
-	  {{ printf `<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
-	{{ end }}
-	<style type="text/css">html {
-		line-height: 1.4; 
-		padding: calc(2px + 5vw);
+	 <meta name="viewport" content="width=device-width, initial-scale=1">
+	 {{ with .OutputFormats.Get "rss" -}}
+	 {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+	 {{ end -}}
+	 <style type="text/css">html {
+		 line-height: 1.4; 
+		 padding: calc(2px + 5vw);
 		color:var(--color-default);
 		background-color:var(--color-bg);
 		font-size:var(--font-small);
@@ -44,11 +43,11 @@
 	  }
 	</style>
 	<link rel="preconnect"
-      href="https://fonts.gstatic.com"
-      crossorigin />
+	  href="https://fonts.gstatic.com"
+	  crossorigin />
 	  <link rel="preload"
-      as="style"
-      href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300&family=Merriweather:wght@300&display=swap" />
+	  as="style"
+	  href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300&family=Merriweather:wght@300&display=swap" />
 	<link rel="preload" as="style"href="https://fonts.googleapis.com/css2?family=Inter:wght@200;300&family=Merriweather:wght@300&display=swap" onload="this.onload=null;this.rel='stylesheet'" />
 	<link rel="preload" href="{{ .Site.BaseURL }}css/main.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
 	<noscript><link rel="stylesheet" href="{{ .Site.BaseURL }}css/main.css"></noscript>
