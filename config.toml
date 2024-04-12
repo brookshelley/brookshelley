@@ -2,55 +2,54 @@ baseURL = "https://brookshelley.com/"
 languageCode = "en-us"
 title = "brook s"
 theme = "brook"
-
 copyright = "© Brook Shelley 2024"
 
 # Enable syntax highlighting.
-pygmentsstyle = 'monokai'
+pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 paginate = 6
 summaryLength = 20
-ignoreErrors = ['error-remote-getjson', 'shortcode-twitter-getremote']
+ignoreErrors = ["error-remote-getjson", "shortcode-twitter-getremote"]
 
 [params]
-	mainSections = ['posts']
-	disableDisqusTypes = ['page', 'posts']
-	disableDateTypes = ['page']
+	mainSections = ["posts"]
+	disableDisqusTypes = ["page", "posts"]
+	disableDateTypes = ["page"]
     featherIconsCDN = false
-    subtitle = 'a blog'
-	favicon = '/favicon.ico'
-	logo = '/666.png'
-	mode = 'light' # 'dark', 'auto', 'light'
+    subtitle = "a blog"
+	favicon = "/favicon.ico"
+	logo = "/666.png"
+	mode = "light" # "dark", "auto", "light"
     
     [[params.author]]
-    email = 'hello@brookshelley.com'
-    name = 'Brook Shelley'
+    email = "hello@brookshelley.com"
+    name = "Brook Shelley"
     
 	[[params.social]]
-	name = 'RSS'
-	icon = 'rss'
-	url = '/index.xml'
+	name = "RSS"
+	icon = "rss"
+	url = "/index.xml"
 
 	[[params.social]]
-	name = 'Github'
-	icon = 'github'
-	url = 'https://github.com/brookshelley'
+	name = "Github"
+	icon = "github"
+	url = "https://github.com/brookshelley"
 	
 	[[params.social]]
-	name = 'Letterboxd'
-	url = 'https://www.letterboxd.com/brookshelley'
+	name = "Letterboxd"
+	url = "https://www.letterboxd.com/brookshelley"
 
 	[[params.social]]
-    name = 'newsletter'
-    icon = 'mail'
-    url = '/tags/newsletter'
+    name = "newsletter"
+    icon = "mail"
+    url = "/tags/newsletter"
 
     [[params.social]]
-    name = 'about'
-    icon = 'info'
-    url = '/about'
+    name = "about"
+    icon = "info"
+    url = "/about"
 
 [minify]
   disableCSS = false
@@ -61,34 +60,34 @@ ignoreErrors = ['error-remote-getjson', 'shortcode-twitter-getremote']
   
 [caches]
   [caches.assets]
-    dir = ':resourceDir/_gen'
+    dir = ":resourceDir/_gen"
     maxAge = -1
   [caches.images]
-    dir = ':resourceDir/_gen'
+    dir = ":resourceDir/_gen"
     maxAge = -1
 
 [menu]
 
   [[menu.footer]]
-    identifier = 'about'
-    name = 'about'
-    url = '/about'
+    identifier = "about"
+    name = "about"
+    url = "/about"
     weight = 1
 
   [[menu.main]]
-    name = 'read'
-    url = '/books'
+    name = "read"
+    url = "/books"
     weight = 1
 
   [[menu.main]]
-    name = 'seen'
-    url = '/movies'
+    name = "seen"
+    url = "/movies"
     weight = 2
 
   [[menu.main]]
-    name = 'about'
-    url = '/about'
+    name = "about"
+    url = "/about"
     weight = 3
 
 [outputs]
-	home = ['html', 'rss']
+	home = ["html", "rss"]
