@@ -61,6 +61,11 @@ header {
   margin-right:1rem;
 }
 
+.logo {
+  max-width:33px; 
+  float:left;
+}
+
 .baseline a, a {
   color: var(--color-accent); 
 }
@@ -89,7 +94,7 @@ b,strong {
 }
 
 .site-title {
-  line-height:100px;
+  line-height:33px;
   margin-bottom:0;
 }
 
@@ -120,7 +125,7 @@ h2 {
   text-transform: lowercase;
   font-size: 0.8rem;
   letter-spacing: 0.1rem;
-  margin-top: 1rem;
+  margin-top: 2rem;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -167,7 +172,7 @@ li.archive {
       align-items: baseline;
   }
   body>header {
-      padding: 1vw 5vw 5vw;
+      padding: 1vw 5vw 8vw;
   }
   body>header>div:first-child {
       top: 6px;
@@ -193,7 +198,7 @@ li.archive {
   }
 
   .logo {
-    max-width: 33px;
+    max-width:33px; 
     float:left;
     margin-top:2px;
     }
@@ -233,7 +238,7 @@ time {
 }
 
 main {
-  margin-top: 1rem;
+  margin-top: 3rem;
 }
 
 article {
