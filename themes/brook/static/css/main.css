@@ -172,7 +172,7 @@ li.archive {
       align-items: baseline;
   }
   body>header {
-      padding: 1vw 5vw 8vw;
+      padding: 1vw 5vw 5vw;
   }
   body>header>div:first-child {
       top: 6px;
@@ -238,7 +238,7 @@ time {
 }
 
 main {
-  margin-top: 3rem;
+  margin-top: 1rem;
 }
 
 article {
