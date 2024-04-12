@@ -61,11 +61,6 @@ header {
   margin-right:1rem;
 }
 
-.logo {
-  max-width:33px; 
-  float:left;
-}
-
 .baseline a, a {
   color: var(--color-accent); 
 }
@@ -94,7 +89,7 @@ b,strong {
 }
 
 .site-title {
-  line-height:33px;
+  line-height:100px;
   margin-bottom:0;
 }
 
@@ -198,7 +193,6 @@ li.archive {
   }
 
   .logo {
-    max-width:33px; 
     float:left;
     margin-top:2px;
     }
