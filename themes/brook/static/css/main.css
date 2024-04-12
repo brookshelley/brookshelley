@@ -77,7 +77,6 @@ p a, li a, a, li {
 
 li {
   font-family: var(--font-head);
-  margin-bottom: 5px;
 }
 
 p a:hover, li a:hover, .active {
@@ -101,7 +100,6 @@ b,strong {
 ul.flat {
   display: flex;
   margin-top:5px;
-  margin-bottom:5px;
   list-style:none;
   padding-left:0px;
 }
@@ -139,7 +137,6 @@ h3 {
 
 ul.flat, .flat, li.flat {
   display: flex;
-  margin-bottom:5px;
   list-style:none;
 }
 
