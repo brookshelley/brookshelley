@@ -2,6 +2,7 @@ baseURL = "https://brookshelley.com/"
 languageCode = "en-us"
 title = "brook s"
 theme = "brook"
+
 copyright = "© Brook Shelley 2024"
 
 # Enable syntax highlighting.
@@ -11,37 +12,33 @@ pygmentscodefencesguesssyntax = true
 
 paginate = 6
 summaryLength = 20
-ignoreErrors = ["error-remote-getjson", "shortcode-twitter-getremote"]
+ignoreErrors = ["error-remote-getjson"]
 
 [params]
-	mainSections = ["posts"]
-	disableDisqusTypes = ["page", "posts"]
-	disableDateTypes = ["page"]
+  mainSections = ["posts"]
+  disableDisqusTypes = ["page", "posts"]
+  disableDateTypes = ["page"]
     featherIconsCDN = false
     subtitle = "a blog"
-	favicon = "/favicon.ico"
-	logo = "/666.png"
-	mode = "light" # "dark", "auto", "light"
-    
-    [[params.author]]
-    email = "hello@brookshelley.com"
-    name = "Brook Shelley"
-    
-	[[params.social]]
-	name = "RSS"
-	icon = "rss"
-	url = "/index.xml"
+  favicon = "/favicon.ico"
+  logo = "/666.png"
+  mode = "light" # "dark", "auto", "light"
 
-	[[params.social]]
-	name = "Github"
-	icon = "github"
-	url = "https://github.com/brookshelley"
-	
-	[[params.social]]
-	name = "Letterboxd"
-	url = "https://www.letterboxd.com/brookshelley"
+  [[params.social]]
+  name = "RSS"
+  icon = "rss"
+  url = "/index.xml"
 
-	[[params.social]]
+  [[params.social]]
+  name = "Github"
+  icon = "github"
+  url = "https://github.com/brookshelley"
+  
+  [[params.social]]
+  name = "Letterboxd"
+  url = "https://www.letterboxd.com/brookshelley"
+
+  [[params.social]]
     name = "newsletter"
     icon = "mail"
     url = "/tags/newsletter"
@@ -90,4 +87,4 @@ ignoreErrors = ["error-remote-getjson", "shortcode-twitter-getremote"]
     weight = 3
 
 [outputs]
-	home = ["html", "rss"]
+  home = ["HTML", "RSS"]
