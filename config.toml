@@ -12,7 +12,7 @@ pygmentscodefencesguesssyntax = true
 
 paginate = 6
 summaryLength = 20
-ignoreErrors = ['error-remote-getjson']
+ignoreErrors = ['error-remote-getjson', 'shortcode-twitter-getremote']
 
 [params]
 	mainSections = ['posts']
