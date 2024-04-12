@@ -1,9 +1,9 @@
-baseURL = 'https://brookshelley.com/'
-languageCode = 'en-us'
-title = 'brook shelley'
-theme = 'brook'
+baseURL = "https://brookshelley.com/"
+languageCode = "en-us"
+title = "brook s"
+theme = "brook"
 
-copyright = '© Brook Shelley 2022'
+copyright = "© Brook Shelley 2024"
 
 # Enable syntax highlighting.
 pygmentsstyle = 'monokai'
