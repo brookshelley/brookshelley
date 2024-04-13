@@ -6,7 +6,7 @@ type: movies
 
 ### Barbie
 
-Imagine being the only gay Barbie in a world that ignores to. Mid as hell.
+Imagine being the only gay Barbie in a world that ignores you. Mid as hell.
 
 ### Roadhouse
 
