@@ -4,6 +4,38 @@ draft: false
 type: books 
 ---
 
+### Hummingbird Salamander
+
+Vandemeer with a compelling eco thriller.
+
+### The Dark Forest
+
+Watched the Netflix adaptation of the first and a bit book while reading this which mostly just made me confused about who was who. Also I wish there were more women in the books who weren’t a sci-fi writer’s idea of a perfect wife.
+
+### Three-Body Problem
+
+I’m dreading the Netflix show but this was slow to start but super interesting once it did.
+
+### Camp Zero
+
+An interesting take on climate apocalypse.
+
+### Agent Running in the Field
+
+Le Carre kept writing bangers his entire career.
+
+### Shards of the Earth
+
+Enough mystery to make the trilogy appealing, and strong characters.
+
+### Hell Bent
+
+A fun sequel to Ninth House.
+
+### Book of Night
+
+I like this trend of urban magic stuff.
+
 ### Super Cannes
 
 JG you’re a freak for this one.

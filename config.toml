@@ -1,6 +1,6 @@
 baseURL = "https://brookshelley.com/"
 languageCode = "en-us"
-title = "brook s"
+title = "brook shelley"
 theme = "brook"
 
 copyright = "© Brook Shelley 2024"
@@ -18,12 +18,12 @@ ignoreErrors = ["error-remote-getjson"]
   mainSections = ["posts"]
   disableDisqusTypes = ["page", "posts"]
   disableDateTypes = ["page"]
-    featherIconsCDN = false
-    subtitle = "a blog"
+  featherIconsCDN = false
+  subtitle = "a blog"
   favicon = "/favicon.ico"
   logo = "/666.png"
   mode = "light" # "dark", "auto", "light"
-
+  
   [[params.social]]
   name = "RSS"
   icon = "rss"
