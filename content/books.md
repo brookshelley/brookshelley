@@ -4,6 +4,14 @@ draft: false
 type: books 
 ---
 
+### Some Desperate Glory
+
+Cool take on a space epic.
+
+### Death’s End
+
+A good conclusion.
+
 ### Hummingbird Salamander
 
 Vandemeer with a compelling eco thriller.
