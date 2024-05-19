@@ -4,6 +4,10 @@ draft: false
 type: books 
 ---
 
+### In Ascension
+
+Kinda wild!
+
 ### Some Desperate Glory
 
 Cool take on a space epic.
@@ -59,6 +63,10 @@ Does it stick the landing? Yep.
 ### Void Black Shadow
 
 This series continues to be cool.
+
+### Murder on Sex Island
+
+lol.
 
 ### Do Androids Dream of Electric Sheep
 
