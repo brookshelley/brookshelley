@@ -8,8 +8,6 @@ tags:
   - apple
 ---
 
-# Apple Passwords 2024
-
 WWDC this year brought an [actual Passwords app from Apple](https://www.theverge.com/2024/6/10/24175505/apple-password-app-passkey-manager-windows-mac-icloud) for iOS and Mac. Two years ago, I moved temporarily from 1Password to Apple Keychain.
 
 Previously, on [brookshelley.com](https://brookshelley.com/posts/2021-08-23-moving-back-to-keychain-from-1password/)
