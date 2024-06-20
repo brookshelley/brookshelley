@@ -4,6 +4,26 @@ draft: false
 type: books 
 ---
 
+### A Country of Ghosts
+
+Anarchy!
+
+### Jumpnauts
+
+Some interesting bits of Chinese mythos sadly in a book with a lot of bad love triangle and blockchain.
+
+### Player Piano
+
+Vonnegut started strong.
+
+### The Cat Who Saved Books
+
+Cute.
+
+### The Book You are Looking for is in the Library
+
+[Life-affirming](https://www.nytimes.com/2023/09/05/books/what-you-are-looking-for-is-in-the-library-michiko-aoyama.html).
+
 ### In Ascension
 
 Kinda wild!

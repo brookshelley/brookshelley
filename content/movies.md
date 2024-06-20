@@ -4,6 +4,131 @@ draft: false
 type: movies 
 ---
 
+### Tarot
+
+A way worse Final Destination.
+
+### The First Omen
+
+It would be more fun if I enjoyed this kinda thing but I’ve watched so many of these and they never hit.
+
+### Stress Positions
+
+This felt like my limited experience of trans New York, and is also the best pandemic movie.
+
+### Furiosa
+
+Rude Tales ass names.
+
+### Fall Guy
+
+Stunts are cool.
+
+### Pulse
+
+Still hits.
+
+### Chime
+
+Honestly expected shōnen bat to appear.
+Perfectly disturbing.
+
+### Bones and All
+
+Music wasn’t as good as Challengers but the movie was more fun.
+
+### Triangle
+
+Triangle of badness.
+
+### Challengers
+
+Not for me.
+
+### Maboroshi no Hikari
+
+Koreeda really knows how to make devastating films about family.
+
+### I Saw the TV Glow
+
+“I just like TV shows”
+
+### Ministry of Ungentlemanly Warfare
+
+Killing nazis is great.
+
+### Abigail
+
+Unofficial M4gan? 
+
+### Evil Does Not Exist
+
+Yow.
+
+### Arcadian
+
+Nic Cage being somewhat low-key is always wild.
+
+### American Gangster
+
+Ridley Scott has a few slam dunks and this is one of them.
+
+### Fire Island
+
+Great camp movie for a camping trip.
+
+### Mars Express
+
+Super cool!
+
+### Argo
+
+A hoot.
+
+### Problemista
+
+One day I will make a brilliant movie to malign my most hated piece of software.
+
+### Zone of Interest
+
+The sound. Horrifying.
+
+### Humane
+
+lol.this would also make a fun play.
+
+### Monkey Man
+
+Hell yes.
+
+### The People’s Joker
+
+Some brilliance and a lot of silliness.
+
+### Rebel Moon
+
+Tell don’t show.
+
+### Immaculate
+
+Yawn
+
+### Civil War
+
+Holy shit what a movie!
+
+### Beekeeper
+
+Absurd but also a totally fun savior fantasy.
+
+### American Society of Magical Negroes
+
+Kinda wild that this was also a romantic comedy.
+
+### Late Night with the Devil
+
+A wild blend of a lot of horror into a new classic.
+
 ### Barbie
 
 Imagine being the only gay Barbie in a world that ignores you. Mid as hell.
