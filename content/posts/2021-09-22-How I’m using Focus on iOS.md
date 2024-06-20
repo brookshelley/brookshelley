@@ -36,7 +36,7 @@ Every year I update this blog with my homescreen, and this year I’ve got *two*
 
 The left widget is Fantastical and Overcast, and the right one is Albums, Overcast, and Things. The home row stays the same for all modes.
 
-![work](/workfocus.jpeg)
+![work](/worklock.jpeg)
 
 For work, I also have two widgets, but they’re only Fantastical and Things. The idea is that if I’m looking at my phone I just need to know what’s next and what I want to do today. Soon I'll have a work phone and might not be able to view my work calendar on my personal phone, which will be a weird time for scheduling and might end with not having a work Focus. I'll find out more next month, I'm told. Things isn't approved yet on our new computers, so that makes GTD stuff tricky as well. I might be Slack DMing myself a lot soon, or trying to use Omnifocus at work.
 
