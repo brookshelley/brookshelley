@@ -4,6 +4,58 @@ draft: false
 type: movies 
 ---
 
+### The Watchers
+
+Good vibes and a solid pace.
+
+### In a Violent Nature
+
+Conceptually interesting, but mostly unsatisfying.
+
+### Kinds of Kindness
+
+Hilarious.
+
+### The Boy and the Heron
+
+Gorgeous.
+
+### Master Gardner
+
+Hammer time.
+
+### The Beast
+
+Super slow from the jump. Back half was way more interesting but ultimately not my jam.
+
+### The Strangers: Chapter 1
+
+One of the more engaging thrillers I’ve seen in a minute.
+
+### Hit Man
+
+A hoot. More charming than I expected.
+
+### Sex and the City 2
+
+Just yelling “who wanted this?!”
+
+### Sex and the City
+
+All the outfits are deeply upsetting but the line “BOTH OF THEM?!” got me.
+
+### Lumberjack Monster
+
+SPD psycho.
+
+### Downsizing
+
+A little too self-serious at times but weird and good.
+
+### La Chimera
+
+Yow! Charming as hell!
+
 ### Tarot
 
 A way worse Final Destination.
