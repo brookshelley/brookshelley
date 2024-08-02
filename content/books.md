@@ -4,6 +4,26 @@ draft: false
 type: books 
 ---
 
+### Until Thy Wrath Be Past
+
+Fun to see how this got turned into a show.
+
+### Witch King
+
+Felt like it was gearing up for a series but found a good ending.
+
+### Aurora
+
+Maybe don’t go to space.
+
+### Poster Girl
+
+Fun.
+
+### Aleph Extraction
+
+Spies in space is still a hit.
+
 ### Moonbound
 
 Loved it.

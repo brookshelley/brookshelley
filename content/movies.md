@@ -4,6 +4,54 @@ draft: false
 type: movies 
 ---
 
+### Joker
+
+Maybe Todd should’ve just stopped.
+
+### Kill
+
+Chekhov’s hammer.
+
+### Quiet Place: Day One
+
+Good job cat.
+
+### Waterworld
+
+Wet Max.
+
+### Bad Boys: Ride or Die
+
+Lots of fun action.
+
+### Synechdoche
+
+Hits different at 39.
+
+### Thelma
+
+Wow. I loved every minute. All of the action tropes slowed and heightened. Straight up the middle good time.
+
+### Longlegs
+
+Hail Satan.
+
+### Kingdom of the Planet of the Apes
+
+I kinda don’t care about these CGI apes. Like, the CGI is good but it’d be cooler if they were cats.
+
+### Beverly Hills Cop
+
+Haven’t seen this since I was a kid and it still rules.
+
+### Manchurian Candidate
+
+Liev Schreiber inexplicably playing Buttigieg.
+
+### Fly Me to the Moon
+
+The kind of up the middle romantic comedy I’ve missed.
+
 ### The Watchers
 
 Good vibes and a solid pace.
