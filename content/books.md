@@ -4,6 +4,18 @@ draft: false
 type: books 
 ---
 
+### 2312
+
+KSR you’ve done it again.
+
+### Available Dark
+
+What if the detective was also a fuckup
+
+### New York 2140
+
+Just imagine the smell
+
 ### Until Thy Wrath Be Past
 
 Fun to see how this got turned into a show.

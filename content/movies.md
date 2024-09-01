@@ -4,6 +4,74 @@ draft: false
 type: movies 
 ---
 
+### Missing
+
+wild and slow
+
+### Chronicle
+
+Still maybe the most fun super power movie next to Thelma.
+
+### Thin Red Line
+
+War sucks.
+
+### The Killer
+
+A few cool bits but deeply in the mid-quality Netflix realm.
+
+### Prevenge
+
+A fun film similar to My Wrongs 8245–8249 & 117
+
+### The International
+
+Halogen to the core
+
+### Syriana
+
+What a cast!
+
+### Alien: Romulus
+
+Right in my q zone.
+
+### The Old Guard
+
+Re-watching after listening to the Blank Check episode and it was much more fun this time.
+
+### Twisters
+
+I like the blank check theory that glen powell had sex with the mom, which led to no kissing at the end.
+
+### Sneakers
+
+Ben Kingsley’s little ponytail.
+
+### The Instigators
+
+It’s nice to see a fun action comedy.
+
+### Borderlands
+
+Wow this was horrible. Bobby Lee the only laugh.
+
+### Psycho (remake)
+
+Watched because Blank Check mentioned it on a Demme episode. Weird. 
+
+### Maxxxine
+
+Way more fun than I expected.
+
+### Lucy
+
+Absurd. 
+
+### Trap
+
+Thankfully this takes place in the Unbreakable universe.
+
 ### Joker
 
 Maybe Todd should’ve just stopped.
