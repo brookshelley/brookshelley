@@ -59,8 +59,8 @@ header {
   font-size:var(--font-large);
   display: grid;
   grid-template-columns: 1fr 1fr;
-  margin-left:1rem;
-  margin-right:1rem;
+  margin-left:.7rem;
+  margin-right:.7rem;
 }
 
 .logo {
