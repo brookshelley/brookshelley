@@ -26,7 +26,7 @@ html {
   font-weight:200;
   font: -apple-system-body;
 }
-@media (min-width: 600px) { html { font-size:16px; } }
+@media (min-width: 600px) { html { font-size:15px; } }
 @media (min-width: 700px) { html { font-size:18px; } } 
 
 body {
@@ -59,8 +59,8 @@ header {
   font-size:var(--font-large);
   display: grid;
   grid-template-columns: 1fr 1fr;
-  margin-left:1rem;
-  margin-right:1rem;
+  margin-left:.7rem;
+  margin-right:.7rem;
 }
 
 .logo {
@@ -109,7 +109,7 @@ ul.flat {
 .site-title a {
   color:var(--color-default);
   font-family: var(--font-head);
-  margin-left: 10px;
+  margin-left: 5px;
 }
 
 h1 {
@@ -202,7 +202,7 @@ li.archive {
     margin-top:2px;
     }
   article {
-  margin: 1.4rem .5rem
+  margin: 1rem .5rem
   }
   main {
     margin-top: 0rem;
@@ -241,7 +241,7 @@ main {
 }
 
 article {
-  margin: 1.4em 1rem;
+  margin: 1em 1rem;
 }
 
 article b {
