@@ -3,6 +3,12 @@ title: "writing"
 type: about
 ---
 
+## apps
+
+### [mac](https://brookshelley.com/posts/2024-11-05-macsoftware/)
+
+### [phone](https://brookshelley.com/posts/2024-09-19-2024homescreen/)
+
 ## essays
 
 ### [Ninth Letter: Trans New Wave](http://www.ninthletter.com/trans-new-wave)
