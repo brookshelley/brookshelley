@@ -70,7 +70,7 @@ Since I got home, I've tried to just rest and decompress. As always, the toughes
 ## Gear
 - Enve
 - Garmin
-- Battery pack
+- Battery pack
 
 ## Bags
 - Musette
