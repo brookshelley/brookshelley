@@ -1,7 +1,7 @@
 ---
 type: posts
 title: "北関東のツア"
-description: 
+description: riding around kita kanto
 date: 2024-11-03
 tags:
   - japan
