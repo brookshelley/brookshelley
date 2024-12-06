@@ -1,5 +1,5 @@
 ---
-title: "writing"
+title: "apps and writing"
 type: about
 ---
 
