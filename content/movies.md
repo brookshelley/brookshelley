@@ -4,6 +4,147 @@ draft: false
 type: movies 
 ---
 
+### Ghostwatch
+
+Dated but still a fun haunting.
+
+### Annihilation
+
+A very weird adaptation, but I’ve seen it a dozen times and still love it.
+
+### The Thing
+
+I watch this and the sequel every year
+
+### Take Shelter
+
+Ok.
+
+### Transformers One
+
+A god-ordained king is why Britain always has free-flowing energon.
+
+### Re-Animator
+
+Wild that I saw Darkplace before this. Just the right amount of absurd wirh practical effect madness.
+
+### Anonymous Club
+
+Courtney Barnett sad.
+
+### Nocebo
+
+Much more interesting than the slate of catholic demon things out these days. Great music/foley, and a good weird vibe.
+
+### The Package
+
+Box a little bigger than the contents, but I enjoy a Tommy Lee as a bad guy flick.
+
+### Alien: Romulus
+
+As good at home as it was in the theater.
+
+### Antlers
+
+Potential but didn’t click
+
+### Next Exit
+
+Roadtrip!
+
+### The Call
+
+What if Your Name was evil.
+
+### The Ides of March
+
+The mids of march
+
+### Den of Thieves
+
+Much better when you skip all of Gerard Butler’s “troubled man” scenes.
+
+### The Town
+
+Hey I’m Boston here 
+
+### The Bird with the Crystal Plumage
+
+The music was giving me Daria vibes. Wacky but compelling.
+
+### Ouija: Origin of Evil
+
+Oh Marcus...
+
+### Deadpool vs Wolverine 
+
+I wonder if 10 year old Brook would’ve like this.
+
+### Wolfs
+
+Good mid-tier buddy comedy.
+
+### Megalopolis
+
+Just plain bad
+
+### The Substance
+
+A hoot! Reminds me of Italian horror gore stuff.
+Fun with a theater full of people losing it—I saw one guy leave the theater and then saw him crying when I went to the bathroom.
+
+### Afraid
+
+m3gan it was not
+
+### Slingshot
+
+Hoping for Sunshine, but it didn’t quite get there
+
+### Cuckoo
+
+I imagine Dan Stevens plays Legion in everything now.
+
+### Blink Twice
+
+If only everyone who visited Epstein’s island could have such a grisly end.
+
+### Vice
+
+How does anyone (me) have the time to be mad about all the stuff that happened in the past 40 years of their life in their ding dang shit country? It’s cool though, the war criminal endorsed Harris I guess.
+
+### Equalizer 3
+
+I hope they make 10 more of these.
+
+### Equalizer 2
+
+5 stars for driving.
+
+### Rebel Ridge
+
+Amazing. Wondered where this came from and then realized it was from the Green Room director. Brilliant and painful. 
+
+### Boarding Gate
+
+Lower-end WKW-esque thriller.
+
+### All the Old Knives
+
+Rewatching Berlin Station and every episode of that was better than this.
+
+### Extraction 2
+
+Netflix action bonanza.
+
+### さがす
+
+This went to interesting places, and slowly built to an emotional crescendo.
+
+### Chief of Staff
+
+Surprisingly competent B-grade spy thriller
+
 ### Missing
 
 wild and slow

@@ -4,6 +4,22 @@ draft: false
 type: books 
 ---
 
+### Gnomon
+
+Hard to follow at times, but fun and mysterious. I spent a while on the puzzle code but much like the one in Vandemeer, gave up after a while. 
+
+### Absolution
+
+A bit scattered in the final third/didn’t love Lowry in this incarnation.
+
+### The Fragile Threads of Power
+
+Glad to see this series continue even though there was a little more schlocky romance than I remembered. 
+
+### The Likeness
+
+A good procedural re-read.
+
 ### 2312
 
 KSR you’ve done it again.
