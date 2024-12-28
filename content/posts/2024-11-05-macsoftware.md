@@ -2,7 +2,7 @@
 type: posts 
 title: "Current Mac software" 
 date: 2024-11-05
-description: keeping this current
+description: refreshed regularly
 tags: 
   - apple 
   - tech 
