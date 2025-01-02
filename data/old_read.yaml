@@ -1,4 +1,22 @@
 books:
+- name: Super-Cannes
+  thumbnail: https://images-us.bookshop.org/ingram/9781250171504.jpg?height=500&v=v2
+  link: https://bookshop.org/p/books/super-cannes-j-g-ballard/9845408?ean=9781250171504
+- name: Vessel
+  thumbnail: https://images-us.bookshop.org/ingram/9781982121099.jpg?height=500&v=v2-5cac5b4b94cf6baa163662437ef33974
+  link: https://bookshop.org/p/books/vessel-lisa-a-nichols/6699048?ean=9781982121099
+- name: Static Ruin
+  thumbnail: https://images-us.bookshop.org/ingram/9781250195548.jpg?height=500&v=v2
+  link: https://bookshop.org/p/books/static-ruin-corey-j-white/9865095?ean=9781250195548
+- name: Void Black Shadow
+  thumbnail: https://images-us.bookshop.org/ingram/9780765396938.jpg?height=500&v=v2
+  link: https://bookshop.org/p/books/void-black-shadow-corey-j-white/7104088?ean=9780765396938
+- name: Do Androids Dream of Electric Sheep?
+  thumbnail: https://images-us.bookshop.org/ingram/9780345404473.jpg?height=500&v=v2-4c51fba9f8c65cc641a5b173f98e039b
+  link:	https://bookshop.org/p/books/do-androids-dream-of-electric-sheep-philip-k-dick/9044382?ean=9780345404473
+- name: A Murder of Quality
+  thumbnail: https://images-us.bookshop.org/ingram/9780143122586.jpg?height=500&v=v2
+  link: https://bookshop.org/p/books/a-murder-of-quality-john-le-carre/15557580?ean=9780143122586
 - name: An Unkindness of Magicians
   thumbnail: https://images-us.bookshop.org/ingram/9781481451208.jpg?height=500&v=v2
   link: https://bookshop.org/p/books/an-unkindness-of-magicians-volume-1-kat-howard/10316993?ean=9781481451208
