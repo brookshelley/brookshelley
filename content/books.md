@@ -4,6 +4,22 @@ draft: false
 type: books 
 ---
 
+### Mother Night
+
+First read of this one... kinda wacky, but I like the thought experiment about consequence.
+
+### Sirens of Titan
+
+A reread of a Vonnegut Classic. Got this and all his work in [fancy hardcover](https://amzn.to/4gVvsKS) and it’s been rad to read them again.
+
+### End of the World and the Hardboiled Wonderland
+
+An expanded new translation of my favorite Murakami novel. It’s been a while since I read the original translation so I can’t be certain what was added back, but the story was still compelling and weird.
+
+### The City and Its Uncertain Walls
+
+Another go from Murakami at fleshing-out an early novella. Sort of a sliding door of Hardboiled Wonderland. I loved the library and its old director. I did miss the noir aspects of the other version, but something about winter in the mountains was lovely. 
+
 ### Gnomon
 
 Hard to follow at times, but fun and mysterious. I spent a while on the puzzle code but much like the one in Vandemeer, gave up after a while. 
