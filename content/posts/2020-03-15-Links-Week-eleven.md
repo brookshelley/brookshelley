@@ -9,7 +9,6 @@ type: newsletter
 
 Welcome to a new world without toilet paper. Seriously, it’s fucking depressing seeing pictures of grocery stores post-hoarding. I hope everyone reading this cares for your fellow humans more than building a fort out of sanitizer and toilet paper. 
 
-
 Sorry for starting on a bummer note, but it’s kinda wild out there, eh?
 I hope you’re taking care of yourself, washing your hands for 20 seconds, using lotion to protect your skin, and breathing deeply. In this midst of the wild times, I bring you links and love from a train in Japan traveling 200 miles per hour. Everyone is wearing masks, and it’s gently raining outside of the window as we pass Mount Fuji.
 
