@@ -7,9 +7,6 @@ tags:
 type: newsletter
 ---
 
-First of all, look at this DUCK!
-
-{{< tweet user="hartyt_" id="1228149203261698048" >}}
 
 I’m writing this intro at my dining table, while someone cleans my house. Hiring a house-cleaner is one of the most awkward and also incredible things I’ve done in the past few years. I learned it’s a lot cheaper than I thought it would be—in Portland it cost 60 bucks a session. I haven’t figured out how to not feel like I’m in the way the whole time, or how to comfort Snorri, but at least my house is pretty damn clean for a few days.
 
