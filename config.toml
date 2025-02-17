@@ -12,6 +12,12 @@ pygmentscodefencesguesssyntax = true
 summaryLength = 20
 ignoreErrors = ["error-remote-getjson"]
 
+[markup]
+[markup.goldmark]
+  [markup.goldmark.parser]
+    [markup.goldmark.parser.attribute]
+      block = true
+
 [params]
   mainSections = ["posts"]
   disableDisqusTypes = ["page", "posts"]
