@@ -2230,6 +2230,6 @@ upsetting story. A lot of this had me wondering: straight people, are you ok?
 
 ## footnotes
 
-[*](#les) <a name="les"></a>Lesbian Book Club
+[*]{#les}Lesbian Book Club
 
-[](#ghost) <a name="ghost"></a> Ghost Book Club
+[]{#ghost}Ghost Book Club
