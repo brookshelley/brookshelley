@@ -25,7 +25,7 @@ Whether it’s a one week or one month-long trip, I bring the same things each t
 
 None of the stuff I wear is particularly cheap, or particularly expensive, but on the whole, it’s held up well to lots of abuse, and many washes. The key to bringing very little clothing is a willingness to wash your clothes in the sink or shower while you bathe. If you find a washing machine, by all means, take advantage of it, but these clothes dry pretty quickly, and I prefer not to hope for something automated. If something gets destroyed (only happened once with some jeans), I can usually find a replacement, but taking stock before a trip of any of your clothing that’s in danger of ripping is a great plan.
 
-## Tops <a name="shirts"></a>
+## Tops {#shirts}
 
 Day or night, the tops I wear look pretty good, wick sweat ok, and tend to hold up to a day of hiking. I spent a while only wearing wool, but recently got stoked on a few other shirts. Sadly, Ryu doesn’t make the wool shirt I wear anymore, but there are a bunch of brands making wool shirts these days, so have a look around if that appeals to you.
 
@@ -35,13 +35,13 @@ A friend convinced me to try out these [hemp shirts](https://jungmaven.com/colle
 
 I wear one of these shirts while I’m sleeping, and one during the day, and kinda rotate them around. If I’m gone for longer I might bring 2 shirts and a tank top, so I don’t have to wash as much.
 
-## Bottoms <a name="pants"></a>
+## Bottoms {#pants}
 
 Most of the time I wear [Outdoor Voices RecTrek pants](https://www.outdoorvoices.com/products/rectrek-pant?variant=34894684485), which are comfy, stretchy, and cute. They run out of sizes all the time or I’d have a couple pairs. They dress up for the office ok, but also handle a _lot_ of walking. Since I can’t find another black XL pair, I am currently trying out [another brand](https://coalatree.com/collections/apparel/products/slim-fit-trailhead-pants-black). These Coalatree pants are also pretty great, though the tie at the bottom of each leg is kinda ridiculous. They’re unisex, which means the fit might be weird, but they’ve also got a _ergonomic crotch gusset_ a la [Chuck Norris action jeans](https://www.artofmanliness.com/articles/chuck-norris-action-jeans/). I don’t know _why_ you’d do tons of high kicks in pants, but either of these pairs would handle them with gusto.
 
 You probably already have your preferred brand of legging, but for me, I’m usually wearing either [Ryu](https://ryu.com/shop/us/women/bottoms/cardio-tights) or [Girlfriend](https://www.girlfriend.com/collections/leggings/products/black-compressive-high-rise-legging). I’ve heard great things about Outdoor Voices leggings, but I’m waiting until I destroy a few more old pairs before I try them. For night time, leggings or [Foxers](https://www.foxers.com/black-tomboy-boxer-brief/) are great for wandering around my Airbnb or hotel room.
 
-## Underwear <a name="underwear"></a>
+## Underwear {#underwear}
 
 Breathable, light, comfortable, and durable is the name of the game for underwear. I’m always on the search for a pair that hits all four targets. Thus far, some have done ok, but most aren’t that durable. A better pair I tried were [Knix](https://knix.com/collections/underwear/products/athletic-bikini), which were super comfy, but eventually blew up. Sometimes I bring [MeUndies](https://www.meundies.com/products/womens-bikini), but they too tend to fall apart too soon. These wool [Patagonia briefs](https://www.patagonia.com/product/womens-active-briefs-underwear/32396.html?dwvar_32396_color=BLK&cgid=socks-underwear#tile-7=&start=1&sz=24) were alright. I feel like I’ll be on the hunt indefinitely, but maybe a few pairs of one of these will do if for you. All three are comfortable, and dry fast, but the Knix and Patagonia pairs are better for sweaty hikes as the MeUndies tend to get a little swamped.
 
@@ -49,11 +49,11 @@ Three pairs of underwear might seem like too few, and feel free to adjust as nec
 
 For bras, I stick to sports bras from Pact or Calvin Klein. I hate underwrites, and sports bras last a lot longer between washes.
 
-## Jacket <a name="jacket"></a>
+## Jacket {#jacket}
 
 Your mileage may vary heavily on style and need for this category, but my go-tos always include the [Torre Wind Pro](https://missionworkshop.com/products/the-torre-womens-high-performance-windpro-hoodie-jacket). I recently bought a second one of these, and even though I think Mission Workshop is getting rid of their women’s line (boo hiss), this is an incredible hoodie. It is DWR coated so light rain just falls off, and also fleece-lined so by itself I can handle temperatures down to 8c/46f. Colder or wetter, and I bring an overcoat. The two coats in my rotation right now are the [Arcteryx Codetta](https://www.arcteryx.com/us/en/shop/womens/codetta-coat) and the [Snow Peak FR Rain Trench](https://snowpeak.com/products/jk-18au004-fr-rain-trench?variant=13074792972386) (which is also _fireproof_?!). Good layering means even at freezing temperatures, I do well. If it was super cold, I’d probably include a wool sweater to wear under or over my hoodie, and I’d throw my leggings on under my pants.
 
-## Shoes and socks <a name="shoes"></a>
+## Shoes and socks {#shoes}
 
 [Bombas](https://bombas.com/products/women-s-solid-invisibles-tan-small?variant=black) or Darn Tough are the way to go for socks. Most of the time it’s not cold enough to wear longer socks, so I wear no-shows or ankle socks. Wool means these also wick well, and wash easily—depending on your food funk, a couple days is usually fine between washes.
 
