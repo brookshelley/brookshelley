@@ -12,9 +12,6 @@ pygmentscodefencesguesssyntax = true
 summaryLength = 20
 ignoreErrors = ["error-remote-getjson"]
 
-[frontmatter]
- date = ['filename' , ':default']
-
 [markup]
 [markup.goldmark]
   [markup.goldmark.parser]
