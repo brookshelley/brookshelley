@@ -9,8 +9,6 @@ copyright = "© Brook Shelley 2024"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
-
-paginate = 6
 summaryLength = 20
 ignoreErrors = ["error-remote-getjson"]
 
@@ -47,6 +45,11 @@ ignoreErrors = ["error-remote-getjson"]
     name = "about"
     icon = "info"
     url = "/about"
+
+[pagination]
+    disableAliases = false
+    pagerSize = 6
+    path = 'page'
 
 [minify]
   disableCSS = false
