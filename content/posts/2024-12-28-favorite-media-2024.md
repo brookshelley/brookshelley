@@ -6,7 +6,6 @@ description: watching/reading/listening
 tags: 
   - lists 
   - best 
-  - EOY 
 ---
 
 The year flew by between a few trips, lots of work changes, an a ton of cycling. Continuing my COVID-era tradition, I listened to far more podcasts than music, but I did [buy a record player](https://brookshelley.com/posts/2024-1-15-record-player/). I rode many a kilometer  listening to [Blank Check](https://www.blankcheckpod.com), [Watts Occurring](https://www.podbean.com/podcast-detail/2tdw3-18d687/Geraint-Thomas-Cycling-Club-Podcast), and [Rude Tales of Magic](https://www.rudetalesofmagic.com).
