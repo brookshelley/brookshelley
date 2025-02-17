@@ -15,7 +15,10 @@ Previously, on [brookshelley.com](https://brookshelley.com/posts/2021-08-23-movi
 
 > With the announcement of [1Password 8](https://blog.1password.com/1password-8-for-mac-is-now-in-early-access/) and its move to Electron, along with iOS 15 bringing a Safari password service capable of creating two-factor passwords, it seems like the perfect time to try moving back to the keychain.
 
-> Seven years later, and a number of funding rounds for 1Password means they're catering to enterprise users more explicitly, which isn't much solace as an individual user. I don't doubt 1Password will continue to be an excellent app for some time to come, but I wanted to see if I could keep it exclusively for work
+> Seven years later, and a number of funding rounds for 1Password means they're 
+> catering to enterprise users more explicitly, which isn't much solace as an 
+> individual user. I don't doubt 1Password will continue to be an excellent app for 
+> some time to come, but I wanted to see if I could keep it exclusively for work
 
 I moved back to 1Password due to a few remaining conflicts and frustration with the autofill and missing keyboard shortcuts for keychain, but two years later, 1Password is working less-often, and with more friction and Apple just [Sherlocked](https://www.npr.org/2024/06/17/g-s1-4912/apple-app-store-obsolete-sherlocked-tapeacall-watson-copy) it.
 
