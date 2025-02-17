@@ -9,3 +9,6 @@ Thumbs.db
 .rbenv-version
 .rvmrc
 .nova/
+
+# Local Netlify folder
+.netlify
