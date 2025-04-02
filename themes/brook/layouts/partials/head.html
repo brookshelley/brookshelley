@@ -21,9 +21,9 @@
 	<link rel="me" href="https://xoxo.zone/@brook" />
 
 	 <meta name="viewport" content="width=device-width, initial-scale=1">
-	 {{ with .OutputFormats.Get "rss" -}}
-	 {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
-	 {{ end -}}
+	{{ with .OutputFormats.Get "rss" }}
+	  {{ printf `<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
+	{{ end }}
 	 <style type="text/css">html {
 		 line-height: 1.4; 
 		 padding: calc(2px + 5vw);
