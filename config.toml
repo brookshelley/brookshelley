@@ -96,4 +96,5 @@ ignoreErrors = ["error-remote-getjson"]
     weight = 3
 
 [outputs]
-  home = ["html", "rss"]
+  home = ["html", "rss", "json"]
+  rss = ["rss"]
