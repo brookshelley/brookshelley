@@ -1,4 +1,4 @@
-baseURL = "https://brookshelley.com/"
+  baseURL = "https://brookshelley.com/"
 languageCode = "en-us"
 title = "brook shelley"
 theme = "brook"
@@ -96,4 +96,4 @@ ignoreErrors = ["error-remote-getjson"]
     weight = 3
 
 [outputs]
-  home = ["HTML", "RSS"]
+  home = ["html", "rss"]
