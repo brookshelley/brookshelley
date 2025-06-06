@@ -7,7 +7,7 @@ type: about
 
 ### [mac](https://brookshelley.com/posts/2024-11-05-macsoftware/)
 
-### [phone](https://brookshelley.com/posts/2024-09-19-2024homescreen/)
+### [phone](https://brookshelley.com/posts/2025-06-05-phoneupdate)
 
 ## essays
 
