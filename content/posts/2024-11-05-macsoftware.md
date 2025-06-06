@@ -13,7 +13,7 @@ This will be a regularly updated list of software I use—every change isn't wor
 
 ## The apps
 
-- **[Alfred](https://www.alfredapp.com)**
+- **[Alfred](https://www.alfredapp.com)** (testing [Monarch](https://www.monarchlauncher.com/download))
 	
 	With an increase in AI crap on apps like Raycast, I decided to move to something I pay for, that doesn't have a load of VC funding to justify. It's my favorite kind of software: well built, fast, and run by a few smart folks.
 
@@ -48,7 +48,7 @@ This will be a regularly updated list of software I use—every change isn't wor
 
 - **[Reeder Classic](https://apps.apple.com/us/app/reeder-5/id1529448980?mt=12)**
 
-	I'm a little worried now that Reeder is the name of a new, very different app, and the one I know and love is called "classic", but it still works really well, so we'll see.
+	I'm a little worried now that Reeder is the name of a new, very different app, and the one I know and love is called "classic", but it still works really well, so we'll see. **June 2025 update** I'm using the new Reeder in conjunction with this for Youtube and some other things. It's getting better quickly, but still doesn't work as well for RSS and can't handle newsletters.
 	
 	This is my [main news and entertainment
 	app](https://www.brookshelley.com/posts/2019-02-10-slower-reading/), and I
