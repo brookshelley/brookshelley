@@ -1,4 +1,4 @@
-  baseURL = "https://brookshelley.com/"
+baseURL = "https://brookshelley.com/"
 languageCode = "en-us"
 title = "brook shelley"
 theme = "brook"
@@ -51,6 +51,9 @@ ignoreErrors = ["error-remote-getjson"]
     name = "about"
     icon = "info"
     url = "/about"
+
+[frontmatter]
+    date = [:filename, 'publishdate']
 
 [pagination]
     disableAliases = false
