@@ -53,7 +53,7 @@ ignoreErrors = ["error-remote-getjson"]
     url = "/about"
 
 [frontmatter]
-    date = [:filename, 'publishdate']
+    date = [':filename', 'publishdate']
 
 [pagination]
     disableAliases = false
