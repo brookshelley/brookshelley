@@ -4,6 +4,31 @@ draft: false
 type: books 
 ---
 
+### The Faithful Place
+
+Re-read because I was hankering for a good procedural and picked-up the entire Tana French collection.
+
+### The Nearest Exit 
+
+I wish Berlin Station got more seasons.
+
+### Hard Light
+
+Cass keeps being Cass, but now in the UK.
+
+
+### Stardust Grail
+
+A fun space heist that could turn into a space opera with sequels.
+
+### The Tourist
+
+A spy thriller re-read.
+
+### Same Bed Different Dreams
+
+Learned a lot about Korean history and wild novel experimentation.
+
 ### Surface Detail
 
 Ah, space hell!
