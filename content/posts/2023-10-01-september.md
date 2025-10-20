@@ -1,10 +1,10 @@
 ---
+type: posts
 title: "september"
+description: 
 date: 2023-10-01
-description: hot in september
 tags:
   - mediadiet
-type: posts
 ---
 
 Lots of riding and a big build-up to a century and a race.
