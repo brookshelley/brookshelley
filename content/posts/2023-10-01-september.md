@@ -1,5 +1,6 @@
 ---
 title: "september"
+date: 2023-10-01
 description: hot in september
 tags:
   - mediadiet
