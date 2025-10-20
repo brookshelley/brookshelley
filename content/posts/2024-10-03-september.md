@@ -1,9 +1,9 @@
 ---
 type: posts
-title: "september"
+title: september
 date: 2024-10-03
 tags:
-  - mediadiet
+ - mediadiet
 ---
 
 ## Books
