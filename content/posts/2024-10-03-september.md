@@ -1,6 +1,6 @@
 ---
 type: posts
-title: "September"
+title: September
 tags:
   - mediadiet
 ---

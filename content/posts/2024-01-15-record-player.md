@@ -1,5 +1,5 @@
 ---
-title: "a record player at last"
+title: a record player at last
 date: 2024-01-15
 description: vinyl
 tags:
