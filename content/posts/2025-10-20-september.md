@@ -10,6 +10,10 @@ Training went great and led to an excellent event time at the end of the month.
 
 ## Books
 
+### Ministry for the Future
+
+Still prescient and important. If only we had a UN willing to move like this.
+
 ## Movies
 
 ### One Battle After Another
