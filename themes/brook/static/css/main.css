@@ -58,6 +58,8 @@ pre {
 text-wrap: pretty;
 font-family: var(--font-head);
 max-width: var(--spacing-maxwidth-para);
+border: none;
+background: #333;
 }
 
 header {
