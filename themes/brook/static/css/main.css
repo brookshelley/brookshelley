@@ -149,7 +149,7 @@ li.archive {
   margin-right:30px;
 }
 
-.newsletter li, .post li {
+.newsletter li, .baseline li {
   list-style-type: circle;
   font-family: var(--font-body);
   max-width: var(--spacing-maxwidth-para);
@@ -159,7 +159,7 @@ li.archive {
   margin: 0 2px;
 }
 
-.post code .newsletter code {
+.baseline code .newsletter code {
   border: none;
   background: #333;
   word-break: break-all;
