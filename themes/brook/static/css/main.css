@@ -159,7 +159,7 @@ li.archive {
   margin: 0 2px;
 }
 
-.baseline code .newsletter code {
+.baseline pre .newsletter pre {
   border: none;
   background: #333;
   word-break: break-all;
