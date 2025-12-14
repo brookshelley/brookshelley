@@ -159,7 +159,7 @@ li.archive {
   margin: 0 2px;
 }
 
-.newsletter code {
+.post code .newsletter code {
   border: none;
   background: #333;
   word-break: break-all;
