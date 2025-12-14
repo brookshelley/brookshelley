@@ -35,6 +35,15 @@ font-family:var(--font-body);
 font-weight:300;
 }
 
+pre code {
+  border: none;
+  background: #333;
+  font-size: $base-font-size * 0.875;
+  line-height: 1em;
+  letter-spacing: normal;
+  word-break: break-all;
+}
+
 .thumb {		
   width:60px;		
   height:auto;		
@@ -153,6 +162,12 @@ li.archive {
   list-style-type: circle;
   font-family: var(--font-body);
   max-width: var(--spacing-maxwidth-para);
+  .quote {
+    margin: 0;
+    background: #eee;
+    padding: 1em;
+    border-radius: 1em;
+  }
 }
 
 .newsletter a, .baseline a {
