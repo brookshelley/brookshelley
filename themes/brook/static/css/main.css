@@ -163,7 +163,7 @@ li.archive {
   border: none;
   background: #333;
   word-break: break-all;
-  max-width:55rem;
+  max-width: var(--spacing-maxwidth-para);
 }
 
 .newsletter .flat {
