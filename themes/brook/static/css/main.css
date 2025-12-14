@@ -54,6 +54,11 @@ p, article li {
   margin-left:5px;
 }
 
+pre {
+  text-wrap: pretty;
+  font-family: var(--font-head);
+}
+
 header {
   font-size:var(--font-large);
   display: grid;
