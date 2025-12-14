@@ -9,7 +9,7 @@ tags:
 
 ## Books ##
 
-### All Systems Red# ###
+### All Systems Red ###
 
 Pretty fun book about a "murderbot" who would rather be watching tv dramas
 than shooting anything. I'm looking forward to the next few books.
