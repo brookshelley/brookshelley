@@ -1,13 +1,12 @@
 ---
 type: posts
-title: ""
+title: "Japan Tour Three: Shikoku"
 description:
 tags: 
 - cycling
 - backpacks
 - japan
 ---
-# Japan Tour Three: Shikoku
 
 A version of this appeared in my [newsletter](https://buttondown.com/brookshelley/archive/df-2025-12-01/) a few weeks ago, but I wanted to expand on that report and provide a detailed list of the gear I used for the sickos out there. Enjoy~ 
 
