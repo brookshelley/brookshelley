@@ -1,7 +1,7 @@
 ---
 type: posts
 title: "Japan Tour Three: Shikoku"
-description:
+description: riding 1200km in Japan
 tags: 
 - cycling
 - backpacks
