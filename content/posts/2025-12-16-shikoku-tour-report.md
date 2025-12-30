@@ -30,7 +30,7 @@ Thanks for being accommodating and easy to travel with, Rory!
 
 ## Route
 
-A [lap of Shikoku](https://cycling-island-shikoku.com/en/route_1000_en.html)beginning in Onomichi, on the main island of Honshu. We spent the first day riding across the Shinminani Kaido bridges to Saijō. We continued to ride ~100km a day to Tokushima, Takamatsu, Shikishui, Kochi (rest day), Azhishuri Misaki, Uwajima, and Matsuyama before returning across the bridge again on our final day to Onomichi. [My Strava](https://www.strava.com/activities/16462093419) has more details, and some photos if you want to see route and daily breakdown. 
+A [lap of Shikoku](https://cycling-island-shikoku.com/en/route_1000_en.html) that began in Onomichi, on the main island of Honshu. We spent the first day riding across the Shinminani Kaido bridges to Saijō. We continued to ride ~100km a day to Tokushima, Takamatsu, Shikishui, Kochi (rest day), Azhishuri Misaki, Uwajima, and Matsuyama before returning across the bridge again on our final day to Onomichi. [My Strava](https://www.strava.com/activities/16462093419) has more details, and some photos if you want to see route and daily breakdown. 
 
 ## Gear
 
