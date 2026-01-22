@@ -5,9 +5,9 @@ type: about
 
 ## apps
 
-### [mac](https://brookshelley.com/posts/2024-11-05-macsoftware/)
+### [mac](https://brookshelley.com/posts/macsoftware/)
 
-### [phone](https://brookshelley.com/posts/2025-06-05-phoneupdate)
+### [phone](https://brookshelley.com/posts/phoneupdate/)
 
 ## essays
 
