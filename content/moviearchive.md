@@ -4,7 +4,234 @@ draft: false
 type: media
 ---
 
-_years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020) [2021](#2021)[2022](#2022)[2023](#2023)[2024](#2024)_
+_years: [2016](#2016) [2017](#2017) [2018](#2018) [2019](#2019) [2020](#2020) [2021](#2021)[2022](#2022)[2023](#2023)[2024](#2024)[2025](#2025)_
+
+## 2025 {#2025}
+
+### If I Had Legs I Would Kick You
+
+Byrne doing incredible work in the most upsetting movie I've seen in years.
+
+### Sherlock Jr.
+
+Not an ounce of fat. Every bit of the fourth-wall theater scene had me guffawing. What a picture!
+
+### Keeper
+
+Claustrophobic cabin horror.
+
+### Wake Up Dead Man
+
+Fantastic entry in a series I hope never ends. I love how many actors Rian manages to cram into these things.
+
+### It Ends
+
+It fun.
+
+### Oh. What. Fun.
+
+Oh! It's the Holdovers goober. I wish Peripheral got more seasons. This could've been so much better
+
+### Running Man
+
+Timely, but ironically watched in a large corporate movie theater.
+
+### Man Finds Tape
+
+Decent for the budget with some interesting stuff but found footage framing let it down.
+
+### Chainsaw Man
+
+Saw this in Tokyo and it ripped
+
+### Predator: Badlands 
+
+Kill your father; choose your family
+
+### Sorcerer
+
+The most tense movie about shipping.
+
+### Bugonia
+
+Amazing remake with some of the best shot composition I've seen. Delightful.
+
+### Him
+
+Better than I expected, though the ending felt rushed and a little confused.
+
+### Marshmallow
+
+Kinda fun low-budget horror.
+
+### House of Dynamite
+
+Torn between being interested in the idea this was a realistic depiction of a shitshow and reeling a little from the lack of catharsis.
+
+### The Long Walk
+
+David Jonsson absolutely stellar. Grim!
+
+### The Strangers: Chapter 2
+
+This series is like a worse Funny Games, yea?
+
+### The Roses
+
+Demented but not very good or fun 
+
+### The Astronaut
+
+Started-out with potential but woof.
+
+### The Woman in Cabin 10
+
+Gaslight girlboss.
+
+### Hallow Road
+
+If this was an American couple they would've driven at top speed from the jump.
+
+### Roofman
+
+Channing Tatum and Kirsten Dunst are very charming.
+
+### Relay
+
+Surprisingly tight and entertaining. I love a weird little espionage story.
+
+### Honey Don't
+
+A mess but mostly an ok one?
+
+### Together
+
+Hey.
+
+### Fargo
+
+Every time I watch this is say "what a picture!"
+
+### Superman
+
+A superhero movie that is actually fun? Wow.
+
+### Eddington
+
+A mess, but maybe interesting as a marxist text?
+
+### Pavements
+
+I wasn't a huge Pavements fan (more of a Silver Jews gal), but this was a cool way of doing a musical biopic.
+
+### Miller's Crossing
+
+I'm not big on old-timey gangster films but this was at least well-plotted and had some fun bits
+
+### One Battle After Another
+
+Finally a movie that has heart and gets it. Gorgeous.
+
+### Splitsville
+
+A hopeful relationship movie?? Ok.
+
+### Fantastic Four
+
+Mediocre four, more like. 
+
+### Master and Commander
+
+Old time-y boat stuff is one of my least favorite things—up there with musicals, horses, and westerns. I liked the weevil joke and I hated all the hats. Men really did just sail around and shoot at each other back then, huh. Russel Crowe desperately needs a haircut and I miss his bad Italian accent from Pope's Exorcist. Frilly shirts are a crime.
+
+### Nobody 2
+
+Great time at the movies. Colin Hanks as a villain: yes.
+
+### Naked Gun
+
+Not for me.
+Finally a fun millennial shitty relationship movie. Funny with great fighting choreography.
+
+### Raising Arizona
+
+What a picture! Funny and charming.
+
+### Megan 2.0
+
+This could've been a new horror franchise but it's just kinda bland.
+
+### Ballerina
+
+Absolutely absurd, but fun choreography.
+
+### F1
+
+Vroom vroom.
+
+### Burn After Reading
+
+Still funny.
+
+### 28 Years Later
+
+When Danny Boyle hits...
+
+### Final Destination: Bloodlines
+
+Showing the Monkey who's boss.
+
+### Final Destination
+
+Man, you really can't escape death, huh.
+
+### The Amateur
+
+What if a spy, but not very good.
+
+### Accountant 2
+
+He's got three special things: accounting and killing... and a... brother?
+
+### Friendship
+
+Don't make friends too fast.
+
+### Companion
+
+A lot more fun and well-executed than I expected. A bit of death becomes her.
+
+### Presence
+
+Dang that was great.
+
+### Red Rooms
+
+Tough watch! In retrospect I really enjoyed the determined protagonist, but initially I was on edge thinking I’d be subjected to something horrific. Thankfully the film captures responses instead of triggers.
+
+### Den of Thieves 2: Pantera
+
+Scumbag action film of the year.
+
+### Get Away
+
+I liked what it was trying for, but it was little too silly.
+
+### Non-stop
+
+Continuing the mid-tier Liam movies I've seen before series.
+
+### The Commuter
+
+Mid-tier Liam action I forgot I'd seen before.
+
+### The End
+
+My kind of musical.
+
+### Cloud
+
+Wanted to see this in theaters in Japan last year but the timing didn't work out. I love that everyone in this sucks. Also shout out to the suburban?!? What a weird car to have in Japan.
 
 ## 2024 {#2024}
 
