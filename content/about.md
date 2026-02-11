@@ -15,11 +15,14 @@ type: about
 
 ### [Oregon Humanities: Also Fire](http://oregonhumanities.org/rll/beyond-the-margins/also-fire/)
 
-### [The Toast: Queer Spaces](http://the-toast.net/2016/04/18/everyone-but-cis-men-creating-better-safe-spaces-for-lgbt-people/)
 
-### [The Toast: Dating as a Trans Woman](http://the-toast.net/2014/09/08/dating-women-trans-woman-suggestions/)
+### Sadly, the Toast no longer exists save for archive.org
 
-### [The Toast: Trans in Tech](http://the-toast.net/2014/02/07/trans-tech-industry/)
+[The Toast: Queer Spaces](http://the-toast.net/2016/04/18/everyone-but-cis-men-creating-better-safe-spaces-for-lgbt-people/)
+
+[The Toast: Dating as a Trans Woman](http://the-toast.net/2014/09/08/dating-women-trans-woman-suggestions/)
+
+[The Toast: Trans in Tech](http://the-toast.net/2014/02/07/trans-tech-industry/)
 
 ### [Uses This Interview](https://usesthis.com/interviews/brook.shelley/)
 
@@ -29,9 +32,9 @@ type: about
 
 ## books
 
-### [F, M, or Other: Quarrels with the Gender Binary](https://knighterrantpress.bigcartel.com/product/f-m-or-other-quarrels-with-the-gender-binary-volume-1)
+### [F, M, or Other: Quarrels with the Gender Binary](https://www.knighterrantpress.com/product-page/f-m-or-other-quarrels-with-the-gender-binary-volume-1-e-book)
 
-### [Transfigure](http://transfigureproject.com/brook-shelley/)
+### Another sadly offline project, this once was an essay I read at LA Pride: [Transfigure](http://transfigureproject.com/brook-shelley/)
 
 ### [Lean Out](http://www.orbooks.com/catalog/lean-out/)
 
