@@ -55,7 +55,6 @@ p, article li {
 }
 
 pre {
-text-wrap: pretty;
 font-family: var(--font-head);
 max-width: var(--spacing-maxwidth-para);
 border: none;
@@ -123,7 +122,6 @@ ul.flat {
 h1 {
   font-family: var(--font-head);
   text-transform: lowercase;
-  letter-spacing: 0.1rem;
   font-size: 1rem;
   -webkit-font-smoothing: antialiased;
 }
@@ -132,7 +130,6 @@ h2 {
   font-family: var(--font-head);
   text-transform: lowercase;
   font-size: 0.8rem;
-  letter-spacing: 0.1rem;
   margin-top: 2rem;
   -webkit-font-smoothing: antialiased;
 }
@@ -171,7 +168,6 @@ li.archive {
 .baseline pre .newsletter pre {
   border: none;
   background: #333;
-  word-break: break-all;
   max-width: var(--spacing-maxwidth-para);
 }
 
@@ -189,7 +185,6 @@ li.archive {
       padding: 1vw 5vw 5vw;
   }
   body>header>div:first-child {
-      top: 6px;
       align-self: flex-start;
   }
   body>header a.logo {
@@ -228,7 +223,6 @@ time {
   font-family: var(--font-head);
   font-size: var(--font-small);
   text-transform: lowercase;
-  letter-spacing: 0.03em;
   color:#eeef9;
   font-weight:200;
 }
@@ -284,7 +278,6 @@ ul.taglist {
   font-family: var(--font-head);
   font-size: var(--font-small);
   text-transform: lowercase;
-  letter-spacing: 0.03em;
 }
 
 ul.taglist li {
