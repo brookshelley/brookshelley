@@ -1,7 +1,7 @@
 ---
 type: posts
 title: "XTEINK X4 Review"
-description:
+description: rated stink/stink
 tags: 
 - books
 - tech
