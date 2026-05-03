@@ -8,7 +8,7 @@
 			{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
 			{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
 			{{ range $paginator.Pages }}
-			<article> 
+			<article>
 				<div>
 					<time>
 						{{ dateFormat "02 Jan" .Date }}
@@ -23,8 +23,15 @@
 			</article>
 			{{ end }}
 			<article>
-				<a href="https://www.brookshelley.com/posts/"><h3>more</h3></a>
+			    <div>
+					<a href="https://www.brookshelley.com/posts/"><h3>more</h3></a>
+			    </div>
+			    <div>
+					<a href="https://brookshelley.com/tags/newsletter/"><h3>newsletter</h3></a>
+			    </div>
 			</article>
+
+
 		</main>
 </body>
 </html>
