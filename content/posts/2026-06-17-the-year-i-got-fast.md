@@ -1,6 +1,6 @@
 ---
-type: post
-title: The Year I Got (Sorta) Fast
+type: posts
+title: "The Year I Got (Sorta) Fast"
 description: Riding bikes 2018-2026
 tags: 
   - bikes
